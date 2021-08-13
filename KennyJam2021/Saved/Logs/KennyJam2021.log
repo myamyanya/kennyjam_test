@@ -1355,3 +1355,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.13-08.27.03:474][671]LogFileHelpers: Saving map 'MainMap' took 0.038
 [2021.08.13-08.27.03:494][671]AssetCheck: New page: Asset Save: MainMap
 [2021.08.13-08.27.03:494][671]LogContentValidation: Display: Validating World /Game/Test/MainMap.MainMap
+[2021.08.13-08.30.23:951][950]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-08.30.23:959][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-08.30.23:959][950]PIE: New page: PIE session: MainMap (Aug 14, 2021, 12:30:23 AM)
+[2021.08.13-08.30.23:991][950]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.13-08.30.23:993][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2021.08.13-08.30.23:994][950]LogAIModule: Creating AISystem for world MainMap
+[2021.08.13-08.30.23:994][950]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2021.08.13-08.30.23:994][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.003003s)
+[2021.08.13-08.30.24:002][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.08.13-08.30.24:005][950]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-08.30.24:005][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-08.30.24:005][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-08.30.24:006][950]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-08.30.24:006][950]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-08.30.24:015][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-08.30.24:015][950]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-08.30.24:034][950]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.13-08.30.24:034][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-08.30.24:034][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-08.30.24:034][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-08.30.24:035][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-08.30.24:035][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-08.30.24:035][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-08.30.24:054][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-08.30.24:054][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-08.30.24:054][950]LogInit: FAudioDevice initialized.
+[2021.08.13-08.30.24:055][950]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2021.08.13-08.30.24:068][950]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.13-08.30.24:070][950]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2021.08.13-16.30.24
+[2021.08.13-08.30.24:070][950]LogWorld: Bringing up level for play took: 0.000776
+[2021.08.13-08.30.24:070][950]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.08.13-08.30.24:073][950]PIE: Server logged in
+[2021.08.13-08.30.24:075][950]PIE: Play in editor total start time 0.118 seconds.
+[2021.08.13-08.30.33:724][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-08.30.33:724][507]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.13-08.30.33:724][507]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.30.33:725][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.30.33:734][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-08.30.33:750][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.30.33:757][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-08.30.33:757][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-08.30.33:758][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-08.30.33:781][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-08.30.33:783][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.13-08.30.33:813][508]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.08.13-08.33.42:271][239]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.13-08.33.42:290][239]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.13-08.34.02:063][425]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.13-08.34.02:075][425]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (中文(简体) - 百度输入法).
+[2021.08.13-08.34.06:810][703]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2021.08.13-08.34.06:810][703]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.13-08.48.48:810][920]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.13-08.48.48:835][920]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.13-08.48.52:847][151]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.13-08.48.52:847][151]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.13-08.48.54:494][250]LogContentBrowser: Attempting asset rename: NewFolder -> Kitchen
+[2021.08.13-08.48.54:494][250]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.13-08.49.12:017][505]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\mug.fbx)
+[2021.08.13-08.49.12:035][505]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\mug.fbx
+[2021.08.13-08.49.12:046][505]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.13-08.49.14:259][505]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.13-08.49.14:448][505]LogStaticMesh: Building static mesh mug...
+[2021.08.13-08.49.14:464][505]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Kitchen/mug.mug
+[2021.08.13-08.49.14:471][505]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.13-08.49.15:895][584]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-08.49.15:902][584]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-08.49.16:966][644]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/mug.mug
+[2021.08.13-08.49.57:233][955]LogRenderer: Reallocating scene render targets to support 988x704 Format 10 NumSamples 1 (Frame:2362).
+[2021.08.13-08.50.59:839][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.13-08.50.59:844][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test/MainMap' took 0.012
+[2021.08.13-08.50.59:959][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Kitchen/mug] ([1] browsable assets)...
+[2021.08.13-08.50.59:972][541]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Kitchen/mug.mug]
+[2021.08.13-08.50.59:972][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Kitchen/mug]
+[2021.08.13-08.50.59:986][541]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mug_Auto284902EF543BA582913F0F9A66EECDF06.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Kitchen/mug_Auto2.uasset'
+[2021.08.13-08.50.59:987][541]LogFileHelpers: Auto-saving content packages took 0.143
+[2021.08.13-08.52.11:485][896]LogSlate: Window 'mug' being destroyed
+[2021.08.13-08.52.11:493][896]LogSlate: Window 'mug' being destroyed
+[2021.08.13-08.52.11:532][896]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.52.11:533][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.52.51:836][236]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\panStew.fbx)
+[2021.08.13-08.52.51:859][236]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\panStew.fbx
+[2021.08.13-08.52.51:877][236]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.13-08.52.52:978][236]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.13-08.52.53:009][236]LogStaticMesh: Building static mesh panStew...
+[2021.08.13-08.52.53:051][236]LogStaticMesh: Built static mesh [0.04s] /Game/Test/Geometry/Mesh/Kitchen/panStew.panStew
+[2021.08.13-08.52.53:061][236]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.13-08.52.54:917][338]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-08.52.54:926][338]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-08.52.55:756][380]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/panStew.panStew
+[2021.08.13-08.53.03:999][844]LogSlate: Window 'panStew' being destroyed
+[2021.08.13-08.53.04:008][844]LogSlate: Window 'panStew' being destroyed
+[2021.08.13-08.53.04:010][844]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.53.04:011][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.53.08:561][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.13-08.53.10:010][111]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.13-08.53.10:100][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.13-08.53.28:374][401]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\potStew.fbx)
+[2021.08.13-08.53.28:397][401]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\potStew.fbx
+[2021.08.13-08.53.28:417][401]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.13-08.53.31:652][401]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.13-08.53.31:682][401]LogStaticMesh: Building static mesh potStew...
+[2021.08.13-08.53.31:721][401]LogStaticMesh: Built static mesh [0.04s] /Game/Test/Geometry/Mesh/Kitchen/potStew.potStew
+[2021.08.13-08.53.31:732][401]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.13-08.53.31:963][401]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\potStewLid.fbx)
+[2021.08.13-08.53.32:012][401]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\potStewLid.fbx
+[2021.08.13-08.53.32:025][401]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.13-08.53.32:028][401]LogStaticMesh: Building static mesh potStewLid...
+[2021.08.13-08.53.32:054][401]LogStaticMesh: Built static mesh [0.03s] /Game/Test/Geometry/Mesh/Kitchen/potStewLid.potStewLid
+[2021.08.13-08.53.32:062][401]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.13-08.53.32:074][401]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\pot.fbx)
+[2021.08.13-08.53.32:095][401]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\pot.fbx
+[2021.08.13-08.53.32:110][401]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.13-08.53.32:115][401]LogStaticMesh: Building static mesh pot...
+[2021.08.13-08.53.32:139][401]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Kitchen/pot.pot
+[2021.08.13-08.53.32:148][401]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.13-08.53.32:160][401]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\potLid.fbx)
+[2021.08.13-08.53.32:180][401]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\potLid.fbx
+[2021.08.13-08.53.32:193][401]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.13-08.53.32:196][401]LogStaticMesh: Building static mesh potLid...
+[2021.08.13-08.53.32:220][401]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Kitchen/potLid.potLid
+[2021.08.13-08.53.32:229][401]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.13-08.53.33:637][483]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-08.53.33:644][483]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-08.53.37:358][689]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potStew.potStew
+[2021.08.13-08.53.50:120][413]LogSlate: Window 'potStew' being destroyed
+[2021.08.13-08.53.50:130][413]LogSlate: Window 'potStew' being destroyed
+[2021.08.13-08.53.50:131][413]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.53.50:131][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.53.51:205][470]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potStewLid.potStewLid
+[2021.08.13-08.53.55:739][708]LogSlate: Window 'potStewLid' being destroyed
+[2021.08.13-08.53.55:755][708]LogSlate: Window 'potStewLid' being destroyed
+[2021.08.13-08.53.55:792][708]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.53.55:792][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.53.59:776][931]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potLid.potLid
+[2021.08.13-08.54.02:986][ 96]LogSlate: Window 'potLid' being destroyed
+[2021.08.13-08.54.02:997][ 96]LogSlate: Window 'potLid' being destroyed
+[2021.08.13-08.54.03:000][ 96]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.54.03:001][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.54.05:749][251]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potStewLid.potStewLid
+[2021.08.13-08.54.08:565][388]LogSlate: Window 'potStewLid' being destroyed
+[2021.08.13-08.54.08:575][388]LogSlate: Window 'potStewLid' being destroyed
+[2021.08.13-08.54.08:612][388]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.54.08:612][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-08.54.09:368][424]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potStew.potStew
+[2021.08.13-08.54.13:043][608]LogSlate: Window 'potStew' being destroyed
+[2021.08.13-08.54.13:052][608]LogSlate: Window 'potStew' being destroyed
+[2021.08.13-08.54.13:054][608]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-08.54.13:054][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-09.00.19:715][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.13-09.00.20:706][953]LogSlate: Window 'Save Content' being destroyed
+[2021.08.13-09.00.20:747][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/Kitchen/mug" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/mug.uasset" SILENT=true
+[2021.08.13-09.00.20:769][953]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mug8BABDE4B4A71B1CF758F7EA326A6A204.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/mug.uasset'
+[2021.08.13-09.00.20:783][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/Kitchen/pot" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/pot.uasset" SILENT=true
+[2021.08.13-09.00.20:798][953]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/pot0AA9EADF450D6B59882EF48E1BBA5F04.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/pot.uasset'
+[2021.08.13-09.00.20:810][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/Kitchen/potLid" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/potLid.uasset" SILENT=true
+[2021.08.13-09.00.20:826][953]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/potLidAB2AA96A4805C0B10E24D4A26A098C31.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/potLid.uasset'
+[2021.08.13-09.00.20:843][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/Kitchen/potStew" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/potStew.uasset" SILENT=true
+[2021.08.13-09.00.20:863][953]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/potStewA0610B174D00ED78C5C674A2EAFD4B76.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/potStew.uasset'
+[2021.08.13-09.00.20:897][953]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/potStewLid76B3C2B04D358AD43FE3B2A0E94B69D9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Kitchen/potStewLid.uasset'
+[2021.08.13-09.00.20:911][953]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.13-09.00.20:911][953]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potLid.potLid
+[2021.08.13-09.00.20:912][953]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/mug.mug
+[2021.08.13-09.00.20:912][953]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/pot.pot
+[2021.08.13-09.00.20:912][953]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potStewLid.potStewLid
+[2021.08.13-09.00.20:912][953]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/potStew.potStew
