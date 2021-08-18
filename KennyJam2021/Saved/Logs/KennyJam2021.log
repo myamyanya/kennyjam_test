@@ -659,3 +659,978 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.18-07.15.21:490][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
 [2021.08.18-07.15.21:495][  0]SourceControl: Source control is disabled
 [2021.08.18-07.15.22:016][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.18-07.28.44:395][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.08.18-07.28.47:679][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.08.18-07.28.47:768][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.18-07.28.47:778][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Test/Geometry/Mesh/FoodKit/bowlSoup
+/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cerealYellow_6_rough
+/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough
+/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_brownExtraLite_6_rough
+/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_brownCream_6_rough
+[2021.08.18-07.28.47:796][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.18-07.28.47:797][  0]LogUnrealEdMisc: Loading editor; pre map load, took 823.109
+[2021.08.18-07.28.47:799][  0]Cmd: MAP LOAD FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.18-07.28.47:799][  0]LightingResults: New page: Lighting Build
+[2021.08.18-07.28.47:802][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.28.47:802][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-07.28.47:802][  0]MapCheck: New page: Map Check
+[2021.08.18-07.28.47:802][  0]LightingResults: New page: Lighting Build
+[2021.08.18-07.28.47:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.08.18-07.28.47:944][  0]LogBlueprint: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KennyJam2021\Content\SideScrollerBP\Blueprints\SideScrollerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.08.18-07.28.48:202][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2021.08.18-07.28.48:203][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.08.18-07.28.48:212][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.18-07.28.48:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.18-07.28.48:224][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.18-07.28.48:224][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.08.18-07.28.48:224][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.425
+[2021.08.18-07.28.48:226][  0]LogUnrealEdMisc: Total Editor Startup Time, took 823.537
+[2021.08.18-07.28.48:308][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3628 classes and 872 folders.
+[2021.08.18-07.28.48:310][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.18-07.28.48:312][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.18-07.28.48:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-07.28.48:312][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.18-07.28.48:314][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.18-07.28.48:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.18-07.28.48:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.18-07.28.48:314][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.18-07.28.48:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.18-07.28.48:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.18-07.28.48:315][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-07.28.48:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-07.28.48:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.18-07.28.48:315][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.18-07.28.48:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.18-07.28.48:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.18-07.28.48:316][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.18-07.28.48:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.18-07.28.48:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.18-07.28.48:317][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.18-07.28.48:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.18-07.28.48:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.18-07.28.48:318][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.18-07.28.48:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.18-07.28.48:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.08.18-07.28.48:319][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.18-07.28.48:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.18-07.28.48:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.08.18-07.28.48:319][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.18-07.28.48:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.18-07.28.48:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.08.18-07.28.48:320][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.18-07.28.48:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.18-07.28.48:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.08.18-07.28.48:320][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.18-07.28.48:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.18-07.28.48:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.08.18-07.28.48:321][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-07.28.48:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-07.28.48:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.08.18-07.28.48:322][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.18-07.28.48:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.18-07.28.48:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.08.18-07.28.48:322][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.18-07.28.48:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.18-07.28.48:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.08.18-07.28.48:323][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.18-07.28.48:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-07.28.48:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.08.18-07.28.48:324][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.18-07.28.48:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.18-07.28.48:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.08.18-07.28.48:324][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.18-07.28.48:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.18-07.28.48:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.08.18-07.28.48:325][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-07.28.48:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-07.28.48:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.08.18-07.28.48:325][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-07.28.48:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-07.28.48:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.08.18-07.28.48:326][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.18-07.28.48:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.18-07.28.48:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.08.18-07.28.48:326][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.18-07.28.48:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.18-07.28.48:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.08.18-07.28.48:327][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.18-07.28.48:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.18-07.28.48:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.08.18-07.28.48:327][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.18-07.28.48:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.18-07.28.48:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.08.18-07.28.48:328][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.18-07.28.48:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.18-07.28.48:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.08.18-07.28.48:329][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.18-07.28.48:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.18-07.28.48:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.18-07.28.48:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.08.18-07.28.48:421][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.18-07.28.48:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-07.28.48:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-07.28.48:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-07.28.48:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.18-07.28.48:487][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.18-07.28.48:562][  0]LogSlate: The tab "GPULightmassSettings" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.08.18-07.28.48:586][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.18-07.28.48:586][  0]LogLoad: (Engine Initialization) Total time: 823.90 seconds
+[2021.08.18-07.28.48:586][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.18-07.28.48:586][  0]LogInit: First time updating LLM stats...
+[2021.08.18-07.28.48:654][  0]LogAssetRegistry: Asset discovery search completed in 816.7607 seconds
+[2021.08.18-07.28.48:656][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.18-07.28.48:721][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.18-07.28.48:727][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.18-07.28.48:728][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.18-07.28.48:741][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.18-07.28.48:848][  1]LogRenderer: Reallocating scene render targets to support 892x684 Format 10 NumSamples 1 (Frame:1).
+[2021.08.18-07.28.49:089][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.18-07.28.49:638][  6]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.18-07.28.51:996][ 91]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/bowlCereal.bowlCereal
+[2021.08.18-07.28.52:674][ 91]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/bowlSoup.bowlSoup
+[2021.08.18-07.29.20:520][290]LogHttp: Warning: 00000263F9331600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02A3A7BD-4C00-B653-6BA0-2D9157252F1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=71791aa847fe21339d5d0d9b9a011cfc%7C0fbb2dca129d4346b68f32d201ab1df0%7C85bdbeca-91d1-4862-9004-36c97bf99625&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.18-07.29.20:520][290]LogHttp: Warning: 00000263F9331600: request failed, libcurl error: 35 (SSL connect error)
+[2021.08.18-07.29.20:520][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2021.08.18-07.29.20:520][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 1 (TCP_NODELAY set)
+[2021.08.18-07.29.20:520][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890 (#0))
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 3 (allocate connect buffer!)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 5 (Proxy replied OK to CONNECT request)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 6 (CONNECT phase completed!)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 7 (ALPN, offering http/1.1)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 8 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 10 (CONNECT phase completed!)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 11 (CONNECT phase completed!)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 12 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: 00000263F9331600: libcurl info message cache 13 (Closing connection 0)
+[2021.08.18-07.29.20:521][290]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02A3A7BD-4C00-B653-6BA0-2D9157252F1C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=71791aa847fe21339d5d0d9b9a011cfc%7C0fbb2dca129d4346b68f32d201ab1df0%7C85bdbeca-91d1-4862-9004-36c97bf99625&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.18-07.29.22:349][364]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.18-07.29.25:563][501]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bowlSoup05EDCC424BE4195B3F224DA130DF6F2E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/bowlSoup.uasset'
+[2021.08.18-07.29.25:589][501]AssetCheck: New page: Asset Save: bowlSoup
+[2021.08.18-07.29.25:589][501]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/bowlSoup.bowlSoup
+[2021.08.18-07.29.33:072][718]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-07.29.40:599][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-07.29.41:488][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.18-07.29.41:497][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.18-07.29.41:999][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.18-07.29.41:999][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.18-07.29.42:008][129]TextureStreamingBuild: Display: Compiling optional shaders took 0.516 seconds.
+[2021.08.18-07.29.42:013][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.08.18-07.29.42:023][129]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_springOnionGreen_6_rough2A2314E84CF2EEA1302A3A9039215395.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset'
+[2021.08.18-07.29.42:057][129]AssetCheck: New page: Asset Save: _Inst_springOnionGreen_6_rough
+[2021.08.18-07.29.42:057][129]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-07.29.42:750][161]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bowlSoup3DEB45D9499FAE7BED9AD093A0D4ED52.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/bowlSoup.uasset'
+[2021.08.18-07.29.42:771][161]AssetCheck: New page: Asset Save: bowlSoup
+[2021.08.18-07.29.42:771][161]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/bowlSoup.bowlSoup
+[2021.08.18-07.29.49:616][510]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.29.49:616][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-07.35.52:202][ 37]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cabbage.cabbage
+[2021.08.18-07.35.53:593][ 84]LogRenderer: Reallocating scene render targets to support 892x696 Format 10 NumSamples 1 (Frame:18746).
+[2021.08.18-07.50.43:245][796]LogContentBrowser: Deferred new asset file creation: _Inst_springOnionGreen_6_rough1
+[2021.08.18-07.50.43:264][796]LogContentBrowser: Creating deferred item: _Inst_springOnionGreen_6_rough1
+[2021.08.18-07.50.59:645][354]LogContentBrowser: Attempting asset rename: _Inst_springOnionGreen_6_rough1 -> _Inst_green_6_rough
+[2021.08.18-07.50.59:646][354]LogContentBrowser: End creating deferred item _Inst_springOnionGreen_6_rough1
+[2021.08.18-07.51.38:906][682]LogContentBrowser: Attempting asset rename: _Inst_green_6_rough -> _Inst_green_6_rough
+[2021.08.18-07.51.46:240][971]LogContentBrowser: Attempting asset rename: _Inst_greenLite_6_rough1 -> _Inst_leafGreenLite_6_rough1
+[2021.08.18-07.51.46:397][971]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_leafGreenLite_6_rough1A67AA8F749A6C5BBB79637AC822F8256.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_leafGreenLite_6_rough1.uasset'
+[2021.08.18-07.51.46:456][971]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough1._Inst_greenLite_6_rough1'
+[2021.08.18-07.51.46:502][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.08.18-07.51.46:528][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.18-07.51.46:537][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.08.18-07.51.46:571][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/apple" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/apple.uasset" SILENT=true
+[2021.08.18-07.51.46:592][971]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/apple9E992D314F5379054DD475A251B8359E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/apple.uasset'
+[2021.08.18-07.51.46:652][971]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-07.51.46:652][971]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/apple.apple
+[2021.08.18-07.51.46:652][971]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_leafGreenLite_6_rough1._Inst_leafGreenLite_6_rough1
+[2021.08.18-07.52.08:006][739]LogContentBrowser: Attempting asset rename: _Inst_green_6_rough -> _Inst_greenMid_6_rough
+[2021.08.18-07.52.08:106][739]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenMid_6_rough8533BEBA4427BA48C1DA638F7F51AAAE.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset'
+[2021.08.18-07.52.08:172][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.18-07.52.08:192][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.18-07.52.08:199][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.18-07.52.08:232][739]AssetCheck: New page: Asset Save: _Inst_greenMid_6_rough
+[2021.08.18-07.52.08:232][739]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough
+[2021.08.18-07.52.10:234][810]LogContentBrowser: Deferred new asset file creation: _Inst_greenMid_6_rough1
+[2021.08.18-07.52.10:254][810]LogContentBrowser: Creating deferred item: _Inst_greenMid_6_rough1
+[2021.08.18-07.52.17:695][115]LogContentBrowser: Attempting asset rename: _Inst_greenMid_6_rough1 -> _Inst_greenLite_6_rough
+[2021.08.18-07.52.17:696][115]LogContentBrowser: End creating deferred item _Inst_greenMid_6_rough1
+[2021.08.18-07.52.48:982][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-07.52.48:984][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.010
+[2021.08.18-07.52.48:984][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough] ([1] browsable assets)...
+[2021.08.18-07.52.48:997][445]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough._Inst_greenLite_6_rough]
+[2021.08.18-07.52.48:997][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough]
+[2021.08.18-07.52.49:007][445]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenLite_6_rough_Auto1F88B49AD4DD612FE95C2669AEC25B3CF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough_Auto1.uasset'
+[2021.08.18-07.52.49:008][445]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.08.18-07.54.17:490][931]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-07.54.23:212][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.18-07.54.23:215][237]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.18-07.54.23:655][237]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.18-07.54.23:655][237]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.18-07.54.23:656][237]TextureStreamingBuild: Display: Compiling optional shaders took 0.441 seconds.
+[2021.08.18-07.54.23:665][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.18-07.54.23:675][237]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_springOnionGreen_6_roughE7A86118450627FD3646B7A9F639A08B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset'
+[2021.08.18-07.54.23:698][237]AssetCheck: New page: Asset Save: _Inst_springOnionGreen_6_rough
+[2021.08.18-07.54.23:698][237]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-07.54.24:143][253]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough
+[2021.08.18-07.54.27:303][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.18-07.54.27:304][402]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-07.54.27:310][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.08.18-07.54.27:321][402]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenMid_6_roughC06191994BFEB6437E2A6884B4D52D11.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset'
+[2021.08.18-07.54.27:339][402]AssetCheck: New page: Asset Save: _Inst_greenMid_6_rough
+[2021.08.18-07.54.27:339][402]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough
+[2021.08.18-07.54.43:593][149]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-07.54.44:580][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-07.54.44:581][198]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-07.54.44:588][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.08.18-07.54.44:597][198]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_springOnionGreen_6_rough75F796964DBB6EEA2A1B27BE2BDA40FD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset'
+[2021.08.18-07.54.44:615][198]AssetCheck: New page: Asset Save: _Inst_springOnionGreen_6_rough
+[2021.08.18-07.54.44:616][198]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-07.55.41:375][856]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-07.55.45:142][ 13]Cmd: TRANSACTION UNDO
+[2021.08.18-07.55.45:142][ 13]LogEditorTransaction: Undo StaticMesh: Material changed
+[2021.08.18-07.55.46:065][ 27]Cmd: TRANSACTION UNDO
+[2021.08.18-07.55.46:065][ 27]LogEditorTransaction: Undo StaticMesh: Material changed
+[2021.08.18-07.56.43:458][636]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/foodKit_v1.2/Models/FBX format/cauliflower.fbx]
+[2021.08.18-07.56.43:626][636]LogFbx: Loading FBX Scene from D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/foodKit_v1.2/Models/FBX format/cauliflower.fbx
+[2021.08.18-07.56.43:639][636]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-07.56.43:641][636]LogStaticMesh: Building static mesh cabbage...
+[2021.08.18-07.56.43:692][636]LogStaticMesh: Built static mesh [0.05s] /Engine/Transient.cabbage
+[2021.08.18-07.56.43:790][636]LogStaticMesh: Building static mesh cabbage...
+[2021.08.18-07.56.43:807][636]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/FoodKit/cabbage.cabbage
+[2021.08.18-07.56.43:820][636]LogEditorFactories: -- imported successfully
+[2021.08.18-07.56.43:824][636]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.18-07.56.56:271][208]LogContentBrowser: Deferred new asset file creation: cabbage1
+[2021.08.18-07.56.56:289][208]LogContentBrowser: Creating deferred item: cabbage1
+[2021.08.18-07.56.58:276][285]LogContentBrowser: Attempting asset rename: cabbage1 -> cauliflower
+[2021.08.18-07.56.58:281][285]LogContentBrowser: End creating deferred item cabbage1
+[2021.08.18-07.57.01:064][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.08.18-07.57.02:287][388]LogSlate: Window 'Save Content' being destroyed
+[2021.08.18-07.57.02:342][388]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenLite_6_roughB0C07E0F4A9A727513156F9E237E0F68.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough.uasset'
+[2021.08.18-07.57.02:362][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-07.57.02:363][388]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-07.57.02:369][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-07.57.02:380][388]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenMid_6_roughBD26196041BFE6FE1DAC6CA858821F86.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset'
+[2021.08.18-07.57.02:388][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.08.18-07.57.02:389][388]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-07.57.02:396][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-07.57.02:402][388]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_springOnionGreen_6_roughA5A29141416DD440ED6A03AC3C8B17B9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset'
+[2021.08.18-07.57.02:430][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/cabbage" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cabbage.uasset" SILENT=true
+[2021.08.18-07.57.02:448][388]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cabbage0E3AFD8B4A2F6EFE8BE54A9A267068A3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cabbage.uasset'
+[2021.08.18-07.57.02:481][388]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cauliflowerF855F6FF4F426F4F407494B647AF81FD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cauliflower.uasset'
+[2021.08.18-07.57.02:498][388]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-07.57.02:498][388]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cauliflower.cauliflower
+[2021.08.18-07.57.02:498][388]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough._Inst_greenLite_6_rough
+[2021.08.18-07.57.02:498][388]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough
+[2021.08.18-07.57.02:498][388]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-07.57.02:498][388]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cabbage.cabbage
+[2021.08.18-08.02.49:557][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.18-08.02.49:562][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.016
+[2021.08.18-08.02.49:563][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cabbage] ([2] browsable assets)...
+[2021.08.18-08.02.49:588][196]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cabbage.cabbage]
+[2021.08.18-08.02.49:601][196]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cabbage.cabbage]
+[2021.08.18-08.02.49:601][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cabbage]
+[2021.08.18-08.02.49:619][196]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cabbage_Auto23ED7280A4AB31A5A3D95A6BD9115417F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cabbage_Auto2.uasset'
+[2021.08.18-08.02.49:621][196]LogFileHelpers: Auto-saving content packages took 0.059
+[2021.08.18-08.32.49:142][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.33.25:797][ 16]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough._Inst_greenLite_6_rough
+[2021.08.18-08.33.32:351][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.18-08.33.32:357][341]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.33.32:366][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.18-08.33.32:380][341]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_springOnionGreen_6_rough42B47E5743134EB668C31FA02E65EA4D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset'
+[2021.08.18-08.33.32:410][341]AssetCheck: New page: Asset Save: _Inst_springOnionGreen_6_rough
+[2021.08.18-08.33.32:411][341]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-08.33.44:263][917]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.34.19:696][915]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.34.20:764][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-08.34.20:767][965]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.34.20:774][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-08.34.20:785][965]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenLite_6_roughE7B5178F4D31A011D670DD8B65B87977.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough.uasset'
+[2021.08.18-08.34.20:812][965]AssetCheck: New page: Asset Save: _Inst_greenLite_6_rough
+[2021.08.18-08.34.20:812][965]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough._Inst_greenLite_6_rough
+[2021.08.18-08.34.41:351][863]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cauliflower.cauliflower
+[2021.08.18-08.34.47:998][109]LogStaticMesh: Building static mesh cauliflower...
+[2021.08.18-08.34.48:057][109]LogStaticMesh: Built static mesh [0.06s] /Game/Test/Geometry/Mesh/FoodKit/cauliflower.cauliflower
+[2021.08.18-08.35.27:796][974]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cauliflower9BAC56A54CAC8E7FF913548E9C23E3D9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cauliflower.uasset'
+[2021.08.18-08.35.27:813][974]AssetCheck: New page: Asset Save: cauliflower
+[2021.08.18-08.35.27:813][974]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cauliflower.cauliflower
+[2021.08.18-08.35.30:929][ 89]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.35.30:930][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.35.37:227][298]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cake.cake
+[2021.08.18-08.35.41:299][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/cabbage" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cabbage.uasset" SILENT=true
+[2021.08.18-08.35.41:312][449]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cabbage455B51E64DC82B02717AAFA09576298A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cabbage.uasset'
+[2021.08.18-08.35.41:335][449]AssetCheck: New page: Asset Save: cabbage
+[2021.08.18-08.35.41:335][449]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cabbage.cabbage
+[2021.08.18-08.35.43:324][528]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.35.43:324][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.36.29:149][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.18-08.36.29:151][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.011
+[2021.08.18-08.36.29:152][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough] ([1] browsable assets)...
+[2021.08.18-08.36.29:165][850]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough]
+[2021.08.18-08.36.29:165][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough]
+[2021.08.18-08.36.29:173][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.18-08.36.29:174][850]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.36.29:180][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.18-08.36.29:190][850]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenMid_6_rough_Auto391EEFB234A2A564FA45F59AC97584B9E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough_Auto3.uasset'
+[2021.08.18-08.36.29:191][850]LogFileHelpers: Auto-saving content packages took 0.039
+[2021.08.18-08.39.10:223][413]LogSlate: Window 'cake' being destroyed
+[2021.08.18-08.39.24:842][ 12]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrown_7_rough._Inst_avocadoBrown_7_rough
+[2021.08.18-08.39.35:910][524]LogContentBrowser: Attempting asset rename: _Inst_avocadoBrown_7_rough -> _Inst_avocadoBrown_10_rough
+[2021.08.18-08.39.36:037][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.18-08.39.36:041][524]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.39.36:048][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.08.18-08.39.36:059][524]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_avocadoBrown_10_rough7DBFFACE4464B328CF43979A8B564984.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrown_10_rough.uasset'
+[2021.08.18-08.39.36:113][524]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrown_7_rough._Inst_avocadoBrown_7_rough'
+[2021.08.18-08.39.36:142][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.18-08.39.36:160][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.18-08.39.36:166][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.08.18-08.39.36:229][524]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/avocadoHalfA2CF290F4BC8E08E5BC8119748411FE6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/avocadoHalf.uasset'
+[2021.08.18-08.39.36:240][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/avocado" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/avocado.uasset" SILENT=true
+[2021.08.18-08.39.36:253][524]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/avocado6EA15C034FFA7B82C59F28B3FA0CEECA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/avocado.uasset'
+[2021.08.18-08.39.36:289][524]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-08.39.36:289][524]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/avocado.avocado
+[2021.08.18-08.39.36:289][524]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/avocadoHalf.avocadoHalf
+[2021.08.18-08.39.36:289][524]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrown_10_rough._Inst_avocadoBrown_10_rough
+[2021.08.18-08.39.40:870][702]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrownDark_7_rough._Inst_avocadoBrownDark_7_rough
+[2021.08.18-08.39.45:724][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.08.18-08.39.45:725][922]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.39.45:732][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.18-08.39.45:746][922]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_avocadoBrownDark_7_roughA3A8BA434AFD9ACB2DE8A69D10E7E0C4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrownDark_7_rough.uasset'
+[2021.08.18-08.39.45:764][922]AssetCheck: New page: Asset Save: _Inst_avocadoBrownDark_7_rough
+[2021.08.18-08.39.45:764][922]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrownDark_7_rough._Inst_avocadoBrownDark_7_rough
+[2021.08.18-08.39.52:000][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-08.39.52:002][210]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.39.52:010][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.18-08.39.52:021][210]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_avocadoBrownDark_7_rough79FDB2CF4224462159389EB673048DEA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrownDark_7_rough.uasset'
+[2021.08.18-08.39.52:038][210]AssetCheck: New page: Asset Save: _Inst_avocadoBrownDark_7_rough
+[2021.08.18-08.39.52:038][210]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrownDark_7_rough._Inst_avocadoBrownDark_7_rough
+[2021.08.18-08.40.02:047][776]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.40.03:031][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-08.40.03:033][824]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.40.03:040][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.18-08.40.03:052][824]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_avocadoBrown_10_rough16A2B6A94D2E698C5CAA8BA497E8CDC9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrown_10_rough.uasset'
+[2021.08.18-08.40.03:073][824]AssetCheck: New page: Asset Save: _Inst_avocadoBrown_10_rough
+[2021.08.18-08.40.03:073][824]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_avocadoBrown_10_rough._Inst_avocadoBrown_10_rough
+[2021.08.18-08.40.11:467][163]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.40.20:369][481]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/apple.apple
+[2021.08.18-08.40.27:837][736]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_appleRed_6_rough._Inst_appleRed_6_rough
+[2021.08.18-08.41.20:608][111]LogStaticMesh: Building static mesh apple...
+[2021.08.18-08.41.20:653][111]LogStaticMesh: Built static mesh [0.04s] /Game/Test/Geometry/Mesh/FoodKit/apple.apple
+[2021.08.18-08.41.22:396][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/apple" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/apple.uasset" SILENT=true
+[2021.08.18-08.41.22:414][179]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/appleB4420C32498CD2379F4704AC1F3AAF5F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/apple.uasset'
+[2021.08.18-08.41.22:431][179]AssetCheck: New page: Asset Save: apple
+[2021.08.18-08.41.22:431][179]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/apple.apple
+[2021.08.18-08.41.26:315][334]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.41.27:061][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.18-08.41.27:064][363]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.41.27:071][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-08.41.27:082][363]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_appleRed_6_rough1555669B41E93B3B03A589B8AAE3BB05.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_appleRed_6_rough.uasset'
+[2021.08.18-08.41.27:101][363]AssetCheck: New page: Asset Save: _Inst_appleRed_6_rough
+[2021.08.18-08.41.27:101][363]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_appleRed_6_rough._Inst_appleRed_6_rough
+[2021.08.18-08.41.29:003][449]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.41.29:003][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.41.30:301][497]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.41.30:302][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.41.31:098][532]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.41.31:098][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.41.33:161][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.18-08.41.33:971][610]LogSlate: Window 'Save Content' being destroyed
+[2021.08.18-08.41.34:024][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.18-08.41.34:025][610]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.41.34:031][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.18-08.41.34:036][610]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenMid_6_rough426ABDE04125D5712EE34D97BC162BEF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset'
+[2021.08.18-08.41.34:051][610]AssetCheck: New page: Asset Save: _Inst_greenMid_6_rough
+[2021.08.18-08.41.34:051][610]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough
+[2021.08.18-08.41.51:011][262]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough._Inst_strawberryRed_5_rough
+[2021.08.18-08.42.12:485][203]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.42.13:319][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.18-08.42.13:323][236]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.42.13:331][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-08.42.13:342][236]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_strawberryRed_5_roughC27D1D6E438B97F5FACE9DB91D62AAFC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough.uasset'
+[2021.08.18-08.42.13:366][236]AssetCheck: New page: Asset Save: _Inst_strawberryRed_5_rough
+[2021.08.18-08.42.13:366][236]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough._Inst_strawberryRed_5_rough
+[2021.08.18-08.42.30:509][521]LogContentBrowser: Deferred new asset file creation: _Inst_strawberryRed_5_rough1
+[2021.08.18-08.42.30:528][521]LogContentBrowser: Creating deferred item: _Inst_strawberryRed_5_rough1
+[2021.08.18-08.42.44:430][ 18]LogContentBrowser: Attempting asset rename: _Inst_strawberryRed_5_rough1 -> _Inst_strawberryYellow_6_rough
+[2021.08.18-08.42.44:431][ 18]LogContentBrowser: End creating deferred item _Inst_strawberryRed_5_rough1
+[2021.08.18-08.42.46:213][ 74]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough._Inst_strawberryYellow_6_rough
+[2021.08.18-08.43.01:273][650]LogContentBrowser: Attempting asset rename: _Inst_strawberryYellow_6_rough -> _Inst_strawberryYellow_6_rough
+[2021.08.18-08.43.05:165][810]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.45.02:940][782]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.45.03:695][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.18-08.45.03:700][811]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.45.03:706][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.18-08.45.03:717][811]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_strawberryYellow_6_rough175B6ECB4E7C0B6AB86A4C879D4CD46C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough.uasset'
+[2021.08.18-08.45.03:736][811]AssetCheck: New page: Asset Save: _Inst_strawberryYellow_6_rough
+[2021.08.18-08.45.03:736][811]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough._Inst_strawberryYellow_6_rough
+[2021.08.18-08.45.13:016][123]Cmd: TRANSACTION UNDO
+[2021.08.18-08.45.13:016][123]LogEditorTransaction: Undo StaticMesh: Material changed
+[2021.08.18-08.45.21:687][395]LogContentBrowser: Deferred new asset file creation: _Inst_brownMid_8_rough1
+[2021.08.18-08.45.21:706][395]LogContentBrowser: Creating deferred item: _Inst_brownMid_8_rough1
+[2021.08.18-08.45.59:357][828]LogContentBrowser: Attempting asset rename: _Inst_brownMid_8_rough1 -> _Inst_chocoBrownMid_8_rough
+[2021.08.18-08.45.59:358][828]LogContentBrowser: End creating deferred item _Inst_brownMid_8_rough1
+[2021.08.18-08.46.01:615][902]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_8_rough._Inst_chocoBrownMid_8_rough
+[2021.08.18-08.46.03:079][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.18-08.46.03:113][958]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.03:121][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.18-08.46.03:140][958]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.46.03:140][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.46.04:466][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.18-08.46.04:491][ 10]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.04:499][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.18-08.46.04:517][ 10]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.46.04:517][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.46.05:502][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.18-08.46.05:546][ 54]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.05:554][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.18-08.46.05:569][ 54]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.46.05:569][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.46.06:449][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.18-08.46.06:472][ 93]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.06:480][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.18-08.46.06:496][ 93]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.46.06:496][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.46.07:329][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.08.18-08.46.07:359][128]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.07:368][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.18-08.46.07:396][128]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.46.07:396][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.46.09:167][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.18-08.46.10:159][199]LogSlate: Window 'Save Content' being destroyed
+[2021.08.18-08.46.10:232][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.18-08.46.10:232][199]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.10:240][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.08.18-08.46.10:252][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownMid_8_rough157A92A2429E4EABC145CC834274CB21.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_8_rough.uasset'
+[2021.08.18-08.46.10:259][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenLite_6_rough02AFA0C14B2126B80E820BBC5684B2AF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough.uasset'
+[2021.08.18-08.46.10:267][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_greenMid_6_rough3DE410AD43D788A8FB7A619874843E2A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset'
+[2021.08.18-08.46.10:275][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_springOnionGreen_6_roughE6BE9B6B4B9CCF71F8B442BEDDA9042A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset'
+[2021.08.18-08.46.10:306][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_strawberryRed_5_rough2780C7204E0625B4008D2FB5E3AA2A5D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough.uasset'
+[2021.08.18-08.46.10:314][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_strawberryYellow_6_rough7BD276C249EF27BCC8B5A1A87F6CBA0A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough.uasset'
+[2021.08.18-08.46.10:328][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/cake" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cake.uasset" SILENT=true
+[2021.08.18-08.46.10:354][199]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cakeDE60BBD04A6753E12977BF810D846EC1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cake.uasset'
+[2021.08.18-08.46.10:366][199]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-08.46.10:366][199]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cake.cake
+[2021.08.18-08.46.10:366][199]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_8_rough._Inst_chocoBrownMid_8_rough
+[2021.08.18-08.46.10:366][199]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough._Inst_greenLite_6_rough
+[2021.08.18-08.46.10:366][199]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough._Inst_greenMid_6_rough
+[2021.08.18-08.46.10:367][199]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough._Inst_springOnionGreen_6_rough
+[2021.08.18-08.46.10:367][199]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough._Inst_strawberryRed_5_rough
+[2021.08.18-08.46.10:367][199]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough._Inst_strawberryYellow_6_rough
+[2021.08.18-08.46.27:723][ 32]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.46.32:452][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.18-08.46.32:455][237]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.46.32:464][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-08.46.32:477][237]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownMid_8_rough5DB2008841279083D555B6856629A9C0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_8_rough.uasset'
+[2021.08.18-08.46.32:502][237]AssetCheck: New page: Asset Save: _Inst_chocoBrownMid_8_rough
+[2021.08.18-08.46.32:502][237]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_8_rough._Inst_chocoBrownMid_8_rough
+[2021.08.18-08.46.36:288][375]LogStaticMesh: Building static mesh cake...
+[2021.08.18-08.46.36:357][375]LogStaticMesh: Built static mesh [0.07s] /Game/Test/Geometry/Mesh/FoodKit/cake.cake
+[2021.08.18-08.46.56:749][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-08.46.57:155][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/SideScrollerExampleMap7F0672E74DDF190632E3DDB440A7C5D9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.08.18-08.46.57:181][140]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.08.18-08.46.57:181][140]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.08.18-08.47.05:031][401]LogContentBrowser: Deferred new asset file creation: _Inst_milkWhite_6_rough1
+[2021.08.18-08.47.05:049][401]LogContentBrowser: Creating deferred item: _Inst_milkWhite_6_rough1
+[2021.08.18-08.47.21:457][120]LogContentBrowser: Attempting asset rename: _Inst_milkWhite_6_rough1 -> _Inst_creamPink_6_rough
+[2021.08.18-08.47.21:459][120]LogContentBrowser: End creating deferred item _Inst_milkWhite_6_rough1
+[2021.08.18-08.47.22:167][142]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_creamPink_6_rough._Inst_creamPink_6_rough
+[2021.08.18-08.48.27:326][935]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.48.57:012][966]LogContentBrowser: Deferred new asset file creation: _Inst_chocoBrownMid_8_rough1
+[2021.08.18-08.48.57:030][966]LogContentBrowser: Creating deferred item: _Inst_chocoBrownMid_8_rough1
+[2021.08.18-08.49.04:032][329]LogContentBrowser: Attempting asset rename: _Inst_chocoBrownMid_8_rough1 -> _Inst_chocoBrownLite_8_rough
+[2021.08.18-08.49.04:033][329]LogContentBrowser: End creating deferred item _Inst_chocoBrownMid_8_rough1
+[2021.08.18-08.49.05:344][369]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough._Inst_chocoBrownLite_8_rough
+[2021.08.18-08.49.21:193][154]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.49.22:326][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.08.18-08.49.22:331][195]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.49.22:339][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-08.49.22:350][195]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownLite_8_rough133D7C1E4A72977E691EA7AF9F560992.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough.uasset'
+[2021.08.18-08.49.22:372][195]AssetCheck: New page: Asset Save: _Inst_chocoBrownLite_8_rough
+[2021.08.18-08.49.22:372][195]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough._Inst_chocoBrownLite_8_rough
+[2021.08.18-08.49.45:572][224]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.49.46:249][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.18-08.49.46:253][252]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.49.46:260][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.18-08.49.46:272][252]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownLite_8_rough856927E94EC45EAD1F44DF866D4DF8B3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough.uasset'
+[2021.08.18-08.49.46:293][252]AssetCheck: New page: Asset Save: _Inst_chocoBrownLite_8_rough
+[2021.08.18-08.49.46:293][252]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough._Inst_chocoBrownLite_8_rough
+[2021.08.18-08.49.48:357][342]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.49.48:357][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.50.20:864][784]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.50.22:697][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.08.18-08.50.22:702][856]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.50.22:711][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.18-08.50.22:722][856]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_creamPink_6_roughA8A1001C4E9CE69E657D55B559581E1F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_creamPink_6_rough.uasset'
+[2021.08.18-08.50.22:750][856]AssetCheck: New page: Asset Save: _Inst_creamPink_6_rough
+[2021.08.18-08.50.22:750][856]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_creamPink_6_rough._Inst_creamPink_6_rough
+[2021.08.18-08.50.23:428][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/cake" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cake.uasset" SILENT=true
+[2021.08.18-08.50.23:460][883]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cakeBA496C7D4D8C3A98859F748882A91497.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cake.uasset'
+[2021.08.18-08.50.23:493][883]AssetCheck: New page: Asset Save: cake
+[2021.08.18-08.50.23:493][883]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cake.cake
+[2021.08.18-08.50.30:412][215]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough._Inst_strawberryYellow_6_rough
+[2021.08.18-08.52.54:246][705]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.53.35:864][624]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.53.46:866][120]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.53.49:183][199]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough._Inst_strawberryRed_5_rough
+[2021.08.18-08.54.17:303][503]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.54.19:477][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.08.18-08.54.19:486][598]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.54.19:494][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-08.54.19:506][598]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_strawberryRed_5_roughD81FD0434BD617296849C381694D8D87.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough.uasset'
+[2021.08.18-08.54.19:525][598]AssetCheck: New page: Asset Save: _Inst_strawberryRed_5_rough
+[2021.08.18-08.54.19:525][598]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryRed_5_rough._Inst_strawberryRed_5_rough
+[2021.08.18-08.54.34:195][966]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough._Inst_chocoBrownLite_8_rough
+[2021.08.18-08.54.55:690][871]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.54.56:461][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.18-08.54.56:465][899]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.54.56:473][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-08.54.56:484][899]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_strawberryYellow_6_rough896C471F40E6A79F31E03DB8381A4FE3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough.uasset'
+[2021.08.18-08.54.56:500][899]AssetCheck: New page: Asset Save: _Inst_strawberryYellow_6_rough
+[2021.08.18-08.54.56:500][899]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_strawberryYellow_6_rough._Inst_strawberryYellow_6_rough
+[2021.08.18-08.54.58:056][967]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.54.58:056][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.54.58:950][ 10]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.54.58:950][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.55.00:006][ 53]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.55.00:006][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.55.01:399][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.18-08.55.03:319][182]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.55.03:319][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.55.10:172][495]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.55.10:172][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.55.23:716][996]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/carrot.carrot
+[2021.08.18-08.56.41:290][727]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_carrotsOrange_6_rough._Inst_carrotsOrange_6_rough
+[2021.08.18-08.56.46:315][949]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-08.56.47:147][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.18-08.56.47:154][981]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-08.56.47:163][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.18-08.56.47:174][981]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_carrotsOrange_6_rough013810B24FDF4F732F5AE88C47213622.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_carrotsOrange_6_rough.uasset'
+[2021.08.18-08.56.47:192][981]AssetCheck: New page: Asset Save: _Inst_carrotsOrange_6_rough
+[2021.08.18-08.56.47:192][981]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_carrotsOrange_6_rough._Inst_carrotsOrange_6_rough
+[2021.08.18-08.56.48:097][ 22]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.56.48:097][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.57.07:680][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/carrot" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/carrot.uasset" SILENT=true
+[2021.08.18-08.57.07:697][792]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/carrot998693A24CCE8D9BA67AFE9BBC667B56.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/carrot.uasset'
+[2021.08.18-08.57.07:718][792]AssetCheck: New page: Asset Save: carrot
+[2021.08.18-08.57.07:718][792]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/carrot.carrot
+[2021.08.18-08.57.26:023][428]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/celeryStick.celeryStick
+[2021.08.18-08.57.29:403][547]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.57.29:403][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.57.30:510][590]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.57.30:510][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.57.31:592][638]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.57.31:593][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.57.49:848][ 96]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese.cheese
+[2021.08.18-08.57.52:983][227]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-08.57.52:983][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-08.58.08:453][641]LogContentBrowser: Deferred new asset file creation: _Inst_cerealYellow_6_rough1
+[2021.08.18-08.58.08:480][641]LogContentBrowser: Creating deferred item: _Inst_cerealYellow_6_rough1
+[2021.08.18-08.58.23:416][314]LogContentBrowser: Attempting asset rename: _Inst_cerealYellow_6_rough1 -> _Inst_cheeseYellow_5_rough
+[2021.08.18-08.58.23:419][314]LogContentBrowser: End creating deferred item _Inst_cerealYellow_6_rough1
+[2021.08.18-08.58.24:970][376]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellow_5_rough._Inst_cheeseYellow_5_rough
+[2021.08.18-08.58.58:122][939]LogActorFactory: Actor Factory created cheese
+[2021.08.18-08.58.58:524][961]LogActorFactory: Actor Factory created cheese
+[2021.08.18-08.58.59:323][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cheese)
+[2021.08.18-08.58.59:687][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cheese)
+[2021.08.18-08.59.00:491][ 67]Cmd: TRANSACTION UNDO
+[2021.08.18-08.59.00:491][ 67]LogEditorTransaction: Undo Create Actors
+[2021.08.18-08.59.14:925][474]LogContentBrowser: Attempting asset rename: cheese -> wholeCheese
+[2021.08.18-08.59.14:968][474]LogMetaData: Removing '/Game/Test/Geometry/Mesh/FoodKit/wholeCheese.wholeCheese' ref from Metadata '/Game/Test/Geometry/Mesh/FoodKit/cheese.PackageMetaData'
+[2021.08.18-08.59.15:039][474]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wholeCheese2BF3CD6E4227CC1EA8A8B2A5210E3708.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/wholeCheese.uasset'
+[2021.08.18-08.59.15:100][474]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/cheese.cheese'
+[2021.08.18-08.59.15:147][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.18-08.59.15:174][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.18-08.59.15:182][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.18-08.59.15:221][474]AssetCheck: New page: Asset Save: wholeCheese
+[2021.08.18-08.59.15:221][474]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/wholeCheese.wholeCheese
+[2021.08.18-08.59.18:575][573]Cmd: TRANSACTION UNDO
+[2021.08.18-08.59.18:575][573]LogEditorTransaction: Undo StaticMesh: Material changed
+[2021.08.18-08.59.20:173][631]Cmd: TRANSACTION UNDO
+[2021.08.18-08.59.20:173][631]LogEditorTransaction: Undo StaticMesh: Material changed
+[2021.08.18-08.59.22:915][750]Cmd: TRANSACTION REDO
+[2021.08.18-08.59.22:915][750]LogEditorTransaction: Redo StaticMesh: Material changed
+[2021.08.18-08.59.23:756][777]Cmd: TRANSACTION REDO
+[2021.08.18-08.59.23:757][777]LogEditorTransaction: Redo StaticMesh: Material changed
+[2021.08.18-08.59.23:775][777]LogStaticMesh: Building static mesh carrot...
+[2021.08.18-08.59.23:838][777]LogStaticMesh: Built static mesh [0.06s] /Game/Test/Geometry/Mesh/FoodKit/carrot.carrot
+[2021.08.18-08.59.24:523][794]Cmd: TRANSACTION REDO
+[2021.08.18-08.59.24:523][794]LogEditorTransaction: Redo Create Actors
+[2021.08.18-08.59.26:204][852]Cmd: TRANSACTION UNDO
+[2021.08.18-08.59.26:204][852]LogEditorTransaction: Undo Create Actors
+[2021.08.18-08.59.34:446][278]LogContentBrowser: Attempting asset rename: wholeCheese -> cheeseWhole
+[2021.08.18-08.59.34:478][278]LogMetaData: Removing '/Game/Test/Geometry/Mesh/FoodKit/cheeseWhole.cheeseWhole' ref from Metadata '/Game/Test/Geometry/Mesh/FoodKit/wholeCheese.PackageMetaData'
+[2021.08.18-08.59.34:545][278]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheeseWhole8D054B8142ABC90CC00BD396F880761A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheeseWhole.uasset'
+[2021.08.18-08.59.34:595][278]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/wholeCheese.wholeCheese'
+[2021.08.18-08.59.34:637][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.18-08.59.34:656][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.18-08.59.34:664][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.18-08.59.34:697][278]AssetCheck: New page: Asset Save: cheeseWhole
+[2021.08.18-08.59.34:697][278]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheeseWhole.cheeseWhole
+[2021.08.18-08.59.39:850][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\cheese.fbx)
+[2021.08.18-08.59.39:891][373]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\foodKit_v1.2\Models\FBX format\cheese.fbx
+[2021.08.18-08.59.39:924][373]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-08.59.47:133][373]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.18-08.59.47:190][373]LogStaticMesh: Building static mesh cheese_wedge...
+[2021.08.18-08.59.47:196][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge.cheese_wedge
+[2021.08.18-08.59.47:207][373]LogStaticMesh: Building static mesh cheese_wedge1...
+[2021.08.18-08.59.47:213][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1.cheese_wedge1
+[2021.08.18-08.59.47:223][373]LogStaticMesh: Building static mesh cheese_wedge2...
+[2021.08.18-08.59.47:230][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2.cheese_wedge2
+[2021.08.18-08.59.47:240][373]LogStaticMesh: Building static mesh cheese_wedge3...
+[2021.08.18-08.59.47:244][373]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3.cheese_wedge3
+[2021.08.18-08.59.47:257][373]LogStaticMesh: Building static mesh cheese_wedge4...
+[2021.08.18-08.59.47:265][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4.cheese_wedge4
+[2021.08.18-08.59.47:276][373]LogStaticMesh: Building static mesh cheese_wedge5...
+[2021.08.18-08.59.47:283][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5.cheese_wedge5
+[2021.08.18-08.59.47:292][373]LogStaticMesh: Building static mesh cheese_wedge6...
+[2021.08.18-08.59.47:298][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6.cheese_wedge6
+[2021.08.18-08.59.47:308][373]LogStaticMesh: Building static mesh cheese_wedge7...
+[2021.08.18-08.59.47:313][373]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7.cheese_wedge7
+[2021.08.18-08.59.47:324][373]LogStaticMesh: Building static mesh cheese_wedge8...
+[2021.08.18-08.59.47:329][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8.cheese_wedge8
+[2021.08.18-08.59.47:339][373]LogStaticMesh: Building static mesh cheese_wedge9...
+[2021.08.18-08.59.47:344][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9.cheese_wedge9
+[2021.08.18-08.59.47:353][373]LogStaticMesh: Building static mesh cheese_wedge10...
+[2021.08.18-08.59.47:358][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10.cheese_wedge10
+[2021.08.18-08.59.47:368][373]LogStaticMesh: Building static mesh cheese_wedge11...
+[2021.08.18-08.59.47:374][373]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11.cheese_wedge11
+[2021.08.18-08.59.47:458][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge1' 
+[2021.08.18-08.59.47:458][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge2' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge3' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge4' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge5' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge6' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge7' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge8' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge9' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge10' 
+[2021.08.18-08.59.47:459][373]FBXImport: FBX File Loading: Found name clash, node 'wedge' was renamed to 'wedge11' 
+[2021.08.18-08.59.47:459][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.18-08.59.47:678][373]LogSlate: Took 0.012115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.18-08.59.49:304][449]LogSlate: Window 'Message Log' being destroyed
+[2021.08.18-08.59.49:312][449]LogSlate: Window 'Message Log' being destroyed
+[2021.08.18-08.59.57:173][760]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge.cheese_wedge
+[2021.08.18-09.01.01:248][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.08.18-09.01.01:448][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/SideScrollerExampleMap_Auto4C98E24DC4A252079CB3C0EBE4696DE0A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto4.umap'
+[2021.08.18-09.01.01:450][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.214
+[2021.08.18-09.01.01:450][712]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.214
+[2021.08.18-09.01.01:451][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough] ([1] browsable assets)...
+[2021.08.18-09.01.01:466][712]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough._Inst_chocoBrownLite_8_rough]
+[2021.08.18-09.01.01:466][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough]
+[2021.08.18-09.01.01:476][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.18-09.01.01:476][712]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.01.01:484][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-09.01.01:497][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownLite_8_rough_Aut8E5C5C83445705CC62648498751A7E83.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough_Auto4.uasset'
+[2021.08.18-09.01.01:499][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/carrot] ([1] browsable assets)...
+[2021.08.18-09.01.01:513][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/carrot.carrot]
+[2021.08.18-09.01.01:513][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/carrot]
+[2021.08.18-09.01.01:533][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/carrot_Auto4B12B5C574C8A49D6B74D3A93ED9983CF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/carrot_Auto4.uasset'
+[2021.08.18-09.01.01:534][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellow_5_rough] ([1] browsable assets)...
+[2021.08.18-09.01.01:550][712]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellow_5_rough._Inst_cheeseYellow_5_rough]
+[2021.08.18-09.01.01:550][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellow_5_rough]
+[2021.08.18-09.01.01:559][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.18-09.01.01:560][712]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.01.01:567][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.18-09.01.01:582][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_cheeseYellow_5_rough_Auto4F61445B142D7C8B4A06414B3E492A2B4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellow_5_rough_Auto4.uasset'
+[2021.08.18-09.01.01:583][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11] ([1] browsable assets)...
+[2021.08.18-09.01.01:596][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11.cheese_wedge11]
+[2021.08.18-09.01.01:596][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11]
+[2021.08.18-09.01.01:615][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge11_Auto4ACBFF13F4732944670A6FD9CE27ADE53.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11_Auto4.uasset'
+[2021.08.18-09.01.01:616][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge] ([1] browsable assets)...
+[2021.08.18-09.01.01:629][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge.cheese_wedge]
+[2021.08.18-09.01.01:629][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge]
+[2021.08.18-09.01.01:649][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge_Auto4BFAD09B54775FE61BC856D90E384387E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge_Auto4.uasset'
+[2021.08.18-09.01.01:650][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1] ([1] browsable assets)...
+[2021.08.18-09.01.01:664][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1.cheese_wedge1]
+[2021.08.18-09.01.01:664][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1]
+[2021.08.18-09.01.01:683][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge1_Auto41F45F3AD43701CB9FADD18871DD7E6D8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1_Auto4.uasset'
+[2021.08.18-09.01.01:684][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2] ([1] browsable assets)...
+[2021.08.18-09.01.01:699][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2.cheese_wedge2]
+[2021.08.18-09.01.01:699][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2]
+[2021.08.18-09.01.01:720][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge2_Auto4354FD16C41FAFFC4EA669FA01A6FB7AA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2_Auto4.uasset'
+[2021.08.18-09.01.01:721][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3] ([1] browsable assets)...
+[2021.08.18-09.01.01:734][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3.cheese_wedge3]
+[2021.08.18-09.01.01:734][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3]
+[2021.08.18-09.01.01:753][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge3_Auto4B4272AA34EC639D01725809677B3610B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3_Auto4.uasset'
+[2021.08.18-09.01.01:754][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4] ([1] browsable assets)...
+[2021.08.18-09.01.01:767][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4.cheese_wedge4]
+[2021.08.18-09.01.01:767][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4]
+[2021.08.18-09.01.01:787][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge4_Auto490D713AE478DFD61FD9102ACEEFB0C49.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4_Auto4.uasset'
+[2021.08.18-09.01.01:789][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5] ([1] browsable assets)...
+[2021.08.18-09.01.01:803][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5.cheese_wedge5]
+[2021.08.18-09.01.01:803][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5]
+[2021.08.18-09.01.01:820][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge5_Auto42CFA34F84C99FE9E34C7DE84814E514E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5_Auto4.uasset'
+[2021.08.18-09.01.01:822][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6] ([1] browsable assets)...
+[2021.08.18-09.01.01:837][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6.cheese_wedge6]
+[2021.08.18-09.01.01:837][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6]
+[2021.08.18-09.01.01:856][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge6_Auto41EC8210D43293E59BFC07D97F64830D1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6_Auto4.uasset'
+[2021.08.18-09.01.01:857][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7] ([1] browsable assets)...
+[2021.08.18-09.01.01:869][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7.cheese_wedge7]
+[2021.08.18-09.01.01:869][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7]
+[2021.08.18-09.01.01:887][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge7_Auto4A3EB5A2E4BCA5E835CD9768C283F8E11.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7_Auto4.uasset'
+[2021.08.18-09.01.01:888][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8] ([1] browsable assets)...
+[2021.08.18-09.01.01:902][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8.cheese_wedge8]
+[2021.08.18-09.01.01:902][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8]
+[2021.08.18-09.01.01:920][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge8_Auto4EB94742843FFF8E794C52AAFE0614CE4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8_Auto4.uasset'
+[2021.08.18-09.01.01:921][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9] ([1] browsable assets)...
+[2021.08.18-09.01.01:936][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9.cheese_wedge9]
+[2021.08.18-09.01.01:936][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9]
+[2021.08.18-09.01.01:954][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge9_Auto4F73B3BD2407BE6CCE72FC2A8CBD681C7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9_Auto4.uasset'
+[2021.08.18-09.01.01:955][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10] ([1] browsable assets)...
+[2021.08.18-09.01.01:970][712]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10.cheese_wedge10]
+[2021.08.18-09.01.01:970][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10]
+[2021.08.18-09.01.01:989][712]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge10_Auto469AFE85C47C0721A66945EB26C82AAE9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10_Auto4.uasset'
+[2021.08.18-09.01.02:251][712]LogFileHelpers: Auto-saving content packages took 0.801
+[2021.08.18-09.04.19:871][245]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-09.04.29:855][679]LogContentBrowser: Deferred new asset file creation: _Inst_cheeseYellow_5_rough1
+[2021.08.18-09.04.29:875][679]LogContentBrowser: Creating deferred item: _Inst_cheeseYellow_5_rough1
+[2021.08.18-09.04.37:213][  1]LogContentBrowser: Attempting asset rename: _Inst_cheeseYellow_5_rough1 -> _Inst_cheeseYellowLite_5_rough
+[2021.08.18-09.04.37:214][  1]LogContentBrowser: End creating deferred item _Inst_cheeseYellow_5_rough1
+[2021.08.18-09.04.58:804][448]LogContentBrowser: Attempting asset rename: _Inst_cheeseYellow_5_rough -> _Inst_cheeseYellowMid_5_rough
+[2021.08.18-09.04.58:923][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.18-09.04.58:930][448]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.04.58:937][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.18-09.04.58:947][448]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_cheeseYellowMid_5_rough2EBCE24D4DB16035E7588A8B165CCF8B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowMid_5_rough.uasset'
+[2021.08.18-09.04.59:024][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.18-09.04.59:040][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.18-09.04.59:047][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.08.18-09.04.59:077][448]AssetCheck: New page: Asset Save: _Inst_cheeseYellowMid_5_rough
+[2021.08.18-09.04.59:077][448]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowMid_5_rough._Inst_cheeseYellowMid_5_rough
+[2021.08.18-09.05.04:122][616]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowLite_5_rough._Inst_cheeseYellowLite_5_rough
+[2021.08.18-09.05.24:880][614]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-09.05.37:536][178]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-09.05.38:660][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.18-09.05.38:664][230]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.05.38:671][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.18-09.05.38:682][230]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_cheeseYellowMid_5_roughDF7537694C1C7865D7F9F68FECFFEB57.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowMid_5_rough.uasset'
+[2021.08.18-09.05.38:703][230]AssetCheck: New page: Asset Save: _Inst_cheeseYellowMid_5_rough
+[2021.08.18-09.05.38:703][230]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowMid_5_rough._Inst_cheeseYellowMid_5_rough
+[2021.08.18-09.06.09:486][658]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedgeC6B7F56540C6E356F20AF38EE9B6C71D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge.uasset'
+[2021.08.18-09.06.09:508][658]AssetCheck: New page: Asset Save: cheese_wedge
+[2021.08.18-09.06.09:508][658]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge.cheese_wedge
+[2021.08.18-09.06.26:143][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.18-09.06.27:025][229]LogSlate: Window 'Save Content' being destroyed
+[2021.08.18-09.06.27:102][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-09.06.27:102][229]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.06.27:110][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-09.06.27:122][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_cheeseYellowLite_5_rough5A6931EF48D95C8E4C4487A7BC7FE732.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowLite_5_rough.uasset'
+[2021.08.18-09.06.27:132][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.08.18-09.06.27:133][229]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.06.27:142][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-09.06.27:148][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownLite_8_rough3744FFAA4517DB2F53FB5F9B0A4B4832.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough.uasset'
+[2021.08.18-09.06.27:150][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Geometry/Mesh/FoodKit/carrot" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/carrot.uasset" SILENT=true
+[2021.08.18-09.06.27:163][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/carrot6CAAAE7548C909C9DA5E828F7E5EABFB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/carrot.uasset'
+[2021.08.18-09.06.27:181][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge174931C89451664AD6B73BDB74F44145D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge1.uasset'
+[2021.08.18-09.06.27:196][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge10DEC290FF401A8A4AF0330CAF064BFD89.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge10.uasset'
+[2021.08.18-09.06.27:214][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge1139CB6EB4455063D44C0923A15014B330.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge11.uasset'
+[2021.08.18-09.06.27:228][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge29881BDB34FDC5C7FA916F698FB893FFB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge2.uasset'
+[2021.08.18-09.06.27:243][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge35462DAED4E62AC3479D148AB085D214B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge3.uasset'
+[2021.08.18-09.06.27:255][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge4B798AEC74E86C404E92DA48ADBF488A6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge4.uasset'
+[2021.08.18-09.06.27:269][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge5B1BABF0F4E1EE4015107EA83520DA3F3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge5.uasset'
+[2021.08.18-09.06.27:285][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge6ECC24F30438B7754F7D3B4BCAC13AB5B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge6.uasset'
+[2021.08.18-09.06.27:301][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge7725CC5974E949DFBDB3A0AAF0634DEF6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge7.uasset'
+[2021.08.18-09.06.27:313][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge807B6A47F4265D48C227F938227A8A0E1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge8.uasset'
+[2021.08.18-09.06.27:326][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge9C69C6663431683F9949DEFA1FB6F250F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge9.uasset'
+[2021.08.18-09.06.27:335][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.18-09.06.27:421][229]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/SideScrollerExampleMap68DCDEA64CFECC578135C281C486B3D1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.08.18-09.06.27:429][229]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.102
+[2021.08.18-09.06.27:449][229]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1.cheese_wedge1
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownLite_8_rough._Inst_chocoBrownLite_8_rough
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11.cheese_wedge11
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10.cheese_wedge10
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9.cheese_wedge9
+[2021.08.18-09.06.27:449][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8.cheese_wedge8
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7.cheese_wedge7
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6.cheese_wedge6
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5.cheese_wedge5
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4.cheese_wedge4
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3.cheese_wedge3
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2.cheese_wedge2
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_cheeseYellowLite_5_rough._Inst_cheeseYellowLite_5_rough
+[2021.08.18-09.06.27:450][229]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/carrot.carrot
+[2021.08.18-09.08.02:774][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.18-09.08.03:727][296]LogSlate: Window 'Save Content' being destroyed
+[2021.08.18-09.08.03:816][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge12D68399C40279B8E37263CB1CB0A2793.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge1.uasset'
+[2021.08.18-09.08.03:852][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge10F40CE1CE482DDB07ED0667A94701B4D4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge10.uasset'
+[2021.08.18-09.08.03:885][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge11FCA2C917447DB3DB9809449ED88FB407.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge11.uasset'
+[2021.08.18-09.08.03:919][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge289D5671949CC7E958C239A9C1A09954D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge2.uasset'
+[2021.08.18-09.08.03:954][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge3DA54D2F24CBDF591C15011BF18F84FFC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge3.uasset'
+[2021.08.18-09.08.03:991][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge45069CE5D4CB5F73DDB6C56B89D20DE73.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge4.uasset'
+[2021.08.18-09.08.04:023][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge5A92D638F4C472F29CD6379864F0C5C35.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge5.uasset'
+[2021.08.18-09.08.04:055][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge600B1143A41E6ECA787644D9DC9BB73F6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge6.uasset'
+[2021.08.18-09.08.04:088][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge760CA0E374BFEA4E5A0019F9517EBA9F4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge7.uasset'
+[2021.08.18-09.08.04:121][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge821118B00431A29BD54CAD48FE99832FA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge8.uasset'
+[2021.08.18-09.08.04:154][296]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheese_wedge9197BD9BF469D158A2F10A89799AA95F4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheese_wedge9.uasset'
+[2021.08.18-09.08.04:175][296]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge1.cheese_wedge1
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge11.cheese_wedge11
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge10.cheese_wedge10
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge9.cheese_wedge9
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge8.cheese_wedge8
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge7.cheese_wedge7
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge6.cheese_wedge6
+[2021.08.18-09.08.04:175][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge5.cheese_wedge5
+[2021.08.18-09.08.04:176][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge4.cheese_wedge4
+[2021.08.18-09.08.04:176][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge3.cheese_wedge3
+[2021.08.18-09.08.04:176][296]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2.cheese_wedge2
+[2021.08.18-09.08.05:832][351]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheese_wedge2.cheese_wedge2
+[2021.08.18-09.08.11:329][570]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.08.11:330][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.08.15:153][697]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheeseCut.cheeseCut
+[2021.08.18-09.08.48:544][ 44]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheeseCutEE1E442247CF25A96E58C19ED9599324.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheeseCut.uasset'
+[2021.08.18-09.08.48:563][ 44]AssetCheck: New page: Asset Save: cheeseCut
+[2021.08.18-09.08.48:564][ 44]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheeseCut.cheeseCut
+[2021.08.18-09.08.59:380][373]LogStaticMesh: Building static mesh cheeseWhole...
+[2021.08.18-09.08.59:435][373]LogStaticMesh: Built static mesh [0.06s] /Game/Test/Geometry/Mesh/FoodKit/cheeseWhole.cheeseWhole
+[2021.08.18-09.09.01:159][437]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheeseWhole66C3E7174E52FDE293319880DF53F8A3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheeseWhole.uasset'
+[2021.08.18-09.09.01:176][437]AssetCheck: New page: Asset Save: cheeseWhole
+[2021.08.18-09.09.01:176][437]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheeseWhole.cheeseWhole
+[2021.08.18-09.09.04:442][544]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cheeseWhole4C7016EA46BC429850681997787EFFB8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/cheeseWhole.uasset'
+[2021.08.18-09.09.04:472][544]AssetCheck: New page: Asset Save: cheeseWhole
+[2021.08.18-09.09.04:472][544]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/cheeseWhole.cheeseWhole
+[2021.08.18-09.09.07:486][653]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.09.07:486][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.09.14:539][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.18-09.09.58:803][384]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolate.chocolate
+[2021.08.18-09.10.13:979][882]LogContentBrowser: Deferred new asset file creation: _Inst_chocoBrownMid_8_rough1
+[2021.08.18-09.10.13:999][882]LogContentBrowser: Creating deferred item: _Inst_chocoBrownMid_8_rough1
+[2021.08.18-09.10.20:274][126]LogContentBrowser: Attempting asset rename: _Inst_chocoBrownMid_8_rough1 -> _Inst_chocoBrownMid_2_rough
+[2021.08.18-09.10.20:275][126]LogContentBrowser: End creating deferred item _Inst_chocoBrownMid_8_rough1
+[2021.08.18-09.10.27:325][355]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_2_rough._Inst_chocoBrownMid_2_rough
+[2021.08.18-09.10.43:222][956]LogContentBrowser: Attempting asset rename: _Inst_chocoBrownMid_2_rough -> _Inst_chocoBrownMid_3_rough
+[2021.08.18-09.10.43:333][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.18-09.10.43:337][956]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.10.43:347][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.08.18-09.10.43:358][956]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownMid_3_rough769A6F034A4E019106FBAB9D23B28FAD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_3_rough.uasset'
+[2021.08.18-09.10.43:459][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.18-09.10.43:482][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.18-09.10.43:491][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.18-09.10.43:531][956]AssetCheck: New page: Asset Save: _Inst_chocoBrownMid_3_rough
+[2021.08.18-09.10.43:531][956]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_3_rough._Inst_chocoBrownMid_3_rough
+[2021.08.18-09.11.01:133][721]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-09.11.01:836][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.18-09.11.01:838][747]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.11.01:847][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-09.11.01:858][747]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoBrownMid_3_rough99E1F0FC443D34BC46FA66B651645872.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_3_rough.uasset'
+[2021.08.18-09.11.01:877][747]AssetCheck: New page: Asset Save: _Inst_chocoBrownMid_3_rough
+[2021.08.18-09.11.01:877][747]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_3_rough._Inst_chocoBrownMid_3_rough
+[2021.08.18-09.11.04:986][883]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.11.04:986][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.11.21:051][413]LogContentBrowser: Attempting asset rename: _Inst_chocoBrownMid_3_rough -> _Inst_milkChocoBrown_3_rough
+[2021.08.18-09.11.21:163][413]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_milkChocoBrown_3_rough96ED82B941A8C3633A8C24BD373FF603.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_3_rough.uasset'
+[2021.08.18-09.11.21:223][413]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoBrownMid_3_rough._Inst_chocoBrownMid_3_rough'
+[2021.08.18-09.11.21:265][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.08.18-09.11.21:286][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.18-09.11.21:294][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.18-09.11.21:324][413]AssetCheck: New page: Asset Save: _Inst_milkChocoBrown_3_rough
+[2021.08.18-09.11.21:324][413]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_3_rough._Inst_milkChocoBrown_3_rough
+[2021.08.18-09.11.34:274][812]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_3_rough._Inst_milkChocoBrown_3_rough
+[2021.08.18-09.11.39:022][985]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.11.39:022][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.11.48:216][350]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolate.chocolate
+[2021.08.18-09.12.02:213][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.18-09.12.02:249][920]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.12.02:258][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.18-09.12.02:280][920]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.12.02:280][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.12.03:720][982]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.12.03:721][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.12.04:694][ 20]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.12.04:694][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.12.05:571][ 61]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.12.05:571][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.12.06:379][ 99]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-09.12.06:379][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-09.12.14:458][428]LogContentBrowser: Attempting asset rename: _Inst_milkChocoBrown_3_rough -> _Inst_milkChocoBrown_3_rough
+[2021.08.18-09.12.18:275][562]LogContentBrowser: Attempting asset rename: _Inst_milkChocoBrown_3_rough -> _Inst_milkChocoBrown_4_rough
+[2021.08.18-09.12.18:377][562]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_milkChocoBrown_4_roughD851F8544C6F545E6EAA4EA36093EBC1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_4_rough.uasset'
+[2021.08.18-09.12.18:435][562]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_3_rough._Inst_milkChocoBrown_3_rough'
+[2021.08.18-09.12.18:481][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.08.18-09.12.18:502][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.18-09.12.18:509][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.18-09.12.18:538][562]AssetCheck: New page: Asset Save: _Inst_milkChocoBrown_4_rough
+[2021.08.18-09.12.18:538][562]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_4_rough._Inst_milkChocoBrown_4_rough
+[2021.08.18-09.12.20:497][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.18-09.12.22:109][630]LogSlate: Window 'Save Content' being destroyed
+[2021.08.18-09.12.22:199][630]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chocolateCD8CC38F42A24E46C2E7AA9CF0089053.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/chocolate.uasset'
+[2021.08.18-09.12.22:215][630]AssetCheck: New page: Asset Save: chocolate
+[2021.08.18-09.12.22:215][630]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolate.chocolate
+[2021.08.18-09.12.32:192][980]LogContentBrowser: Attempting asset rename: chocolate -> chocolateMilk
+[2021.08.18-09.12.32:251][980]LogMetaData: Removing '/Game/Test/Geometry/Mesh/FoodKit/chocolateMilk.chocolateMilk' ref from Metadata '/Game/Test/Geometry/Mesh/FoodKit/chocolate.PackageMetaData'
+[2021.08.18-09.12.32:311][980]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chocolateMilk7CC6700B4F74B7FA01A232B2BB64FAE8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/chocolateMilk.uasset'
+[2021.08.18-09.12.32:363][980]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/chocolate.chocolate'
+[2021.08.18-09.12.32:390][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.18-09.12.32:409][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.18-09.12.32:417][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.08.18-09.12.32:446][980]AssetCheck: New page: Asset Save: chocolateMilk
+[2021.08.18-09.12.32:446][980]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolateMilk.chocolateMilk
+[2021.08.18-09.12.33:630][ 27]LogContentBrowser: Deferred new asset file creation: chocolateMilk1
+[2021.08.18-09.12.33:649][ 27]LogContentBrowser: Creating deferred item: chocolateMilk1
+[2021.08.18-09.12.37:257][161]LogContentBrowser: Attempting asset rename: chocolateMilk1 -> chocolateDark
+[2021.08.18-09.12.37:261][161]LogStaticMesh: Building static mesh chocolateDark...
+[2021.08.18-09.12.37:328][161]LogStaticMesh: Built static mesh [0.07s] /Game/Test/Geometry/Mesh/FoodKit/chocolateDark.chocolateDark
+[2021.08.18-09.12.37:338][161]LogContentBrowser: End creating deferred item chocolateMilk1
+[2021.08.18-09.12.42:982][362]LogContentBrowser: Deferred new asset file creation: _Inst_milkChocoBrown_4_rough1
+[2021.08.18-09.12.43:000][362]LogContentBrowser: Creating deferred item: _Inst_milkChocoBrown_4_rough1
+[2021.08.18-09.12.50:405][644]LogContentBrowser: Attempting asset rename: _Inst_milkChocoBrown_4_rough1 -> _Inst_darkChocoBrown_4_rough
+[2021.08.18-09.12.50:406][644]LogContentBrowser: End creating deferred item _Inst_milkChocoBrown_4_rough1
+[2021.08.18-09.13.05:537][160]LogContentBrowser: Attempting asset rename: _Inst_milkChocoBrown_4_rough -> _Inst_chocoMilkBrown_4_rough
+[2021.08.18-09.13.05:662][160]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoMilkBrown_4_rough8F0805DC4454C4DFD32D35A4FD736D95.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoMilkBrown_4_rough.uasset'
+[2021.08.18-09.13.05:715][160]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_milkChocoBrown_4_rough._Inst_milkChocoBrown_4_rough'
+[2021.08.18-09.13.05:744][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.18-09.13.05:765][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.18-09.13.05:773][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.18-09.13.05:821][160]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chocolateMilk8B52B67947454F5D94462082C9DF6779.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/chocolateMilk.uasset'
+[2021.08.18-09.13.05:860][160]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.18-09.13.05:860][160]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoMilkBrown_4_rough._Inst_chocoMilkBrown_4_rough
+[2021.08.18-09.13.05:860][160]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolateMilk.chocolateMilk
+[2021.08.18-09.13.21:157][725]LogContentBrowser: Attempting asset rename: _Inst_darkChocoBrown_4_rough -> _Inst_chocoDarkBrown_4_rough
+[2021.08.18-09.13.21:273][725]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoDarkBrown_4_rough110ECB29434EB901DA2C0BAE6C305CC2.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoDarkBrown_4_rough.uasset'
+[2021.08.18-09.13.21:352][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-09.13.21:372][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.18-09.13.21:379][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-09.13.21:411][725]AssetCheck: New page: Asset Save: _Inst_chocoDarkBrown_4_rough
+[2021.08.18-09.13.21:411][725]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoDarkBrown_4_rough._Inst_chocoDarkBrown_4_rough
+[2021.08.18-09.13.23:252][787]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoDarkBrown_4_rough._Inst_chocoDarkBrown_4_rough
+[2021.08.18-09.13.33:709][236]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.18-09.13.35:467][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.18-09.13.35:470][311]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.18-09.13.35:478][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.18-09.13.35:491][311]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/_Inst_chocoDarkBrown_4_rough5246D47345FA29011F7BDA9168F7F5E9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoDarkBrown_4_rough.uasset'
+[2021.08.18-09.13.35:514][311]AssetCheck: New page: Asset Save: _Inst_chocoDarkBrown_4_rough
+[2021.08.18-09.13.35:514][311]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Test/Geometry/Mesh/FoodKit/_material/_Inst_chocoDarkBrown_4_rough._Inst_chocoDarkBrown_4_rough
+[2021.08.18-09.13.41:043][496]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolateDark.chocolateDark
+[2021.08.18-09.13.50:207][810]LogStaticMesh: Building static mesh chocolateDark...
+[2021.08.18-09.13.50:255][810]LogStaticMesh: Built static mesh [0.05s] /Game/Test/Geometry/Mesh/FoodKit/chocolateDark.chocolateDark
+[2021.08.18-09.14.00:440][276]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chocolateDark93BEED54459C9042FAE0E5804B6438CA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/FoodKit/chocolateDark.uasset'
+[2021.08.18-09.14.00:539][276]AssetCheck: New page: Asset Save: chocolateDark
+[2021.08.18-09.14.00:539][276]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolateDark.chocolateDark
+[2021.08.18-09.14.02:799][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.18-09.14.47:405][ 34]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/FoodKit/chocolateWrapper.chocolateWrapper
