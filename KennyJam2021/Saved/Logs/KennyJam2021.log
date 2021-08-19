@@ -1375,3 +1375,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-06.29.19:497][741]LogLinker: Warning: Failed to load '/Game/Test/Widget/DefaultUI': Can't find file.
 [2021.08.19-06.29.19:498][741]LogLinker: Warning: Failed to load '/Game/Test/Widget/DefaultUI': Can't find file.
 [2021.08.19-06.29.19:498][741]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Widget/DefaultUI.DefaultUI'
+[2021.08.19-08.41.05:290][503]LogSlate: Window 'bag' being destroyed
+[2021.08.19-08.41.05:297][503]LogSlate: Window 'bag' being destroyed
+[2021.08.19-08.41.05:312][503]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.41.05:313][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
