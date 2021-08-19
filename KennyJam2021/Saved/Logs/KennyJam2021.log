@@ -799,3 +799,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-13.42.02:149][  1]LogRenderer: Reallocating scene render targets to support 892x684 Format 10 NumSamples 1 (Frame:1).
 [2021.08.19-13.42.02:279][  1]LogAssetRegistry: Asset discovery search completed in 7.8043 seconds
 [2021.08.19-13.42.02:282][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.08.19-13.42.40:914][364]LogLinker: Warning: Failed to load '/Game/Test/Geometry/Mesh/Kitchen/gingerBreadCutter': Can't find file.
+[2021.08.19-13.42.40:914][364]LogLinker: Warning: Failed to load '/Game/Test/Geometry/Mesh/Kitchen/gingerBreadCutter': Can't find file.
+[2021.08.19-13.42.40:914][364]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/Kitchen/gingerBreadCutter.gingerBreadCutter'
+[2021.08.19-13.42.41:259][365]LogLinker: Warning: Failed to load '/Game/Test/Geometry/Mesh/Kitchen/utensilFork': Can't find file.
+[2021.08.19-13.42.41:259][365]LogLinker: Warning: Failed to load '/Game/Test/Geometry/Mesh/Kitchen/utensilFork': Can't find file.
+[2021.08.19-13.42.41:259][365]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/Kitchen/utensilFork.utensilFork'
