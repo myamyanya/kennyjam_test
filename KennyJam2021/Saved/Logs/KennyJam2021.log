@@ -1384,3 +1384,470 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-08.43.25:123][439]LogSlate: Window 'bag' being destroyed
 [2021.08.19-08.43.25:127][439]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2021.08.19-08.43.25:127][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.06.05:700][538]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.19-09.06.05:713][538]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.19-09.06.17:343][234]LogContentBrowser: Attempting asset rename: NewFolder -> UI_Elements
+[2021.08.19-09.06.17:344][234]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.19-09.06.37:812][120]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.19-09.06.37:830][120]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.19-09.06.39:601][227]LogContentBrowser: Attempting asset rename: NewFolder -> button
+[2021.08.19-09.06.39:601][227]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.19-09.06.50:816][856]LogTexture: Display: Building textures: Button_hover (BGRA8, 190X49)
+[2021.08.19-09.06.50:817][856]LogTexture: Display: Building textures: Button_normal (BGRA8, 190X49)
+[2021.08.19-09.06.50:817][856]LogTexture: Display: Building textures: Button_release (BGRA8, 190X49)
+[2021.08.19-09.06.56:869][166]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Button_hover3B9DE9F647CDC345D1B1BEB45D51BB53.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/button/Button_hover.uasset'
+[2021.08.19-09.06.56:876][166]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Button_normalD1BD9730461D23D63F91078140A0E4CD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/button/Button_normal.uasset'
+[2021.08.19-09.06.56:882][166]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Button_releaseC20D89164D94FB5DC1ABDFA077ADA893.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/button/Button_release.uasset'
+[2021.08.19-09.06.56:947][166]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Widget/Button_hover.Button_hover'
+[2021.08.19-09.06.56:947][166]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Widget/Button_normal.Button_normal'
+[2021.08.19-09.06.56:948][166]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Widget/Button_release.Button_release'
+[2021.08.19-09.06.56:978][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.08.19-09.06.56:998][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.19-09.06.57:004][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.19-09.06.57:023][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.19-09.06.57:029][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.08.19-09.06.57:064][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-09.06.57:351][166]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/MainMenu496AE84B4C4DB725BFD42083E6DF3E58.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-09.06.57:416][166]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.19-09.06.57:416][166]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/button/Button_hover.Button_hover
+[2021.08.19-09.06.57:416][166]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/button/Button_normal.Button_normal
+[2021.08.19-09.06.57:416][166]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/button/Button_release.Button_release
+[2021.08.19-09.06.57:416][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-09.07.03:615][527]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.19-09.07.03:638][527]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.19-09.07.06:643][708]LogContentBrowser: Attempting asset rename: NewFolder -> icon
+[2021.08.19-09.07.06:643][708]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.19-09.07.15:988][236]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.19-09.07.16:003][236]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.19-09.07.18:637][394]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.19-09.07.18:668][394]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (中文(简体) - 百度输入法).
+[2021.08.19-09.07.22:494][609]LogContentBrowser: Attempting asset rename: NewFolder -> dialog
+[2021.08.19-09.07.22:494][609]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.19-09.07.23:959][696]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.19-09.07.23:959][696]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.19-09.18.14:709][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\fightPlus.png)
+[2021.08.19-09.18.14:773][422]LogTexture: Display: Building textures: fightPlus (AutoDXT, 100X100)
+[2021.08.19-09.18.14:812][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\key.png)
+[2021.08.19-09.18.14:813][422]LogTexture: Display: Building textures: key (AutoDXT, 100X100)
+[2021.08.19-09.18.14:815][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\mouse.png)
+[2021.08.19-09.18.14:817][422]LogTexture: Display: Building textures: mouse (AutoDXT, 100X100)
+[2021.08.19-09.18.14:819][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\mouseLeft.png)
+[2021.08.19-09.18.14:821][422]LogTexture: Display: Building textures: mouseLeft (AutoDXT, 100X100)
+[2021.08.19-09.18.14:824][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\mouseMiddle.png)
+[2021.08.19-09.18.14:825][422]LogTexture: Display: Building textures: mouseMiddle (AutoDXT, 100X100)
+[2021.08.19-09.18.14:828][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\mouseRight.png)
+[2021.08.19-09.18.14:831][422]LogTexture: Display: Building textures: mouseRight (AutoDXT, 100X100)
+[2021.08.19-09.18.14:833][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\pointer.png)
+[2021.08.19-09.18.14:835][422]LogTexture: Display: Building textures: pointer (AutoDXT, 100X100)
+[2021.08.19-09.18.14:837][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\toolPencil.png)
+[2021.08.19-09.18.14:839][422]LogTexture: Display: Building textures: toolPencil (AutoDXT, 100X100)
+[2021.08.19-09.18.14:841][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\upload.png)
+[2021.08.19-09.18.14:843][422]LogTexture: Display: Building textures: upload (AutoDXT, 100X100)
+[2021.08.19-09.18.14:845][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\userRobot.png)
+[2021.08.19-09.18.14:846][422]LogTexture: Display: Building textures: userRobot (AutoDXT, 100X100)
+[2021.08.19-09.18.14:849][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\coin.png)
+[2021.08.19-09.18.14:851][422]LogTexture: Display: Building textures: coin (AutoDXT, 100X100)
+[2021.08.19-09.18.14:853][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\cursor.png)
+[2021.08.19-09.18.14:854][422]LogTexture: Display: Building textures: cursor (AutoDXT, 100X100)
+[2021.08.19-09.18.14:857][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\diamond.png)
+[2021.08.19-09.18.14:859][422]LogTexture: Display: Building textures: diamond (AutoDXT, 100X100)
+[2021.08.19-09.18.14:862][422]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons-expansion\PNG\White\2x\download.png)
+[2021.08.19-09.18.14:864][422]LogTexture: Display: Building textures: download (AutoDXT, 100X100)
+[2021.08.19-09.18.55:977][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.08.19-09.18.55:980][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.011
+[2021.08.19-09.18.55:982][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/fightPlus] ([1] browsable assets)...
+[2021.08.19-09.18.55:984][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/fightPlus.fightPlus]
+[2021.08.19-09.18.55:985][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/fightPlus]
+[2021.08.19-09.18.55:988][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/fightPlus_Auto1EE9C73CF47AD1707701735936D9FF3A3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/fightPlus_Auto1.uasset'
+[2021.08.19-09.18.55:989][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/key] ([1] browsable assets)...
+[2021.08.19-09.18.55:992][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/key.key]
+[2021.08.19-09.18.55:992][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/key]
+[2021.08.19-09.18.55:995][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/key_Auto17B1251FA4EB56161A3DB9E824E188863.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/key_Auto1.uasset'
+[2021.08.19-09.18.55:997][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/mouse] ([1] browsable assets)...
+[2021.08.19-09.18.55:999][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/mouse.mouse]
+[2021.08.19-09.18.55:999][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/mouse]
+[2021.08.19-09.18.56:002][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouse_Auto1037452324776C637424547A097315538.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/mouse_Auto1.uasset'
+[2021.08.19-09.18.56:004][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/mouseLeft] ([1] browsable assets)...
+[2021.08.19-09.18.56:006][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/mouseLeft.mouseLeft]
+[2021.08.19-09.18.56:006][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/mouseLeft]
+[2021.08.19-09.18.56:009][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouseLeft_Auto104F557CD497C3A59FEDD83AAFAEF927B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/mouseLeft_Auto1.uasset'
+[2021.08.19-09.18.56:010][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/mouseMiddle] ([1] browsable assets)...
+[2021.08.19-09.18.56:013][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/mouseMiddle.mouseMiddle]
+[2021.08.19-09.18.56:013][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/mouseMiddle]
+[2021.08.19-09.18.56:016][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouseMiddle_Auto1D4ABEFCE486CE6D58559D985AACC9E93.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/mouseMiddle_Auto1.uasset'
+[2021.08.19-09.18.56:017][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/mouseRight] ([1] browsable assets)...
+[2021.08.19-09.18.56:019][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/mouseRight.mouseRight]
+[2021.08.19-09.18.56:020][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/mouseRight]
+[2021.08.19-09.18.56:023][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouseRight_Auto1267D8B5C4401F7B8ABB80A96E140ED50.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/mouseRight_Auto1.uasset'
+[2021.08.19-09.18.56:024][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/pointer] ([1] browsable assets)...
+[2021.08.19-09.18.56:027][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/pointer.pointer]
+[2021.08.19-09.18.56:027][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/pointer]
+[2021.08.19-09.18.56:030][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/pointer_Auto1DF84830F4E3A7717A27A6F995EC70F72.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/pointer_Auto1.uasset'
+[2021.08.19-09.18.56:031][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/toolPencil] ([1] browsable assets)...
+[2021.08.19-09.18.56:033][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/toolPencil.toolPencil]
+[2021.08.19-09.18.56:033][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/toolPencil]
+[2021.08.19-09.18.56:036][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/toolPencil_Auto1E3AFC2A9424C195540018E8DC4AA277F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/toolPencil_Auto1.uasset'
+[2021.08.19-09.18.56:037][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/upload] ([1] browsable assets)...
+[2021.08.19-09.18.56:039][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/upload.upload]
+[2021.08.19-09.18.56:039][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/upload]
+[2021.08.19-09.18.56:042][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/upload_Auto128CDCE3247ED233A33FE768AD2E87204.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/upload_Auto1.uasset'
+[2021.08.19-09.18.56:044][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/userRobot] ([1] browsable assets)...
+[2021.08.19-09.18.56:045][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/userRobot.userRobot]
+[2021.08.19-09.18.56:045][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/userRobot]
+[2021.08.19-09.18.56:049][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/userRobot_Auto1FEB374534378EA137C01B598B8497CD6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/userRobot_Auto1.uasset'
+[2021.08.19-09.18.56:050][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/coin] ([1] browsable assets)...
+[2021.08.19-09.18.56:053][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/coin.coin]
+[2021.08.19-09.18.56:053][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/coin]
+[2021.08.19-09.18.56:056][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/coin_Auto15E148E274231DD586B10D78DB1C5A596.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/coin_Auto1.uasset'
+[2021.08.19-09.18.56:057][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/cursor] ([1] browsable assets)...
+[2021.08.19-09.18.56:059][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/cursor.cursor]
+[2021.08.19-09.18.56:059][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/cursor]
+[2021.08.19-09.18.56:062][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cursor_Auto130C24B804C0135278FDCA58C105121BC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/cursor_Auto1.uasset'
+[2021.08.19-09.18.56:063][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/diamond] ([1] browsable assets)...
+[2021.08.19-09.18.56:065][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/diamond.diamond]
+[2021.08.19-09.18.56:065][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/diamond]
+[2021.08.19-09.18.56:069][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/diamond_Auto1D9F48B0145292B8615BBE68B238B6F45.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/diamond_Auto1.uasset'
+[2021.08.19-09.18.56:070][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Widget/UI_Elements/icon/download] ([1] browsable assets)...
+[2021.08.19-09.18.56:072][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Test/Widget/UI_Elements/icon/download.download]
+[2021.08.19-09.18.56:072][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/UI_Elements/icon/download]
+[2021.08.19-09.18.56:076][660]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/download_Auto1013603C146831115B34018BD87485DA4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/UI_Elements/icon/download_Auto1.uasset'
+[2021.08.19-09.18.56:077][660]LogFileHelpers: Auto-saving content packages took 0.098
+[2021.08.19-09.22.50:034][420]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/_UI/gameicons/PNG/White/2x/mouse.png]
+[2021.08.19-09.22.50:035][420]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/_UI/gameicons/PNG/White/2x/mouse.png)
+[2021.08.19-09.22.50:047][420]LogTexture: Display: Building textures: mouse (AutoDXT, 100X100)
+[2021.08.19-09.22.50:048][420]LogEditorFactories: -- imported successfully
+[2021.08.19-09.22.50:184][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\exit.png)
+[2021.08.19-09.22.50:185][420]LogTexture: Display: Building textures: exit (AutoDXT, 100X100)
+[2021.08.19-09.22.50:187][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\exitLeft.png)
+[2021.08.19-09.22.50:189][420]LogTexture: Display: Building textures: exitLeft (AutoDXT, 100X100)
+[2021.08.19-09.22.50:191][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\exitRight.png)
+[2021.08.19-09.22.50:192][420]LogTexture: Display: Building textures: exitRight (AutoDXT, 100X100)
+[2021.08.19-09.22.50:195][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\export.png)
+[2021.08.19-09.22.50:196][420]LogTexture: Display: Building textures: export (AutoDXT, 100X100)
+[2021.08.19-09.22.50:199][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\fastForward.png)
+[2021.08.19-09.22.50:202][420]LogTexture: Display: Building textures: fastForward (AutoDXT, 100X100)
+[2021.08.19-09.22.50:204][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\gear.png)
+[2021.08.19-09.22.50:205][420]LogTexture: Display: Building textures: gear (AutoDXT, 100X100)
+[2021.08.19-09.22.50:208][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\home.png)
+[2021.08.19-09.22.50:210][420]LogTexture: Display: Building textures: home (AutoDXT, 100X100)
+[2021.08.19-09.22.50:212][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\import.png)
+[2021.08.19-09.22.50:213][420]LogTexture: Display: Building textures: import (AutoDXT, 100X100)
+[2021.08.19-09.22.50:216][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\information.png)
+[2021.08.19-09.22.50:218][420]LogTexture: Display: Building textures: information (AutoDXT, 100X100)
+[2021.08.19-09.22.50:220][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\larger.png)
+[2021.08.19-09.22.50:221][420]LogTexture: Display: Building textures: larger (AutoDXT, 100X100)
+[2021.08.19-09.22.50:223][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\leaderboardsComplex.png)
+[2021.08.19-09.22.50:225][420]LogTexture: Display: Building textures: leaderboardsComplex (AutoDXT, 100X100)
+[2021.08.19-09.22.50:227][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\leaderboardsSimple.png)
+[2021.08.19-09.22.50:229][420]LogTexture: Display: Building textures: leaderboardsSimple (AutoDXT, 100X100)
+[2021.08.19-09.22.50:231][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\left.png)
+[2021.08.19-09.22.50:234][420]LogTexture: Display: Building textures: left (AutoDXT, 100X100)
+[2021.08.19-09.22.50:236][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\locked.png)
+[2021.08.19-09.22.50:238][420]LogTexture: Display: Building textures: locked (AutoDXT, 100X100)
+[2021.08.19-09.22.50:240][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\medal1.png)
+[2021.08.19-09.22.50:242][420]LogTexture: Display: Building textures: medal1 (AutoDXT, 100X100)
+[2021.08.19-09.22.50:244][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\medal2.png)
+[2021.08.19-09.22.50:246][420]LogTexture: Display: Building textures: medal2 (AutoDXT, 100X100)
+[2021.08.19-09.22.50:248][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\menuGrid.png)
+[2021.08.19-09.22.50:250][420]LogTexture: Display: Building textures: menuGrid (AutoDXT, 100X100)
+[2021.08.19-09.22.50:252][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\menuList.png)
+[2021.08.19-09.22.50:253][420]LogTexture: Display: Building textures: menuList (AutoDXT, 100X100)
+[2021.08.19-09.22.50:255][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\minus.png)
+[2021.08.19-09.22.50:257][420]LogTexture: Display: Building textures: minus (AutoDXT, 100X100)
+[2021.08.19-09.22.50:259][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\movie.png)
+[2021.08.19-09.22.50:261][420]LogTexture: Display: Building textures: movie (AutoDXT, 100X100)
+[2021.08.19-09.22.50:263][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\musicOff.png)
+[2021.08.19-09.22.50:265][420]LogTexture: Display: Building textures: musicOff (AutoDXT, 100X100)
+[2021.08.19-09.22.50:268][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\musicOn.png)
+[2021.08.19-09.22.50:269][420]LogTexture: Display: Building textures: musicOn (AutoDXT, 100X100)
+[2021.08.19-09.22.50:271][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\next.png)
+[2021.08.19-09.22.50:273][420]LogTexture: Display: Building textures: next (AutoDXT, 100X100)
+[2021.08.19-09.22.50:275][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\pause.png)
+[2021.08.19-09.22.50:277][420]LogTexture: Display: Building textures: pause (AutoDXT, 100X100)
+[2021.08.19-09.22.50:279][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\plus.png)
+[2021.08.19-09.22.50:281][420]LogTexture: Display: Building textures: plus (AutoDXT, 100X100)
+[2021.08.19-09.22.50:283][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\power.png)
+[2021.08.19-09.22.50:285][420]LogTexture: Display: Building textures: power (AutoDXT, 100X100)
+[2021.08.19-09.22.50:287][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\previous.png)
+[2021.08.19-09.22.50:288][420]LogTexture: Display: Building textures: previous (AutoDXT, 100X100)
+[2021.08.19-09.22.50:291][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\question.png)
+[2021.08.19-09.22.50:293][420]LogTexture: Display: Building textures: question (AutoDXT, 100X100)
+[2021.08.19-09.22.50:295][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\return.png)
+[2021.08.19-09.22.50:296][420]LogTexture: Display: Building textures: return (AutoDXT, 100X100)
+[2021.08.19-09.22.50:299][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\rewind.png)
+[2021.08.19-09.22.50:301][420]LogTexture: Display: Building textures: rewind (AutoDXT, 100X100)
+[2021.08.19-09.22.50:302][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\right.png)
+[2021.08.19-09.22.50:303][420]LogTexture: Display: Building textures: right (AutoDXT, 100X100)
+[2021.08.19-09.22.50:306][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\save.png)
+[2021.08.19-09.22.50:307][420]LogTexture: Display: Building textures: save (AutoDXT, 100X100)
+[2021.08.19-09.22.50:309][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\share2.png)
+[2021.08.19-09.22.50:311][420]LogTexture: Display: Building textures: share2 (AutoDXT, 100X100)
+[2021.08.19-09.22.50:312][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\smaller.png)
+[2021.08.19-09.22.50:313][420]LogTexture: Display: Building textures: smaller (AutoDXT, 100X100)
+[2021.08.19-09.22.50:315][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\star.png)
+[2021.08.19-09.22.50:317][420]LogTexture: Display: Building textures: star (AutoDXT, 100X100)
+[2021.08.19-09.22.50:319][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\stop.png)
+[2021.08.19-09.22.50:320][420]LogTexture: Display: Building textures: stop (AutoDXT, 100X100)
+[2021.08.19-09.22.50:323][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\target.png)
+[2021.08.19-09.22.50:325][420]LogTexture: Display: Building textures: target (AutoDXT, 100X100)
+[2021.08.19-09.22.50:327][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\trashcan.png)
+[2021.08.19-09.22.50:329][420]LogTexture: Display: Building textures: trashcan (AutoDXT, 100X100)
+[2021.08.19-09.22.50:330][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\trashcanOpen.png)
+[2021.08.19-09.22.50:332][420]LogTexture: Display: Building textures: trashcanOpen (AutoDXT, 100X100)
+[2021.08.19-09.22.50:334][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\trophy.png)
+[2021.08.19-09.22.50:335][420]LogTexture: Display: Building textures: trophy (AutoDXT, 100X100)
+[2021.08.19-09.22.50:337][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\unlocked.png)
+[2021.08.19-09.22.50:339][420]LogTexture: Display: Building textures: unlocked (AutoDXT, 100X100)
+[2021.08.19-09.22.50:341][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\up.png)
+[2021.08.19-09.22.50:342][420]LogTexture: Display: Building textures: up (AutoDXT, 100X100)
+[2021.08.19-09.22.50:344][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\upLeft.png)
+[2021.08.19-09.22.50:345][420]LogTexture: Display: Building textures: upLeft (AutoDXT, 100X100)
+[2021.08.19-09.22.50:347][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\upRight.png)
+[2021.08.19-09.22.50:348][420]LogTexture: Display: Building textures: upRight (AutoDXT, 100X100)
+[2021.08.19-09.22.50:386][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\warning.png)
+[2021.08.19-09.22.50:387][420]LogTexture: Display: Building textures: warning (AutoDXT, 100X100)
+[2021.08.19-09.22.50:389][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\wrench.png)
+[2021.08.19-09.22.50:391][420]LogTexture: Display: Building textures: wrench (AutoDXT, 100X100)
+[2021.08.19-09.22.50:392][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\arrowDown.png)
+[2021.08.19-09.22.50:394][420]LogTexture: Display: Building textures: arrowDown (AutoDXT, 100X100)
+[2021.08.19-09.22.50:396][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\arrowLeft.png)
+[2021.08.19-09.22.50:398][420]LogTexture: Display: Building textures: arrowLeft (AutoDXT, 100X100)
+[2021.08.19-09.22.50:400][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\arrowRight.png)
+[2021.08.19-09.22.50:402][420]LogTexture: Display: Building textures: arrowRight (AutoDXT, 100X100)
+[2021.08.19-09.22.50:404][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\arrowUp.png)
+[2021.08.19-09.22.50:406][420]LogTexture: Display: Building textures: arrowUp (AutoDXT, 100X100)
+[2021.08.19-09.22.50:408][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\audioOff.png)
+[2021.08.19-09.22.50:409][420]LogTexture: Display: Building textures: audioOff (AutoDXT, 100X100)
+[2021.08.19-09.22.50:411][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\audioOn.png)
+[2021.08.19-09.22.50:414][420]LogTexture: Display: Building textures: audioOn (AutoDXT, 100X100)
+[2021.08.19-09.22.50:416][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\barsHorizontal.png)
+[2021.08.19-09.22.50:418][420]LogTexture: Display: Building textures: barsHorizontal (AutoDXT, 100X100)
+[2021.08.19-09.22.50:420][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\checkmark.png)
+[2021.08.19-09.22.50:421][420]LogTexture: Display: Building textures: checkmark (AutoDXT, 100X100)
+[2021.08.19-09.22.50:422][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\contrast.png)
+[2021.08.19-09.22.50:424][420]LogTexture: Display: Building textures: contrast (AutoDXT, 100X100)
+[2021.08.19-09.22.50:426][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\cross.png)
+[2021.08.19-09.22.50:427][420]LogTexture: Display: Building textures: cross (AutoDXT, 100X100)
+[2021.08.19-09.22.50:430][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\down.png)
+[2021.08.19-09.22.50:432][420]LogTexture: Display: Building textures: down (AutoDXT, 100X100)
+[2021.08.19-09.22.50:434][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\downLeft.png)
+[2021.08.19-09.22.50:435][420]LogTexture: Display: Building textures: downLeft (AutoDXT, 100X100)
+[2021.08.19-09.22.50:437][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\downRight.png)
+[2021.08.19-09.22.50:439][420]LogTexture: Display: Building textures: downRight (AutoDXT, 100X100)
+[2021.08.19-09.22.50:441][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\gameicons\PNG\White\2x\exclamation.png)
+[2021.08.19-09.22.50:443][420]LogTexture: Display: Building textures: exclamation (AutoDXT, 100X100)
+[2021.08.19-09.23.46:811][114]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.19-09.23.46:833][114]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.19-09.23.47:721][168]LogContentBrowser: Attempting asset rename: NewFolder -> medals
+[2021.08.19-09.23.47:721][168]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.19-09.25.44:682][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal9.png)
+[2021.08.19-09.25.44:684][604]LogTexture: Display: Building textures: flatshadow_medal9 (BGRA8, 41X75)
+[2021.08.19-09.25.44:685][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal1.png)
+[2021.08.19-09.25.44:687][604]LogTexture: Display: Building textures: flatshadow_medal1 (BGRA8, 41X75)
+[2021.08.19-09.25.44:688][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal2.png)
+[2021.08.19-09.25.44:690][604]LogTexture: Display: Building textures: flatshadow_medal2 (BGRA8, 41X75)
+[2021.08.19-09.25.44:692][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal3.png)
+[2021.08.19-09.25.44:693][604]LogTexture: Display: Building textures: flatshadow_medal3 (BGRA8, 41X75)
+[2021.08.19-09.25.44:695][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal4.png)
+[2021.08.19-09.25.44:697][604]LogTexture: Display: Building textures: flatshadow_medal4 (BGRA8, 41X75)
+[2021.08.19-09.25.44:699][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal5.png)
+[2021.08.19-09.25.44:700][604]LogTexture: Display: Building textures: flatshadow_medal5 (BGRA8, 41X75)
+[2021.08.19-09.25.44:702][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal6.png)
+[2021.08.19-09.25.44:703][604]LogTexture: Display: Building textures: flatshadow_medal6 (BGRA8, 41X75)
+[2021.08.19-09.25.44:705][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal7.png)
+[2021.08.19-09.25.44:707][604]LogTexture: Display: Building textures: flatshadow_medal7 (BGRA8, 41X75)
+[2021.08.19-09.25.44:708][604]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\kenneymedals\PNG\flatshadow_medal8.png)
+[2021.08.19-09.25.44:710][604]LogTexture: Display: Building textures: flatshadow_medal8 (BGRA8, 41X75)
+[2021.08.19-09.25.47:781][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.19-09.25.48:565][778]LogSlate: Window 'Save Content' being destroyed
+[2021.08.19-09.25.48:623][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/arrowDown50B744A543BA523F4ADDBD8542FCFFB7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/arrowDown.uasset'
+[2021.08.19-09.25.48:631][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/arrowLeft65F5B9D54ADFAE7E488ADB8D9654A6CE.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/arrowLeft.uasset'
+[2021.08.19-09.25.48:638][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/arrowRightE44EF65B43F8CF4B79E4B78B2EEE379F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/arrowRight.uasset'
+[2021.08.19-09.25.48:645][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/arrowUp5288704F4817C8354820779C0178B776.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/arrowUp.uasset'
+[2021.08.19-09.25.48:652][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/audioOffDF773A1E4EB94A8392B126A86D408DD1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/audioOff.uasset'
+[2021.08.19-09.25.48:660][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/audioOnA8FFC53742CE5F4DD07E2C90BD4D4351.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/audioOn.uasset'
+[2021.08.19-09.25.48:668][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/barsHorizontal1B2988CD40E4FA87CC70EF865A0FD042.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/barsHorizontal.uasset'
+[2021.08.19-09.25.48:675][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/checkmarkD6D57F60491BF76838F1BF8B632960BA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/checkmark.uasset'
+[2021.08.19-09.25.48:676][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/coin" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/coin.uasset" SILENT=true
+[2021.08.19-09.25.48:680][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/coin8D2CE95C4A5EB0F0565E4BB39E095B51.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/coin.uasset'
+[2021.08.19-09.25.48:686][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/contrast1BC5F04847BD617E957B0593C6BDB433.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/contrast.uasset'
+[2021.08.19-09.25.48:689][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/cross" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/cross.uasset" SILENT=true
+[2021.08.19-09.25.48:694][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cross21BE5E584F7B3434441716902BBB8F78.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/cross.uasset'
+[2021.08.19-09.25.48:699][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cursor32374BEB46031CAA213F528B08B9109A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/cursor.uasset'
+[2021.08.19-09.25.48:703][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/diamondF74F3E9349F6A85AB0584EB29F8A1F1F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/diamond.uasset'
+[2021.08.19-09.25.48:707][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/down" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/down.uasset" SILENT=true
+[2021.08.19-09.25.48:711][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/down07B941CE456EDEAEA883A19F839D4FB7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/down.uasset'
+[2021.08.19-09.25.48:717][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/downLeft0598E21341B710E8126D1C9EE8D1646E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/downLeft.uasset'
+[2021.08.19-09.25.48:722][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/download76258E154572D783190C2EB7430F0F1E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/download.uasset'
+[2021.08.19-09.25.48:730][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/downRight6D8FF1BC40E64A4DCE76398F75F30F81.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/downRight.uasset'
+[2021.08.19-09.25.48:736][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/exclamation923FDBE5479D60128583F78E103E67CF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/exclamation.uasset'
+[2021.08.19-09.25.48:739][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/exit" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/exit.uasset" SILENT=true
+[2021.08.19-09.25.48:744][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/exit96B7E9FA40FA891E39295CBA7E436ADC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/exit.uasset'
+[2021.08.19-09.25.48:751][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/exitLeft9E3AAC5F48664BC58DB8279D3DCF20F0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/exitLeft.uasset'
+[2021.08.19-09.25.48:758][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/exitRight64431633444765E7741D028DB60E7E89.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/exitRight.uasset'
+[2021.08.19-09.25.48:765][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/export66D5B5494A04A967E7D231A05614691E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/export.uasset'
+[2021.08.19-09.25.48:771][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/fastForward324689A6459DF46FD2C7B7979FC728F4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/fastForward.uasset'
+[2021.08.19-09.25.48:776][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/fightPlus1346490F4E352372EFD74E9A43E4731A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/fightPlus.uasset'
+[2021.08.19-09.25.48:782][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal1C55C4482407418FB7F3586B5A6CB4DB2.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal1.uasset'
+[2021.08.19-09.25.48:787][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal2C4DB82804A4A123EE1A181BD8E520596.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal2.uasset'
+[2021.08.19-09.25.48:792][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal3305D34A04BCD6C1B627951A26BF07292.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal3.uasset'
+[2021.08.19-09.25.48:798][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal494EC62B34B30CBC30BD115BE01177003.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal4.uasset'
+[2021.08.19-09.25.48:803][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal53CFA3D674ABA8BF0ABCFB8B6109F231C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal5.uasset'
+[2021.08.19-09.25.48:809][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal60CFBC33741F4A29D0734099866D8DCFD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal6.uasset'
+[2021.08.19-09.25.48:815][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal75F2C4B984A3C821E90BBCA9B82E54103.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal7.uasset'
+[2021.08.19-09.25.48:825][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal8A47ADCA34CCFC3B314972A9960F21FE9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal8.uasset'
+[2021.08.19-09.25.48:829][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/flatshadow_medal9A57627224628CFC54D4D81A331F0ADC4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/medals/flatshadow_medal9.uasset'
+[2021.08.19-09.25.48:832][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/gear" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/gear.uasset" SILENT=true
+[2021.08.19-09.25.48:836][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/gear7B20C7B9448FD9A1A56DB8B663773D00.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/gear.uasset'
+[2021.08.19-09.25.48:838][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/home" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/home.uasset" SILENT=true
+[2021.08.19-09.25.48:842][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/home92BF1DC149A731CED36F5280F138B8BD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/home.uasset'
+[2021.08.19-09.25.48:848][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/import37D03E3344C7AB5ACF4E6088116E5B28.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/import.uasset'
+[2021.08.19-09.25.48:854][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/information7BAE9A57472E2F9FD75D118CF588CF83.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/information.uasset'
+[2021.08.19-09.25.48:855][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/key" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/key.uasset" SILENT=true
+[2021.08.19-09.25.48:859][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/keyA32032CB4F9892828A594CAF9B61FCCB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/key.uasset'
+[2021.08.19-09.25.48:866][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/larger2D1BBE414605F452A4EA438387BEB0C7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/larger.uasset'
+[2021.08.19-09.25.48:873][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/leaderboardsComplexA13331854F4E7F4E8366609CF4158DD4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/leaderboardsComplex.uasset'
+[2021.08.19-09.25.48:879][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/leaderboardsSimple2CE5E9FF4EB2FC68DFE738B5D59E02AB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/leaderboardsSimple.uasset'
+[2021.08.19-09.25.48:882][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/left" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/left.uasset" SILENT=true
+[2021.08.19-09.25.48:885][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/leftD08FD8D547C25764D16A90B7871E64DD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/left.uasset'
+[2021.08.19-09.25.48:891][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/locked3FD9D1FF4BCC7DF70A528E8EADD61927.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/locked.uasset'
+[2021.08.19-09.25.48:897][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/medal1AA9BDD9449F6636BB19B958E41D30583.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/medal1.uasset'
+[2021.08.19-09.25.48:903][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/medal2FF119FB142743D5ADEE44EAA0C4882C9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/medal2.uasset'
+[2021.08.19-09.25.48:909][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/menuGrid459FF6674ED63EAE9C200CBADE5033B3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/menuGrid.uasset'
+[2021.08.19-09.25.48:915][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/menuList76BEBD6F4FC772B56F676687430D04BD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/menuList.uasset'
+[2021.08.19-09.25.48:918][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/minus" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/minus.uasset" SILENT=true
+[2021.08.19-09.25.48:921][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/minus0B63419C462A44F5A05D0C9DDC81B221.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/minus.uasset'
+[2021.08.19-09.25.48:924][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/mouse" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/mouse.uasset" SILENT=true
+[2021.08.19-09.25.48:928][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouse3145F2FE418CA35075833B8837E443C6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/mouse.uasset'
+[2021.08.19-09.25.48:933][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouseLeft75612D8145A8CE93F776F4B757CD0174.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/mouseLeft.uasset'
+[2021.08.19-09.25.48:937][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouseMiddle5FEBB4AB4EF52F65894F4D8C23F68C82.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/mouseMiddle.uasset'
+[2021.08.19-09.25.48:941][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/mouseRight0CF6190040B925B67FB39DA8C35DEFB3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/mouseRight.uasset'
+[2021.08.19-09.25.48:944][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/movie" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/movie.uasset" SILENT=true
+[2021.08.19-09.25.48:947][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/movie1A4042E44EA028866B04568DE2FE767E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/movie.uasset'
+[2021.08.19-09.25.48:954][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/musicOffF124459C4A90ECC65D18C7AD7443F01F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/musicOff.uasset'
+[2021.08.19-09.25.48:960][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/musicOn3618A7934CFEC5EE26E8E6B89926AF7B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/musicOn.uasset'
+[2021.08.19-09.25.48:964][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/next" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/next.uasset" SILENT=true
+[2021.08.19-09.25.48:968][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/next5E7DBDF342DC326A23736CA07E023D9B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/next.uasset'
+[2021.08.19-09.25.48:970][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/pause" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/pause.uasset" SILENT=true
+[2021.08.19-09.25.48:974][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/pauseCFBFA45F4DA05BE3141F698E5C1FBBFC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/pause.uasset'
+[2021.08.19-09.25.48:976][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/plus" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/plus.uasset" SILENT=true
+[2021.08.19-09.25.48:980][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/plus3DD25F844E6531EDF48FC0BBBB63C170.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/plus.uasset'
+[2021.08.19-09.25.48:984][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/pointerD60267FC4D49EBD46B3E868D71756296.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/pointer.uasset'
+[2021.08.19-09.25.48:986][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/power" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/power.uasset" SILENT=true
+[2021.08.19-09.25.48:990][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/power10AB26F4439E3DBC24404AA98AFDF936.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/power.uasset'
+[2021.08.19-09.25.48:996][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/previous488EA4574AD95898D524C798F9EBC0BD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/previous.uasset'
+[2021.08.19-09.25.49:003][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/question520984124C9318690FC686ACE1CAC619.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/question.uasset'
+[2021.08.19-09.25.49:009][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/return6FE05DC34C109FB3FAD7D081E4429296.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/return.uasset'
+[2021.08.19-09.25.49:321][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/rewind59D439A8452942BB8B84AB88B00C3390.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/rewind.uasset'
+[2021.08.19-09.25.49:323][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/right" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/right.uasset" SILENT=true
+[2021.08.19-09.25.49:327][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/right3C6015DE4F0AEC8D00F19EA3E763F020.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/right.uasset'
+[2021.08.19-09.25.49:330][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/save" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/save.uasset" SILENT=true
+[2021.08.19-09.25.49:333][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/save901A8D6D4CBFDFF9C07CA7BB3B50AEF2.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/save.uasset'
+[2021.08.19-09.25.49:339][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/share29EE46BC144132C2517173F86B90122D1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/share2.uasset'
+[2021.08.19-09.25.49:345][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/smaller28AB611D4CFC4CAD2F9EDC96C704B22B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/smaller.uasset'
+[2021.08.19-09.25.49:348][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/star" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/star.uasset" SILENT=true
+[2021.08.19-09.25.49:352][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/star689588EE487D4BBDD36739A493ACA9F4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/star.uasset'
+[2021.08.19-09.25.49:354][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/stop" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/stop.uasset" SILENT=true
+[2021.08.19-09.25.49:358][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/stopB21636CD4E40BEC130125EBA6D7EE3BE.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/stop.uasset'
+[2021.08.19-09.25.49:364][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/target7519F29147CADC72A0C74B9D5019A29B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/target.uasset'
+[2021.08.19-09.25.49:368][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/toolPencil694226DD40BE1F60120BF8A13F160574.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/toolPencil.uasset'
+[2021.08.19-09.25.49:375][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/trashcanB830C5E54F32A26806577AB64340CB99.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/trashcan.uasset'
+[2021.08.19-09.25.49:381][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/trashcanOpen66117001416822BBED6BAA86F60E976F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/trashcanOpen.uasset'
+[2021.08.19-09.25.49:388][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/trophy794725A142FCBE36F9DF1B94E5025BD1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/trophy.uasset'
+[2021.08.19-09.25.49:394][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/unlocked0C9B18854169833DDF410B88F3E1DDA0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/unlocked.uasset'
+[2021.08.19-09.25.49:396][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/UI_Elements/icon/up" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/up.uasset" SILENT=true
+[2021.08.19-09.25.49:400][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/up80BCB10C468E6D221875E4A0127DFCFF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/up.uasset'
+[2021.08.19-09.25.49:406][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/upLeft0B4C1FE6441B65356990D8925502C589.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/upLeft.uasset'
+[2021.08.19-09.25.49:411][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/uploadC822E1CD4AEB1D582E6426835D28B209.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/upload.uasset'
+[2021.08.19-09.25.49:417][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/upRight52FE29244D514352DEB491B2A314F480.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/upRight.uasset'
+[2021.08.19-09.25.49:422][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/userRobot761A84CD40F6F61B2D5846840ABCCB95.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/userRobot.uasset'
+[2021.08.19-09.25.49:428][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/warning3CD688A04B4DAA5626511897D9977513.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/warning.uasset'
+[2021.08.19-09.25.49:434][778]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wrenchC6A6E8134E79E379650DB88E86B2591F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/icon/wrench.uasset'
+[2021.08.19-09.25.49:453][778]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/import.import
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal9.flatshadow_medal9
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/exclamation.exclamation
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/downRight.downRight
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/downLeft.downLeft
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/home.home
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/down.down
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/cross.cross
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/contrast.contrast
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/checkmark.checkmark
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/barsHorizontal.barsHorizontal
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/audioOn.audioOn
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/audioOff.audioOff
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/arrowUp.arrowUp
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/arrowRight.arrowRight
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/arrowLeft.arrowLeft
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/arrowDown.arrowDown
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/wrench.wrench
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/warning.warning
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/gear.gear
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/upRight.upRight
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/upLeft.upLeft
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/up.up
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/unlocked.unlocked
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/trophy.trophy
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/trashcanOpen.trashcanOpen
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/trashcan.trashcan
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/target.target
+[2021.08.19-09.25.49:454][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/stop.stop
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/star.star
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/smaller.smaller
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/share2.share2
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/save.save
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/right.right
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/rewind.rewind
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/return.return
+[2021.08.19-09.25.49:455][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/question.question
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/previous.previous
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/power.power
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/plus.plus
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/fastForward.fastForward
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/pause.pause
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/next.next
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/musicOn.musicOn
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/musicOff.musicOff
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/movie.movie
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/minus.minus
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/menuList.menuList
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/menuGrid.menuGrid
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/medal2.medal2
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/medal1.medal1
+[2021.08.19-09.25.49:456][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/locked.locked
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/left.left
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/leaderboardsSimple.leaderboardsSimple
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/leaderboardsComplex.leaderboardsComplex
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/larger.larger
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/information.information
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/download.download
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/diamond.diamond
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/cursor.cursor
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/export.export
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/coin.coin
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/userRobot.userRobot
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/upload.upload
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/toolPencil.toolPencil
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/exitRight.exitRight
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/pointer.pointer
+[2021.08.19-09.25.49:457][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/mouseRight.mouseRight
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/mouseMiddle.mouseMiddle
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/mouseLeft.mouseLeft
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/exitLeft.exitLeft
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/mouse.mouse
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/key.key
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/fightPlus.fightPlus
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/icon/exit.exit
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal1.flatshadow_medal1
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal2.flatshadow_medal2
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal3.flatshadow_medal3
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal4.flatshadow_medal4
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal5.flatshadow_medal5
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal6.flatshadow_medal6
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal7.flatshadow_medal7
+[2021.08.19-09.25.49:458][778]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/medals/flatshadow_medal8.flatshadow_medal8
+[2021.08.19-09.31.45:845][418]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Test/Widget/UI_Elements/button/Button_hover.Button_hover
+[2021.08.19-09.31.46:001][418]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2021.08.19-09.32.34:498][874]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Test/Widget/UI_Elements/button/Button_normal.Button_normal
+[2021.08.19-09.32.35:679][939]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Test/Widget/UI_Elements/button/Button_release.Button_release
