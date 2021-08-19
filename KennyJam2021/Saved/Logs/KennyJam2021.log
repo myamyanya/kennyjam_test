@@ -1872,3 +1872,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud1.cloud1
 [2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud2.cloud2
 [2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud3.cloud3
+[2021.08.19-10.55.05:467][974]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\background-elements-redux-fix\PNG\Retina\cloudSmall.png)
+[2021.08.19-10.55.05:468][974]LogTexture: Display: Building textures: cloudSmall (BGRA8, 78X62)
+[2021.08.19-10.55.07:688][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.19-10.55.08:422][ 69]LogSlate: Window 'Save Content' being destroyed
+[2021.08.19-10.55.08:474][ 69]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cloudSmall04F2715844549A2DBE06A58F8FF77731.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/dialog/cloudSmall.uasset'
+[2021.08.19-10.55.08:489][ 69]AssetCheck: New page: Asset Save: cloudSmall
+[2021.08.19-10.55.08:489][ 69]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloudSmall.cloudSmall
+[2021.08.19-11.00.24:278][303]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Test/Widget/UI_Elements/button/Button_release.Button_release
+[2021.08.19-11.05.07:632][167]LogSlate: Window 'Button_release' being destroyed
+[2021.08.19-11.05.07:640][167]LogSlate: Window 'Button_release' being destroyed
+[2021.08.19-11.05.12:867][451]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.19-11.05.14:199][451]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 126 classes and 0 folders.
+[2021.08.19-11.05.17:692][451]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.19-11.05.23:644][697]LogSlate: Window 'HUD' being destroyed
+[2021.08.19-11.05.23:652][697]LogSlate: Window 'HUD' being destroyed
+[2021.08.19-11.05.23:704][697]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-11.05.23:705][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.05.23:728][697]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-11.05.23:728][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.05.24:524][732]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.05.48:159][667]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.05.58:067][245]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.07.01:657][456]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.07.14:604][197]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.07.31:880][183]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.07.41:661][753]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.07.58:272][730]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.08.18:579][888]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.08.23:930][195]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.08.40:306][153]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.09.52:993][514]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.10.18:577][528]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.19-11.10.43:797][777]LogSlate: Window 'MainMenu' being destroyed
+[2021.08.19-11.10.43:805][777]LogSlate: Window 'MainMenu' being destroyed
+[2021.08.19-11.10.43:855][777]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-11.10.43:855][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.10.43:873][777]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-11.10.43:873][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.10.44:877][826]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.08.19-11.10.45:753][826]LogSlate: Window 'Save Content' being destroyed
+[2021.08.19-11.10.45:803][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-11.10.45:903][826]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/MainMenuEFE0FD084BFB6E5AAFC302BBC6F582E3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-11.10.45:924][826]AssetCheck: New page: Asset Save: MainMenu
+[2021.08.19-11.10.45:925][826]LogContentValidation: Display: Validating WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
