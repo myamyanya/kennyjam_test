@@ -1379,3 +1379,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-08.41.05:297][503]LogSlate: Window 'bag' being destroyed
 [2021.08.19-08.41.05:312][503]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2021.08.19-08.41.05:313][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.42.54:788][ 45]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/bag.bag
+[2021.08.19-08.43.25:113][439]LogSlate: Window 'bag' being destroyed
+[2021.08.19-08.43.25:123][439]LogSlate: Window 'bag' being destroyed
+[2021.08.19-08.43.25:127][439]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.43.25:127][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
