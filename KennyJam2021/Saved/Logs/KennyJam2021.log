@@ -1851,3 +1851,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-09.31.46:001][418]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0016 seconds. Added 1 classes and 2 folders.
 [2021.08.19-09.32.34:498][874]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Test/Widget/UI_Elements/button/Button_normal.Button_normal
 [2021.08.19-09.32.35:679][939]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Test/Widget/UI_Elements/button/Button_release.Button_release
+[2021.08.19-10.45.42:389][589]LogSlate: Window 'Button_release' being destroyed
+[2021.08.19-10.45.42:399][589]LogSlate: Window 'Button_release' being destroyed
+[2021.08.19-10.46.29:476][373]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\background-elements-redux-fix\PNG\Retina\cloud4.png)
+[2021.08.19-10.46.29:484][373]LogTexture: Display: Building textures: cloud4 (AutoDXT, 500X292)
+[2021.08.19-10.46.29:677][373]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\background-elements-redux-fix\PNG\Retina\cloud1.png)
+[2021.08.19-10.46.29:679][373]LogTexture: Display: Building textures: cloud1 (BGRA8, 406X242)
+[2021.08.19-10.46.29:697][373]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\background-elements-redux-fix\PNG\Retina\cloud2.png)
+[2021.08.19-10.46.29:700][373]LogTexture: Display: Building textures: cloud2 (AutoDXT, 392X312)
+[2021.08.19-10.46.29:729][373]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\_UI\background-elements-redux-fix\PNG\Retina\cloud3.png)
+[2021.08.19-10.46.29:732][373]LogTexture: Display: Building textures: cloud3 (BGRA8, 432X278)
+[2021.08.19-10.46.47:639][581]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.08.19-10.46.48:584][581]LogSlate: Window 'Save Content' being destroyed
+[2021.08.19-10.46.48:635][581]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cloud1709EBC304A6906E9CEEE31BC45262653.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/dialog/cloud1.uasset'
+[2021.08.19-10.46.48:649][581]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cloud2D67582024DB1BE4E634F6591DF9F5936.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/dialog/cloud2.uasset'
+[2021.08.19-10.46.48:663][581]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cloud3FBBF3FF845F8BAAEEAB94BA55B38E3D8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/dialog/cloud3.uasset'
+[2021.08.19-10.46.48:674][581]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cloud4B45513D2429AA9606D30439794781847.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/dialog/cloud4.uasset'
+[2021.08.19-10.46.48:690][581]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud4.cloud4
+[2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud1.cloud1
+[2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud2.cloud2
+[2021.08.19-10.46.48:690][581]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/dialog/cloud3.cloud3
