@@ -2473,3 +2473,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-10.18.56:176][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/SubTask" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/SubTask_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2021.08.19-10.18.56:181][ 75]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/SubTask_Auto1031D34A240D6BE9C6BF3CCABF35137E7.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/SubTask_Auto1.uasset'
 [2021.08.19-10.18.56:183][ 75]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.08.19-10.30.09:770][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/MainMap" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.19-10.30.09:826][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.08.19-10.30.09:834][365]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMap45A0B4F44463658CF986E6839790D900.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap'
+[2021.08.19-10.30.09:857][365]AssetCheck: New page: 资产保存：MainMap
+[2021.08.19-10.30.09:857][365]LogContentValidation: Display: 正在验证World /Game/Test/MainMap.MainMap
+[2021.08.19-10.30.13:635][716]BlueprintLog: New page: 编译SubTask
+[2021.08.19-10.30.13:683][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.08.19-10.30.14:301][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/SubTask" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/SubTask.uasset" SILENT=true
+[2021.08.19-10.30.14:308][761]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/SubTask3DE6ECDD470CE6819410F08529AB057C.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/SubTask.uasset'
+[2021.08.19-10.30.14:326][761]AssetCheck: New page: 资产保存：SubTask
+[2021.08.19-10.30.14:326][761]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/SubTask.SubTask
+[2021.08.19-10.30.33:808][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.08.19-10.30.49:533][447]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-10.30.54:772][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.08.19-10.31.05:552][887]LogSlate: Window '替换引用？' being destroyed
+[2021.08.19-10.31.05:558][887]Message dialog closed, result: Ok, title: 替换引用？, text: 此操作将使用Button_hover替换对待删除资产的所有引用，然后将它们删除。
+
+确定进行此操作吗？
+[2021.08.19-10.31.05:558][887]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-10.31.05:615][887]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.31.05:615][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-10.31.05:767][887]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.31.05:767][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-10.31.05:775][887]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.31.05:775][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-10.31.05:831][887]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.31.05:831][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-10.31.05:840][887]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.31.05:840][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-10.31.06:739][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.08.19-10.31.08:933][887]LogSlate: Window '保存内容' being destroyed
+[2021.08.19-10.31.08:971][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_hover" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_hover.uasset" SILENT=true
+[2021.08.19-10.31.08:973][887]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_hover4FAA6D4D45AEEB7F387E2EB75029621F.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_hover.uasset'
+[2021.08.19-10.31.08:976][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-10.31.09:012][887]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu162D61B546494349E4379E84EA161892.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-10.31.09:014][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/SubTask" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/SubTask.uasset" SILENT=true
+[2021.08.19-10.31.09:019][887]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/SubTask30022D7944638492D0C44780FC30427C.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/SubTask.uasset'
+[2021.08.19-10.31.09:038][887]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-10.31.09:038][887]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-10.31.09:038][887]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/SubTask.SubTask
+[2021.08.19-10.31.09:039][887]LogContentValidation: Display: 正在验证ObjectRedirector /Game/Test/Widget/Button_hover.Button_hover
+[2021.08.19-10.31.14:480][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.08.19-10.31.22:582][318]LogSlate: Window '替换引用？' being destroyed
+[2021.08.19-10.31.22:588][318]Message dialog closed, result: Ok, title: 替换引用？, text: 此操作将使用Button_normal替换对待删除资产的所有引用，然后将它们删除。
+
+确定进行此操作吗？
+[2021.08.19-10.31.22:588][318]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-10.31.22:856][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.08.19-10.31.24:482][318]LogSlate: Window '保存内容' being destroyed
+[2021.08.19-10.31.24:537][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_normal" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_normal.uasset" SILENT=true
+[2021.08.19-10.31.24:538][318]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_normal7AB45289404DAE3EF7D23EB24C378C08.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_normal.uasset'
+[2021.08.19-10.31.24:543][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-10.31.24:577][318]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu4BF1AAE54B52A9AEA5F132AB6570E707.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-10.31.24:595][318]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-10.31.24:595][318]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-10.31.24:595][318]LogContentValidation: Display: 正在验证ObjectRedirector /Game/Test/Widget/Button_normal.Button_normal
+[2021.08.19-10.31.27:774][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.08.19-10.31.36:537][575]LogSlate: Window '替换引用？' being destroyed
+[2021.08.19-10.31.36:543][575]Message dialog closed, result: Ok, title: 替换引用？, text: 此操作将使用Button_release替换对待删除资产的所有引用，然后将它们删除。
+
+确定进行此操作吗？
+[2021.08.19-10.31.36:543][575]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-10.31.36:803][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.08.19-10.31.38:006][575]LogSlate: Window '保存内容' being destroyed
+[2021.08.19-10.31.38:049][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_release" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_release.uasset" SILENT=true
+[2021.08.19-10.31.38:050][575]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_release22FB8687447FB48D4EEE6EABC8915573.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_release.uasset'
+[2021.08.19-10.31.38:055][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-10.31.38:091][575]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuCBC4BFB847B6A8AF5D335A9E970EE387.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-10.31.38:108][575]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-10.31.38:108][575]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-10.31.38:109][575]LogContentValidation: Display: 正在验证ObjectRedirector /Game/Test/Widget/Button_release.Button_release
+[2021.08.19-10.31.40:413][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/MainMap" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.19-10.31.40:446][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.08.19-10.31.40:454][794]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMap7778785D44115C2056E5B9B329427993.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap'
+[2021.08.19-10.31.40:478][794]AssetCheck: New page: 资产保存：MainMap
+[2021.08.19-10.31.40:478][794]LogContentValidation: Display: 正在验证World /Game/Test/MainMap.MainMap
+[2021.08.19-10.31.51:733][171]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/SubTask.SubTask
+[2021.08.19-10.31.54:440][298]LogSlate: Window 'SubTask' being destroyed
+[2021.08.19-10.32.00:892][737]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-10.32.07:334][304]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.32.07:334][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-10.32.07:341][304]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-10.32.07:341][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.06.05:022][310]LogTexture: Display: 正在编译纹理：cursor（AutoDXT、100X100）
+[2021.08.19-11.06.40:556][997]LogTexture: Display: 正在编译纹理：exclamation（AutoDXT、100X100）
+[2021.08.19-11.07.04:524][321]BlueprintLog: New page: 编译SubTask
+[2021.08.19-11.07.04:643][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.08.19-11.07.05:194][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/SubTask" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/SubTask.uasset" SILENT=true
+[2021.08.19-11.07.05:252][353]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/SubTaskB7DA002A4E0C38EBA55E449752ACB05A.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/SubTask.uasset'
+[2021.08.19-11.07.05:432][353]AssetCheck: New page: 资产保存：SubTask
+[2021.08.19-11.07.05:432][353]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/SubTask.SubTask
+[2021.08.19-11.09.08:612][171]LogSlate: Took 0.008287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Black.ttf' (162K)
+[2021.08.19-11.09.37:463][285]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.09.42:261][685]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-11.09.42:261][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.09.42:278][685]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-11.09.42:279][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-11.10.21:371][114]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.10.34:298][204]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.10.42:835][934]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.10.52:683][775]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.08:340][150]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.16:115][813]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.23:196][410]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.34:122][327]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.41:273][924]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.48:013][475]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.11.50:436][683]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-11.11.50:543][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.08.19-11.11.51:118][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-11.11.51:399][714]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu046624AB4BE1D2AADBCDE285E194A530.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-11.11.51:429][714]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-11.11.51:429][714]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.11.59:400][360]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.12.05:566][857]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.12.11:360][341]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.12.13:740][580]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-11.12.13:801][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.08.19-11.12.14:514][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-11.12.14:651][648]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuBEDA471942DBD50C4A27C28838C934AD.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-11.12.14:666][648]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-11.12.14:666][648]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.12.31:539][145]LogSlate: Window '取色器' being destroyed
+[2021.08.19-11.12.36:381][609]LogEditorTransaction: Undo 编辑指定颜色
+[2021.08.19-11.12.40:953][  2]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-11.12.41:016][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.08.19-11.12.41:810][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-11.12.41:844][ 64]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu7996CF604525C0955BDFF0B3AD60957E.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-11.12.41:860][ 64]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-11.12.41:860][ 64]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.14.01:709][519]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-11.14.01:809][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.08.19-11.14.02:343][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-11.14.02:378][554]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuC6BF6B8A44CA6ECF1AE0C5AE18C3B91D.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-11.14.02:393][554]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-11.14.02:393][554]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-11.15.15:514][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/MainMap" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.19-11.15.15:555][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.08.19-11.15.15:574][668]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMap6C8DFCDA43EB586041CC2ABFD0BD8364.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap'
+[2021.08.19-11.15.15:599][668]AssetCheck: New page: 资产保存：MainMap
+[2021.08.19-11.15.15:599][668]LogContentValidation: Display: 正在验证World /Game/Test/MainMap.MainMap
