@@ -1370,3 +1370,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-05.59.49:571][135]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/utensilKnife.utensilKnife
 [2021.08.19-05.59.49:571][135]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/utensilFork.utensilFork
 [2021.08.19-05.59.49:571][135]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Kitchen/tajine.tajine
+[2021.08.19-06.00.52:382][  4]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Kitchen/bag.bag
+[2021.08.19-06.00.53:258][  4]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.19-06.29.19:497][741]LogLinker: Warning: Failed to load '/Game/Test/Widget/DefaultUI': Can't find file.
+[2021.08.19-06.29.19:498][741]LogLinker: Warning: Failed to load '/Game/Test/Widget/DefaultUI': Can't find file.
+[2021.08.19-06.29.19:498][741]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Widget/DefaultUI.DefaultUI'
