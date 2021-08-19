@@ -1846,3 +1846,889 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-08.04.13:642][524]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
 [2021.08.19-08.04.22:359][481]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2021.08.19-08.04.22:359][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.09.36:354][503]LogEditorTransaction: Undo 移动节点
+[2021.08.19-08.09.44:616][106]BlueprintLog: New page: 编译Magician
+[2021.08.19-08.09.44:694][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.08.19-08.09.45:329][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Blueprints/Magician.uasset" SILENT=true
+[2021.08.19-08.09.45:403][146]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MagicianFF4025D04F022DB25B769A88B37A2A1E.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Blueprints/Magician.uasset'
+[2021.08.19-08.09.45:420][146]AssetCheck: New page: 资产保存：Magician
+[2021.08.19-08.09.45:420][146]LogContentValidation: Display: 正在验证Blueprint /Game/Test/Blueprints/Magician.Magician
+[2021.08.19-08.20.13:828][731]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.19-08.20.20:272][433]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.20.20:272][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.20.20:278][433]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.20.20:278][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.20.29:454][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.19-08.21.12:562][646]LogSlate: Window '取色器' being destroyed
+[2021.08.19-08.22.30:843][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.08.19-08.22.30:845][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test/MainMap' took 0.047
+[2021.08.19-08.22.30:846][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Test/Widget/HUD] ([1] browsable assets)...
+[2021.08.19-08.22.30:846][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Widget/HUD]
+[2021.08.19-08.22.30:846][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/HUD_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.08.19-08.22.30:851][899]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/HUD_Auto534875ACE48EB9BD9FEE0D0BE02D1B00F.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Widget/HUD_Auto5.uasset'
+[2021.08.19-08.22.30:852][899]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.08.19-08.25.07:535][397]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nickel\Downloads\uipack_fixed\PNG\grey_button03.png)
+[2021.08.19-08.25.07:548][397]LogTexture: Display: 正在编译纹理：grey_button03（BGRA8、190X49）
+[2021.08.19-08.25.07:564][397]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nickel\Downloads\uipack_fixed\PNG\grey_button04.png)
+[2021.08.19-08.25.07:566][397]LogTexture: Display: 正在编译纹理：grey_button04（BGRA8、190X45）
+[2021.08.19-08.25.43:194][396]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.25.43:259][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.08.19-08.25.43:796][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.25.43:829][426]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuC305826E4019C588A47DFFBF598666FB.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.25.43:844][426]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.25.43:844][426]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.25.44:410][468]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.25.44:421][468]BlueprintLog: New page: 运行前自动重新编译
+[2021.08.19-08.25.44:423][468]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2021.08.19-08.25.44:525][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.19-08.25.44:525][468]LogPlayLevel: PlayLevel: Blueprint regeneration took 103 ms (1 blueprints)
+[2021.08.19-08.25.44:525][468]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:25:44）
+[2021.08.19-08.25.44:525][468]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.25.44:527][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001356s)
+[2021.08.19-08.25.44:528][468]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.25.44:528][468]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2021.08.19-08.25.44:528][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002593s)
+[2021.08.19-08.25.44:556][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.08.19-08.25.44:557][468]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.25.44:557][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.25.44:557][468]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.25.44:557][468]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.25.44:564][468]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.25.44:564][468]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.25.44:609][468]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.25.44:609][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.25.44:609][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.25.44:609][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.25.44:610][468]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.25.44:610][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.25.44:610][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.25.44:627][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.25.44:627][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.25.44:627][468]LogInit: FAudioDevice initialized.
+[2021.08.19-08.25.44:627][468]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMap'.
+[2021.08.19-08.25.44:680][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.25.44:681][468]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.25.44:683][468]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.25.44
+[2021.08.19-08.25.44:683][468]LogWorld: Bringing up level for play took: 0.001548
+[2021.08.19-08.25.44:684][468]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.08.19-08.25.44:688][468]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.25.44:692][468]PIE: 登陆的服务器
+[2021.08.19-08.25.44:694][468]PIE: PIE总开始时间：0.274秒。
+[2021.08.19-08.25.46:113][544]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.25.46:113][544]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.25.46:113][544]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.25.57:327][244]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.25.57:327][244]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.25.59:233][364]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.25.59:233][364]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.26.00:659][453]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.26.00:678][453]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.26.00:711][453]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.26.00:712][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.26.00:722][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.26.00:727][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.26.00:766][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.26.00:768][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.26.00:801][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2021.08.19-08.26.00:821][454]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.08.19-08.27.07:838][215]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nickel\Downloads\uipack_fixed\PNG\grey_button01.png)
+[2021.08.19-08.27.07:840][215]LogTexture: Display: 正在编译纹理：grey_button01（BGRA8、190X49）
+[2021.08.19-08.27.40:716][923]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.27.40:778][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.08.19-08.27.41:449][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.27.41:479][966]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuBDE890244A4FAACBD50F15B9D8CD188A.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.27.41:498][966]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.27.41:498][966]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.27.42:044][  8]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.27.42:053][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.27.42:054][  8]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:27:42）
+[2021.08.19-08.27.42:054][  8]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.27.42:057][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003015s)
+[2021.08.19-08.27.42:058][  8]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.27.42:058][  8]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2021.08.19-08.27.42:058][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.004544s)
+[2021.08.19-08.27.42:092][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.08.19-08.27.42:093][  8]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.27.42:093][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.27.42:093][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.27.42:093][  8]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.27.42:094][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.27.42:099][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.27.42:099][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.27.42:141][  8]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.27.42:141][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.27.42:141][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.27.42:141][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.27.42:142][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.27.42:142][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.27.42:142][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.27.42:159][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.27.42:159][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.27.42:159][  8]LogInit: FAudioDevice initialized.
+[2021.08.19-08.27.42:159][  8]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMap'.
+[2021.08.19-08.27.42:218][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.27.42:218][  8]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.27.42:220][  8]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.27.42
+[2021.08.19-08.27.42:220][  8]LogWorld: Bringing up level for play took: 0.000887
+[2021.08.19-08.27.42:220][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.08.19-08.27.42:225][  8]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.27.42:227][  8]PIE: 登陆的服务器
+[2021.08.19-08.27.42:229][  8]PIE: PIE总开始时间：0.176秒。
+[2021.08.19-08.27.43:394][ 68]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.27.43:395][ 68]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.27.43:395][ 68]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.27.56:539][888]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.27.56:539][888]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.28.01:933][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.28.01:934][223]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.28.01:934][223]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.28.01:943][223]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.28.01:943][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.28.01:956][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.28.01:966][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.28.01:996][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.28.01:996][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.28.01:997][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.28.02:030][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.08.19-08.28.02:048][224]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.08.19-08.28.29:939][937]BlueprintLog: New page: 编译HUD
+[2021.08.19-08.28.29:997][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.08.19-08.28.30:453][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset" SILENT=true
+[2021.08.19-08.28.30:457][968]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/HUD6EDA969C44AB7FED83F325BAC688DA7A.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset'
+[2021.08.19-08.28.30:475][968]AssetCheck: New page: 资产保存：HUD
+[2021.08.19-08.28.30:475][968]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.19-08.28.38:065][558]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.28.38:113][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.08.19-08.28.38:717][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.28.38:749][595]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu8325C2424B80BBABB881FA9E6940883C.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.28.38:763][595]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.28.38:763][595]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.28.39:498][649]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.28.39:508][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.28.39:508][649]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:28:39）
+[2021.08.19-08.28.39:508][649]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.28.39:511][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2021.08.19-08.28.39:512][649]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.28.39:512][649]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2021.08.19-08.28.39:512][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.003808s)
+[2021.08.19-08.28.39:542][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.08.19-08.28.39:542][649]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.28.39:542][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.28.39:542][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.28.39:543][649]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.28.39:543][649]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.28.39:548][649]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.28.39:549][649]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.28.39:592][649]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.28.39:592][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.28.39:592][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.28.39:592][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.28.39:592][649]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.28.39:592][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.28.39:592][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.28.39:608][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.28.39:609][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.28.39:609][649]LogInit: FAudioDevice initialized.
+[2021.08.19-08.28.39:609][649]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMap'.
+[2021.08.19-08.28.39:669][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.28.39:669][649]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.28.39:670][649]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.28.39
+[2021.08.19-08.28.39:671][649]LogWorld: Bringing up level for play took: 0.001081
+[2021.08.19-08.28.39:671][649]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.08.19-08.28.39:676][649]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.28.39:678][649]PIE: 登陆的服务器
+[2021.08.19-08.28.39:680][649]PIE: PIE总开始时间：0.176秒。
+[2021.08.19-08.28.40:787][707]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.28.40:787][707]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.28.40:787][707]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.28.58:533][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.28.58:533][800]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.28.58:533][800]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.28.58:538][800]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.28.58:539][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.28.58:548][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.28.58:552][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.28.58:590][800]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.28.58:591][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.28.58:593][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.28.58:627][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.08.19-08.28.58:645][801]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.08.19-08.29.05:694][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.19-08.29.07:101][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-08.29.07:244][ 84]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Test/Widget/grey_button01.grey_button01
+[2021.08.19-08.29.08:250][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.08.19-08.29.09:730][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.19-08.29.10:820][201]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-08.29.10:954][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.08.19-08.29.29:832][412]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nickel\Downloads\uipack_fixed\PNG\grey_button15.png)
+[2021.08.19-08.29.29:836][412]LogTexture: Display: 正在编译纹理：grey_button15（BGRA8、190X49）
+[2021.08.19-08.29.54:859][406]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.29.54:905][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.08.19-08.29.55:665][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.29.55:696][451]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu6E97374B43DE75108922079076E670CF.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.29.55:713][451]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.29.55:713][451]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.29.56:433][507]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.29.56:444][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.29.56:444][507]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:29:56）
+[2021.08.19-08.29.56:445][507]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.29.56:446][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001375s)
+[2021.08.19-08.29.56:447][507]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.29.56:447][507]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2021.08.19-08.29.56:447][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002505s)
+[2021.08.19-08.29.56:478][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.19-08.29.56:478][507]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.29.56:478][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.29.56:479][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.29.56:479][507]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.29.56:479][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.29.56:485][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.29.56:485][507]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.29.56:526][507]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.29.56:526][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.29.56:526][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.29.56:526][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.29.56:526][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.29.56:527][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.29.56:527][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.29.56:544][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.29.56:544][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.29.56:544][507]LogInit: FAudioDevice initialized.
+[2021.08.19-08.29.56:544][507]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.29.56:603][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.29.56:603][507]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.29.56:606][507]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.29.56
+[2021.08.19-08.29.56:607][507]LogWorld: Bringing up level for play took: 0.002634
+[2021.08.19-08.29.56:608][507]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.19-08.29.56:614][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.29.56:616][507]PIE: 登陆的服务器
+[2021.08.19-08.29.56:617][507]PIE: PIE总开始时间：0.175秒。
+[2021.08.19-08.29.58:005][581]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.29.58:005][581]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.29.58:005][581]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.06:829][121]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.06:829][121]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.06:829][121]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.06:833][121]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.06:834][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.06:899][121]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.06:903][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.08.19-08.30.06:905][121]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.06:907][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2021.08.19-08.30.06:908][121]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.06:909][121]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2021.08.19-08.30.06:909][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.003675s)
+[2021.08.19-08.30.06:909][121]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.30.06:909][121]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.06:911][121]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.06
+[2021.08.19-08.30.06:911][121]LogWorld: Bringing up level for play took: 0.000776
+[2021.08.19-08.30.06:913][121]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.06:914][121]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.06:914][121]LogLoad: Took 0.084736 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.07:926][184]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.07:926][184]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.08:832][239]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.08:832][239]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.08:832][239]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.08:833][239]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.08:833][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.08:867][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.08:870][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.08.19-08.30.08:871][239]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.08:873][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001832s)
+[2021.08.19-08.30.08:874][239]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.08:874][239]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2021.08.19-08.30.08:874][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002924s)
+[2021.08.19-08.30.08:874][239]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.30.08:874][239]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.08:876][239]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.08
+[2021.08.19-08.30.08:876][239]LogWorld: Bringing up level for play took: 0.000786
+[2021.08.19-08.30.08:878][239]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.08:878][239]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.08:878][239]LogLoad: Took 0.045578 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.09:377][270]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.09:377][270]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.10:209][320]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.10:209][320]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.10:209][320]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.10:210][320]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.10:210][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.10:243][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.10:245][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.08.19-08.30.10:246][320]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.10:248][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001503s)
+[2021.08.19-08.30.10:249][320]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.10:249][320]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.08.19-08.30.10:249][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002685s)
+[2021.08.19-08.30.10:249][320]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.30.10:249][320]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.10:250][320]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.10
+[2021.08.19-08.30.10:251][320]LogWorld: Bringing up level for play took: 0.000672
+[2021.08.19-08.30.10:253][320]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.10:253][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.10:253][320]LogLoad: Took 0.043872 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.10:638][344]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.10:638][344]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.12:959][487]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.12:959][487]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.12:959][487]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.12:960][487]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.12:960][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.12:993][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.12:996][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.19-08.30.12:996][487]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.12:998][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001246s)
+[2021.08.19-08.30.12:999][487]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.12:999][487]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2021.08.19-08.30.12:999][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002393s)
+[2021.08.19-08.30.12:999][487]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.30.12:999][487]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.13:001][487]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.13
+[2021.08.19-08.30.13:001][487]LogWorld: Bringing up level for play took: 0.000710
+[2021.08.19-08.30.13:003][487]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.13:003][487]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.13:003][487]LogLoad: Took 0.044042 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.14:024][551]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.14:024][551]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.15:617][650]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.15:618][650]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.15:618][650]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.15:620][650]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.15:621][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.15:669][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.15:672][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.08.19-08.30.15:673][650]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.15:675][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001435s)
+[2021.08.19-08.30.15:676][650]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.15:676][650]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2021.08.19-08.30.15:676][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002752s)
+[2021.08.19-08.30.15:676][650]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.30.15:676][650]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.15:678][650]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.15
+[2021.08.19-08.30.15:678][650]LogWorld: Bringing up level for play took: 0.000623
+[2021.08.19-08.30.15:680][650]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.15:680][650]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.15:680][650]LogLoad: Took 0.062184 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.16:231][684]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.16:231][684]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.17:317][752]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.17:317][752]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.17:317][752]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.17:319][752]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.17:320][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.17:368][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.17:371][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.08.19-08.30.17:372][752]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.17:374][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001427s)
+[2021.08.19-08.30.17:374][752]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.17:375][752]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2021.08.19-08.30.17:375][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002484s)
+[2021.08.19-08.30.17:375][752]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2021.08.19-08.30.17:375][752]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.17:376][752]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.17
+[2021.08.19-08.30.17:377][752]LogWorld: Bringing up level for play took: 0.000623
+[2021.08.19-08.30.17:378][752]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.17:378][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.17:378][752]LogLoad: Took 0.061420 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.19:264][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.30.19:264][865]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.19:264][865]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.30.19:270][865]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.19:270][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.19:278][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.30.19:282][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.19:323][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.19:323][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.30.19:324][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.30.19:360][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.08.19-08.30.19:377][866]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.19-08.30.27:703][540]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.30.27:748][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.08.19-08.30.28:357][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.30.28:389][577]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuC62C591D4BF98BDBD29B9BB0DE9CB75A.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.30.28:406][577]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.30.28:406][577]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.30.29:359][651]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.30.29:370][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.30.29:370][651]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:30:29）
+[2021.08.19-08.30.29:370][651]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.29:371][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001262s)
+[2021.08.19-08.30.29:372][651]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.29:373][651]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2021.08.19-08.30.29:373][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002842s)
+[2021.08.19-08.30.29:405][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.08.19-08.30.29:405][651]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.30.29:406][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.30.29:406][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.30.29:406][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.30.29:411][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.30.29:411][651]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.30.29:455][651]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.30.29:455][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.30.29:455][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.30.29:456][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.30.29:456][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.30.29:456][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.30.29:456][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.30.29:477][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.30.29:477][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.30.29:477][651]LogInit: FAudioDevice initialized.
+[2021.08.19-08.30.29:477][651]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMap'.
+[2021.08.19-08.30.29:542][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.30.29:542][651]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.29:544][651]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.29
+[2021.08.19-08.30.29:544][651]LogWorld: Bringing up level for play took: 0.000841
+[2021.08.19-08.30.29:544][651]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.08.19-08.30.29:549][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.30.29:551][651]PIE: 登陆的服务器
+[2021.08.19-08.30.29:552][651]PIE: PIE总开始时间：0.185秒。
+[2021.08.19-08.30.30:594][705]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.30:595][705]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.30.30:595][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.32:423][816]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.30.32:424][816]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.30.32:424][816]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.32:424][816]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.32:424][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.32:457][816]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.32:460][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.08.19-08.30.32:461][816]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.32:462][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001558s)
+[2021.08.19-08.30.32:463][816]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.30.32:464][816]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2021.08.19-08.30.32:464][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002874s)
+[2021.08.19-08.30.32:464][816]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMap'.
+[2021.08.19-08.30.32:464][816]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.30.32:465][816]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.30.32
+[2021.08.19-08.30.32:466][816]LogWorld: Bringing up level for play took: 0.000700
+[2021.08.19-08.30.32:468][816]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.30.32:468][816]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.30.32:468][816]LogLoad: Took 0.044750 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.30.33:362][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.30.33:362][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.30.54:753][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.30.54:753][191]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.30.54:753][191]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.30.54:766][191]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.30.54:766][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.54:777][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.30.54:782][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.30.54:818][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.30.54:818][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.30.54:819][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.30.54:854][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.08.19-08.30.54:874][192]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.08.19-08.31.34:352][531]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.31.34:397][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.08.19-08.31.36:537][713]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.31.36:546][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.31.36:546][713]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:31:36）
+[2021.08.19-08.31.36:547][713]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.31.36:550][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003071s)
+[2021.08.19-08.31.36:550][713]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.31.36:551][713]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2021.08.19-08.31.36:551][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.004210s)
+[2021.08.19-08.31.36:581][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.08.19-08.31.36:581][713]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.31.36:581][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.31.36:582][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.31.36:582][713]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.31.36:582][713]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.31.36:587][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.31.36:587][713]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.31.36:627][713]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.31.36:628][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.31.36:628][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.31.36:628][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.31.36:628][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.31.36:628][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.31.36:628][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.31.36:644][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.31.36:644][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.31.36:644][713]LogInit: FAudioDevice initialized.
+[2021.08.19-08.31.36:644][713]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMap'.
+[2021.08.19-08.31.36:710][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.31.36:710][713]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.31.36:712][713]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.31.36
+[2021.08.19-08.31.36:712][713]LogWorld: Bringing up level for play took: 0.001006
+[2021.08.19-08.31.36:712][713]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.08.19-08.31.36:716][713]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.31.36:718][713]PIE: 登陆的服务器
+[2021.08.19-08.31.36:720][713]PIE: PIE总开始时间：0.176秒。
+[2021.08.19-08.31.37:822][774]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.31.37:822][774]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.31.37:822][774]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.32.12:063][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.32.12:064][946]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.32.12:064][946]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.32.12:074][946]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.32.12:074][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.32.12:089][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.32.12:094][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.32.12:131][946]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.32.12:131][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.32.12:133][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.32.12:166][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.08.19-08.32.12:184][947]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.08.19-08.32.23:571][952]LogSlate: Window '取色器' being destroyed
+[2021.08.19-08.33.35:164][778]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.33.35:213][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.08.19-08.33.35:829][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.33.35:860][816]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuC81AED7B4EE2646F4028F9BDCEE07EA3.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.33.35:880][816]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.33.35:880][816]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.33.36:570][870]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.33.36:579][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.33.36:580][870]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:33:36）
+[2021.08.19-08.33.36:580][870]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.33.36:581][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001308s)
+[2021.08.19-08.33.36:582][870]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.33.36:582][870]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2021.08.19-08.33.36:582][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002513s)
+[2021.08.19-08.33.36:614][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.08.19-08.33.36:615][870]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.33.36:615][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.33.36:615][870]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.33.36:615][870]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.33.36:621][870]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.33.36:621][870]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.33.36:663][870]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.33.36:663][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.33.36:663][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.33.36:663][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.33.36:664][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.33.36:664][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.33.36:664][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.33.36:680][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.33.36:680][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.33.36:680][870]LogInit: FAudioDevice initialized.
+[2021.08.19-08.33.36:680][870]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMap'.
+[2021.08.19-08.33.36:747][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.33.36:747][870]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.33.36:749][870]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.33.36
+[2021.08.19-08.33.36:749][870]LogWorld: Bringing up level for play took: 0.001066
+[2021.08.19-08.33.36:749][870]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.08.19-08.33.36:754][870]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.33.36:757][870]PIE: 登陆的服务器
+[2021.08.19-08.33.36:759][870]PIE: PIE总开始时间：0.181秒。
+[2021.08.19-08.33.37:938][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.33.37:938][932]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.33.37:938][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.33.40:868][111]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.33.40:868][111]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.33.40:868][111]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.33.40:869][111]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.33.40:870][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.33.40:927][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.33.40:930][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.08.19-08.33.40:931][111]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.33.40:933][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2021.08.19-08.33.40:933][111]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.33.40:934][111]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2021.08.19-08.33.40:934][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002584s)
+[2021.08.19-08.33.40:934][111]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMap'.
+[2021.08.19-08.33.40:934][111]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.33.40:935][111]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.33.40
+[2021.08.19-08.33.40:936][111]LogWorld: Bringing up level for play took: 0.000694
+[2021.08.19-08.33.40:938][111]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.33.40:938][111]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.33.40:938][111]LogLoad: Took 0.070053 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.33.43:136][246]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.33.43:137][246]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.33.44:713][342]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.33.44:713][342]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.33.44:713][342]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.33.44:714][342]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.33.44:714][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.33.44:768][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.33.44:770][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.08.19-08.33.44:772][342]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.33.44:773][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2021.08.19-08.33.44:774][342]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.33.44:774][342]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2021.08.19-08.33.44:774][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002428s)
+[2021.08.19-08.33.44:774][342]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMap'.
+[2021.08.19-08.33.44:774][342]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.33.44:776][342]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.33.44
+[2021.08.19-08.33.44:776][342]LogWorld: Bringing up level for play took: 0.000666
+[2021.08.19-08.33.44:778][342]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.33.44:778][342]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.33.44:778][342]LogLoad: Took 0.064209 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.33.45:429][382]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.33.45:429][382]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.34.04:333][532]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.34.04:333][532]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.34.04:333][532]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.34.04:333][532]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.34.04:333][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.34.04:365][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.34.04:367][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.08.19-08.34.04:369][532]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.34.04:371][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001414s)
+[2021.08.19-08.34.04:372][532]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.34.04:372][532]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2021.08.19-08.34.04:372][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.003000s)
+[2021.08.19-08.34.04:372][532]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMap'.
+[2021.08.19-08.34.04:372][532]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.34.04:374][532]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.34.04
+[2021.08.19-08.34.04:375][532]LogWorld: Bringing up level for play took: 0.000704
+[2021.08.19-08.34.04:376][532]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.34.04:377][532]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.34.04:377][532]LogLoad: Took 0.044032 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.34.40:730][859]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.34.40:754][859]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.34.40:755][859]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.34.40:755][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.34.40:767][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.34.40:773][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.34.40:818][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.34.40:818][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.34.40:822][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.34.40:858][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.08.19-08.34.41:071][860]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.08.19-08.34.46:611][ 76]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nickel\Downloads\uipack_fixed\PNG\grey_button01.png)
+[2021.08.19-08.34.46:615][ 76]LogTexture: Display: 正在编译纹理：grey_button01（BGRA8、190X49）
+[2021.08.19-08.35.12:497][109]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.35.12:544][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.08.19-08.35.13:220][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.35.13:251][154]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu41E65492463953E61E3DE38D6E283717.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.35.13:269][154]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.35.13:269][154]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.35.14:633][274]LogTemp: Repeating last play command: 选中的视口
+[2021.08.19-08.35.14:642][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.19-08.35.14:642][274]PIE: New page: PIE会话：MainMap（2021年8月20日 上午12:35:14）
+[2021.08.19-08.35.14:642][274]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.35.14:645][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002868s)
+[2021.08.19-08.35.14:647][274]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.35.14:648][274]LogPlayLevel: PIE: World Init took: (0.002546s)
+[2021.08.19-08.35.14:648][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.005644s)
+[2021.08.19-08.35.14:680][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.08.19-08.35.14:681][274]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-08.35.14:681][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-08.35.14:681][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-08.35.14:682][274]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-08.35.14:682][274]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-08.35.14:687][274]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-08.35.14:687][274]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-08.35.14:728][274]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.19-08.35.14:729][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-08.35.14:729][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-08.35.14:729][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-08.35.14:729][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-08.35.14:729][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-08.35.14:729][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-08.35.14:746][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-08.35.14:746][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-08.35.14:746][274]LogInit: FAudioDevice initialized.
+[2021.08.19-08.35.14:746][274]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMap'.
+[2021.08.19-08.35.14:806][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.35.14:806][274]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.35.14:807][274]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.35.14
+[2021.08.19-08.35.14:808][274]LogWorld: Bringing up level for play took: 0.000931
+[2021.08.19-08.35.14:808][274]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.08.19-08.35.14:812][274]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.19-08.35.14:814][274]PIE: 登陆的服务器
+[2021.08.19-08.35.14:815][274]PIE: PIE总开始时间：0.176秒。
+[2021.08.19-08.35.15:881][330]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.35.15:881][330]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.19-08.35.15:881][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.35.19:306][545]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.35.19:306][545]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.35.19:306][545]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.35.19:307][545]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.35.19:307][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.35.19:357][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.35.19:360][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.08.19-08.35.19:360][545]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.35.19:362][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001751s)
+[2021.08.19-08.35.19:363][545]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.35.19:363][545]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2021.08.19-08.35.19:363][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002960s)
+[2021.08.19-08.35.19:363][545]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMap'.
+[2021.08.19-08.35.19:363][545]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.35.19:365][545]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.35.19
+[2021.08.19-08.35.19:365][545]LogWorld: Bringing up level for play took: 0.000702
+[2021.08.19-08.35.19:367][545]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.35.19:367][545]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.35.19:367][545]LogLoad: Took 0.061517 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.35.20:068][589]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.19-08.35.20:069][589]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.19-08.35.24:478][868]LogNet: Browse: /Game/Test/MainMap
+[2021.08.19-08.35.24:478][868]LogLoad: LoadMap: /Game/Test/MainMap
+[2021.08.19-08.35.24:478][868]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.35.24:479][868]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.35.24:479][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.35.24:510][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.35.24:513][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.19-08.35.24:514][868]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.35.24:516][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001344s)
+[2021.08.19-08.35.24:517][868]LogAIModule: Creating AISystem for world MainMap
+[2021.08.19-08.35.24:517][868]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.08.19-08.35.24:517][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.002502s)
+[2021.08.19-08.35.24:517][868]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMap'.
+[2021.08.19-08.35.24:517][868]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.19-08.35.24:518][868]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.08.19-16.35.24
+[2021.08.19-08.35.24:518][868]LogWorld: Bringing up level for play took: 0.000660
+[2021.08.19-08.35.24:520][868]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.19-08.35.24:520][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.19-08.35.24:520][868]LogLoad: Took 0.041909 seconds to LoadMap(/Game/Test/UEDPIE_0_MainMap)
+[2021.08.19-08.35.26:464][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-08.35.26:464][990]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.19-08.35.26:464][990]LogSlate: Window 'KennyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.19-08.35.26:471][990]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-08.35.26:472][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.35.26:480][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.19-08.35.26:485][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-08.35.26:518][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-08.35.26:518][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.35.26:520][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-08.35.26:554][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.08.19-08.35.26:571][991]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.08.19-08.36.02:210][ 58]LogContentBrowser: Attempting asset rename: grey_button03 -> Button_normal
+[2021.08.19-08.36.02:314][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_normal" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_normal.uasset" SILENT=true
+[2021.08.19-08.36.02:319][ 58]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_normal9DCB1B6845AAFE1EA60B699315C761D0.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_normal.uasset'
+[2021.08.19-08.36.02:439][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.08.19-08.36.02:484][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.19-08.36.02:512][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.19-08.36.02:543][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.36.02:575][ 58]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuB83B68084586A0177B8F6387BAC87352.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.36.02:617][ 58]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-08.36.02:617][ 58]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.36.02:618][ 58]LogContentValidation: Display: 正在验证Texture2D /Game/Test/Widget/Button_normal.Button_normal
+[2021.08.19-08.36.17:063][406]LogContentBrowser: Attempting asset rename: grey_button15 -> Button_
+[2021.08.19-08.36.17:142][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_.uasset" SILENT=true
+[2021.08.19-08.36.17:145][406]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_6985AE024D64C8AFF61FF2BD9D856F97.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_.uasset'
+[2021.08.19-08.36.17:269][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.08.19-08.36.17:308][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.08.19-08.36.17:334][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.19-08.36.17:388][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.36.17:436][406]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu36A73FFF4FACBC8A2A0DE9BEAE1F9744.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.36.17:477][406]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-08.36.17:477][406]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.36.17:477][406]LogContentValidation: Display: 正在验证Texture2D /Game/Test/Widget/Button_.Button_
+[2021.08.19-08.37.00:149][994]LogContentBrowser: Attempting asset rename: Button_ -> Button_hover
+[2021.08.19-08.37.00:232][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_hover" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_hover.uasset" SILENT=true
+[2021.08.19-08.37.00:234][994]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_hover9D0CAE304681F80E7C2FF09EF69AD121.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_hover.uasset'
+[2021.08.19-08.37.00:298][994]LogUObjectGlobals: Warning: 寻找对象“Object /Game/Test/Widget/Button_.Button_”失败
+[2021.08.19-08.37.00:357][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.19-08.37.00:398][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.08.19-08.37.00:424][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.19-08.37.00:463][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.37.00:495][994]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu3CF92AA247425F9877D14ABB6084D1D7.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.37.00:536][994]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-08.37.00:536][994]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.37.00:537][994]LogContentValidation: Display: 正在验证Texture2D /Game/Test/Widget/Button_hover.Button_hover
+[2021.08.19-08.37.25:067][331]LogContentBrowser: Attempting asset rename: grey_button01 -> Button_release
+[2021.08.19-08.37.25:141][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/Button_release" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_release.uasset" SILENT=true
+[2021.08.19-08.37.25:144][331]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/Button_release4C5181B147EE299B4944CA8A546BACD5.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/Button_release.uasset'
+[2021.08.19-08.37.25:265][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.08.19-08.37.25:304][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.08.19-08.37.25:332][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.19-08.37.25:372][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.37.25:402][331]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu7114E0494363D952501845863F7A5BA4.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.37.25:441][331]AssetCheck: New page: 资产保存：多个资产
+[2021.08.19-08.37.25:441][331]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.37.25:442][331]LogContentValidation: Display: 正在验证Texture2D /Game/Test/Widget/Button_release.Button_release
+[2021.08.19-08.37.47:448][157]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.37.47:509][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.08.19-08.37.48:135][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.37.48:169][197]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu6DDF06654C3CFA225315DDA21E6435AC.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.37.48:185][197]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.37.48:185][197]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.38.17:724][634]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.38.17:790][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.08.19-08.38.18:462][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.38.18:493][676]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu0C4EC27A47E36753BA7160943E2F637B.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.38.18:510][676]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.38.18:510][676]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.38.35:635][979]BlueprintLog: New page: 编译MainMenu
+[2021.08.19-08.38.35:692][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.08.19-08.38.36:254][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.38.36:285][ 14]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenu1AC24436475BE3CCAD3D1297961E0313.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.38.36:302][ 14]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.38.36:302][ 14]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.44.17:730][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/MainMap" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.19-08.44.17:768][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.08.19-08.44.17:777][665]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMap89E74C3249E3DD29CBAD4F858BD65DB5.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/MainMap.umap'
+[2021.08.19-08.44.17:802][665]AssetCheck: New page: 资产保存：MainMap
+[2021.08.19-08.44.17:802][665]LogContentValidation: Display: 正在验证World /Game/Test/MainMap.MainMap
+[2021.08.19-08.44.21:187][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset" SILENT=true
+[2021.08.19-08.44.21:192][971]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/HUD96C085B149A537BE39EBDA90B4C1866E.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset'
+[2021.08.19-08.44.21:207][971]AssetCheck: New page: 资产保存：HUD
+[2021.08.19-08.44.21:207][971]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.19-08.44.25:785][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset" SILENT=true
+[2021.08.19-08.44.25:854][391]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MainMenuFC84D9824161A339C0AB6197D08E25C1.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/MainMenu.uasset'
+[2021.08.19-08.44.25:872][391]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.19-08.44.25:872][391]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/MainMenu.MainMenu
+[2021.08.19-08.44.27:253][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Blueprints/Magician.uasset" SILENT=true
+[2021.08.19-08.44.27:323][485]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/MagicianED2A9ABE4D15689AFE987BAB6C36DE26.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Blueprints/Magician.uasset'
+[2021.08.19-08.44.27:337][485]AssetCheck: New page: 资产保存：Magician
+[2021.08.19-08.44.27:337][485]LogContentValidation: Display: 正在验证Blueprint /Game/Test/Blueprints/Magician.Magician
+[2021.08.19-08.47.09:709][ 45]LogSlate: Window '取色器' being destroyed
+[2021.08.19-08.47.14:762][493]LogSlate: Last resort fallback font was requested. Font: '/Game/Test/Widget/Pacifico-Regular.Pacifico-Regular', Character: '我 (U+6211)'
+[2021.08.19-08.47.14:807][493]LogSlate: Took 0.043394 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.08.19-08.48.04:243][436]BlueprintLog: New page: 编译HUD
+[2021.08.19-08.48.04:311][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.08.19-08.48.04:999][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset" SILENT=true
+[2021.08.19-08.48.05:006][487]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/HUDC045E3364409018DE76DE098D7236AE6.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset'
+[2021.08.19-08.48.05:025][487]AssetCheck: New page: 资产保存：HUD
+[2021.08.19-08.48.05:025][487]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.19-08.50.43:612][705]LogSlate: Window '取色器' being destroyed
+[2021.08.19-08.50.44:827][811]BlueprintLog: New page: 编译HUD
+[2021.08.19-08.50.44:888][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.08.19-08.50.45:394][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset" SILENT=true
+[2021.08.19-08.50.45:401][846]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Saved/HUD5CB4512B4E33EA883FC6D7A303F5E8E6.tmp' to 'F:/Unreal Projects/kennyjam_test/KennyJam2021/Content/Test/Widget/HUD.uasset'
+[2021.08.19-08.50.45:423][846]AssetCheck: New page: 资产保存：HUD
+[2021.08.19-08.50.45:423][846]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/Test/Widget/HUD.HUD
