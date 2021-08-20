@@ -2360,3 +2360,382 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.20-13.03.36:126][720]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/loungeChair.loungeChair
 [2021.08.20-13.03.36:126][720]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/loungeSofaLong.loungeSofaLong
 [2021.08.20-13.03.36:126][720]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/loungeSofaCorner.loungeSofaCorner
+[2021.08.20-13.06.29:444][856]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.20-13.06.29:454][856]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.20-13.06.31:760][995]LogContentBrowser: Attempting asset rename: NewFolder -> emotes
+[2021.08.20-13.06.31:761][995]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.20-13.09.01:993][824]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.20-13.09.02:019][824]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.20-13.09.08:792][231]LogContentBrowser: Attempting asset rename: NewFolder -> _transBackground
+[2021.08.20-13.09.08:793][231]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.20-13.09.47:843][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote__.png)
+[2021.08.20-13.09.47:937][464]LogTexture: Display: Building textures: emote__ (BGRA8, 32X38)
+[2021.08.20-13.09.47:950][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_alert.png)
+[2021.08.20-13.09.47:952][464]LogTexture: Display: Building textures: emote_alert (BGRA8, 32X38)
+[2021.08.20-13.09.47:955][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_anger.png)
+[2021.08.20-13.09.47:958][464]LogTexture: Display: Building textures: emote_anger (BGRA8, 32X38)
+[2021.08.20-13.09.47:960][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_bars.png)
+[2021.08.20-13.09.47:961][464]LogTexture: Display: Building textures: emote_bars (BGRA8, 32X38)
+[2021.08.20-13.09.47:963][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_cash.png)
+[2021.08.20-13.09.47:965][464]LogTexture: Display: Building textures: emote_cash (BGRA8, 32X38)
+[2021.08.20-13.09.47:969][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_circle.png)
+[2021.08.20-13.09.47:970][464]LogTexture: Display: Building textures: emote_circle (BGRA8, 32X38)
+[2021.08.20-13.09.47:972][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_cloud.png)
+[2021.08.20-13.09.47:975][464]LogTexture: Display: Building textures: emote_cloud (BGRA8, 32X38)
+[2021.08.20-13.09.47:977][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_cross.png)
+[2021.08.20-13.09.47:978][464]LogTexture: Display: Building textures: emote_cross (BGRA8, 32X38)
+[2021.08.20-13.09.47:981][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_dots1.png)
+[2021.08.20-13.09.47:982][464]LogTexture: Display: Building textures: emote_dots1 (BGRA8, 32X38)
+[2021.08.20-13.09.47:986][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_dots2.png)
+[2021.08.20-13.09.47:988][464]LogTexture: Display: Building textures: emote_dots2 (BGRA8, 32X38)
+[2021.08.20-13.09.47:990][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_dots3.png)
+[2021.08.20-13.09.47:992][464]LogTexture: Display: Building textures: emote_dots3 (BGRA8, 32X38)
+[2021.08.20-13.09.47:994][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_drop.png)
+[2021.08.20-13.09.47:996][464]LogTexture: Display: Building textures: emote_drop (BGRA8, 32X38)
+[2021.08.20-13.09.47:999][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_drops.png)
+[2021.08.20-13.09.48:002][464]LogTexture: Display: Building textures: emote_drops (BGRA8, 32X38)
+[2021.08.20-13.09.48:006][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_exclamation.png)
+[2021.08.20-13.09.48:008][464]LogTexture: Display: Building textures: emote_exclamation (BGRA8, 32X38)
+[2021.08.20-13.09.48:011][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_exclamations.png)
+[2021.08.20-13.09.48:013][464]LogTexture: Display: Building textures: emote_exclamations (BGRA8, 32X38)
+[2021.08.20-13.09.48:016][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_faceAngry.png)
+[2021.08.20-13.09.48:019][464]LogTexture: Display: Building textures: emote_faceAngry (BGRA8, 32X38)
+[2021.08.20-13.09.48:022][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_faceHappy.png)
+[2021.08.20-13.09.48:024][464]LogTexture: Display: Building textures: emote_faceHappy (BGRA8, 32X38)
+[2021.08.20-13.09.48:026][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_faceSad.png)
+[2021.08.20-13.09.48:028][464]LogTexture: Display: Building textures: emote_faceSad (BGRA8, 32X38)
+[2021.08.20-13.09.48:030][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_heart.png)
+[2021.08.20-13.09.48:031][464]LogTexture: Display: Building textures: emote_heart (BGRA8, 32X38)
+[2021.08.20-13.09.48:035][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_heartBroken.png)
+[2021.08.20-13.09.48:038][464]LogTexture: Display: Building textures: emote_heartBroken (BGRA8, 32X38)
+[2021.08.20-13.09.48:046][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_hearts.png)
+[2021.08.20-13.09.48:048][464]LogTexture: Display: Building textures: emote_hearts (BGRA8, 32X38)
+[2021.08.20-13.09.48:057][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_idea.png)
+[2021.08.20-13.09.48:059][464]LogTexture: Display: Building textures: emote_idea (BGRA8, 32X38)
+[2021.08.20-13.09.48:126][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_laugh.png)
+[2021.08.20-13.09.48:130][464]LogTexture: Display: Building textures: emote_laugh (BGRA8, 32X38)
+[2021.08.20-13.09.48:140][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_music.png)
+[2021.08.20-13.09.48:141][464]LogTexture: Display: Building textures: emote_music (BGRA8, 32X38)
+[2021.08.20-13.09.48:148][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_question.png)
+[2021.08.20-13.09.48:152][464]LogTexture: Display: Building textures: emote_question (BGRA8, 32X38)
+[2021.08.20-13.09.48:159][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_sleep.png)
+[2021.08.20-13.09.48:161][464]LogTexture: Display: Building textures: emote_sleep (BGRA8, 32X38)
+[2021.08.20-13.09.48:169][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_sleeps.png)
+[2021.08.20-13.09.48:171][464]LogTexture: Display: Building textures: emote_sleeps (BGRA8, 32X38)
+[2021.08.20-13.09.48:177][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_star.png)
+[2021.08.20-13.09.48:179][464]LogTexture: Display: Building textures: emote_star (BGRA8, 32X38)
+[2021.08.20-13.09.48:188][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_stars.png)
+[2021.08.20-13.09.48:189][464]LogTexture: Display: Building textures: emote_stars (BGRA8, 32X38)
+[2021.08.20-13.09.48:196][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 8\emote_swirl.png)
+[2021.08.20-13.09.48:198][464]LogTexture: Display: Building textures: emote_swirl (BGRA8, 32X38)
+[2021.08.20-13.09.56:856][883]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.20-13.09.56:870][883]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.20-13.10.00:975][130]LogContentBrowser: Attempting asset rename: NewFolder -> speakingBubble
+[2021.08.20-13.10.00:975][130]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.20-13.10.13:366][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_alert.png)
+[2021.08.20-13.10.13:368][241]LogTexture: Display: Building textures: emote_alert (BGRA8, 32X38)
+[2021.08.20-13.10.13:370][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_anger.png)
+[2021.08.20-13.10.13:371][241]LogTexture: Display: Building textures: emote_anger (BGRA8, 32X38)
+[2021.08.20-13.10.13:373][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_bars.png)
+[2021.08.20-13.10.13:376][241]LogTexture: Display: Building textures: emote_bars (BGRA8, 32X38)
+[2021.08.20-13.10.13:379][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_cash.png)
+[2021.08.20-13.10.13:381][241]LogTexture: Display: Building textures: emote_cash (BGRA8, 32X38)
+[2021.08.20-13.10.13:384][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_circle.png)
+[2021.08.20-13.10.13:386][241]LogTexture: Display: Building textures: emote_circle (BGRA8, 32X38)
+[2021.08.20-13.10.13:388][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_cloud.png)
+[2021.08.20-13.10.13:390][241]LogTexture: Display: Building textures: emote_cloud (BGRA8, 32X38)
+[2021.08.20-13.10.13:392][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_cross.png)
+[2021.08.20-13.10.13:394][241]LogTexture: Display: Building textures: emote_cross (BGRA8, 32X38)
+[2021.08.20-13.10.13:397][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_dots1.png)
+[2021.08.20-13.10.13:399][241]LogTexture: Display: Building textures: emote_dots1 (BGRA8, 32X38)
+[2021.08.20-13.10.13:402][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_dots2.png)
+[2021.08.20-13.10.13:404][241]LogTexture: Display: Building textures: emote_dots2 (BGRA8, 32X38)
+[2021.08.20-13.10.13:407][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_dots3.png)
+[2021.08.20-13.10.13:409][241]LogTexture: Display: Building textures: emote_dots3 (BGRA8, 32X38)
+[2021.08.20-13.10.13:411][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_drop.png)
+[2021.08.20-13.10.13:414][241]LogTexture: Display: Building textures: emote_drop (BGRA8, 32X38)
+[2021.08.20-13.10.13:416][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_drops.png)
+[2021.08.20-13.10.13:497][241]LogTexture: Display: Building textures: emote_drops (BGRA8, 32X38)
+[2021.08.20-13.10.13:499][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_exclamation.png)
+[2021.08.20-13.10.13:501][241]LogTexture: Display: Building textures: emote_exclamation (BGRA8, 32X38)
+[2021.08.20-13.10.13:503][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_exclamations.png)
+[2021.08.20-13.10.13:505][241]LogTexture: Display: Building textures: emote_exclamations (BGRA8, 32X38)
+[2021.08.20-13.10.13:508][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_faceAngry.png)
+[2021.08.20-13.10.13:509][241]LogTexture: Display: Building textures: emote_faceAngry (BGRA8, 32X38)
+[2021.08.20-13.10.13:512][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_faceHappy.png)
+[2021.08.20-13.10.13:514][241]LogTexture: Display: Building textures: emote_faceHappy (BGRA8, 32X38)
+[2021.08.20-13.10.13:517][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_faceSad.png)
+[2021.08.20-13.10.13:518][241]LogTexture: Display: Building textures: emote_faceSad (BGRA8, 32X38)
+[2021.08.20-13.10.13:520][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_heart.png)
+[2021.08.20-13.10.13:522][241]LogTexture: Display: Building textures: emote_heart (BGRA8, 32X38)
+[2021.08.20-13.10.13:525][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_heartBroken.png)
+[2021.08.20-13.10.13:527][241]LogTexture: Display: Building textures: emote_heartBroken (BGRA8, 32X38)
+[2021.08.20-13.10.13:529][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_hearts.png)
+[2021.08.20-13.10.13:531][241]LogTexture: Display: Building textures: emote_hearts (BGRA8, 32X38)
+[2021.08.20-13.10.13:533][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_idea.png)
+[2021.08.20-13.10.13:535][241]LogTexture: Display: Building textures: emote_idea (BGRA8, 32X38)
+[2021.08.20-13.10.13:537][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_laugh.png)
+[2021.08.20-13.10.13:538][241]LogTexture: Display: Building textures: emote_laugh (BGRA8, 32X38)
+[2021.08.20-13.10.13:541][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_music.png)
+[2021.08.20-13.10.13:543][241]LogTexture: Display: Building textures: emote_music (BGRA8, 32X38)
+[2021.08.20-13.10.13:546][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_question.png)
+[2021.08.20-13.10.13:547][241]LogTexture: Display: Building textures: emote_question (BGRA8, 32X38)
+[2021.08.20-13.10.13:549][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_sleep.png)
+[2021.08.20-13.10.13:551][241]LogTexture: Display: Building textures: emote_sleep (BGRA8, 32X38)
+[2021.08.20-13.10.13:553][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_sleeps.png)
+[2021.08.20-13.10.13:554][241]LogTexture: Display: Building textures: emote_sleeps (BGRA8, 32X38)
+[2021.08.20-13.10.13:557][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_star.png)
+[2021.08.20-13.10.13:558][241]LogTexture: Display: Building textures: emote_star (BGRA8, 32X38)
+[2021.08.20-13.10.13:561][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_stars.png)
+[2021.08.20-13.10.13:562][241]LogTexture: Display: Building textures: emote_stars (BGRA8, 32X38)
+[2021.08.20-13.10.13:566][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote_swirl.png)
+[2021.08.20-13.10.13:568][241]LogTexture: Display: Building textures: emote_swirl (BGRA8, 32X38)
+[2021.08.20-13.10.13:571][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 1\emote__.png)
+[2021.08.20-13.10.13:572][241]LogTexture: Display: Building textures: emote__ (BGRA8, 32X38)
+[2021.08.20-13.10.17:829][402]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.20-13.10.17:845][402]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.20-13.10.23:651][751]LogContentBrowser: Attempting asset rename: NewFolder -> thinkingBubble
+[2021.08.20-13.10.23:651][751]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.20-13.10.37:080][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote__.png)
+[2021.08.20-13.10.37:082][923]LogTexture: Display: Building textures: emote__ (BGRA8, 32X38)
+[2021.08.20-13.10.37:090][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_alert.png)
+[2021.08.20-13.10.37:092][923]LogTexture: Display: Building textures: emote_alert (BGRA8, 32X38)
+[2021.08.20-13.10.37:098][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_anger.png)
+[2021.08.20-13.10.37:100][923]LogTexture: Display: Building textures: emote_anger (BGRA8, 32X38)
+[2021.08.20-13.10.37:106][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_bars.png)
+[2021.08.20-13.10.37:107][923]LogTexture: Display: Building textures: emote_bars (BGRA8, 32X38)
+[2021.08.20-13.10.37:114][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_cash.png)
+[2021.08.20-13.10.37:116][923]LogTexture: Display: Building textures: emote_cash (BGRA8, 32X38)
+[2021.08.20-13.10.37:122][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_circle.png)
+[2021.08.20-13.10.37:124][923]LogTexture: Display: Building textures: emote_circle (BGRA8, 32X38)
+[2021.08.20-13.10.37:131][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_cloud.png)
+[2021.08.20-13.10.37:132][923]LogTexture: Display: Building textures: emote_cloud (BGRA8, 32X38)
+[2021.08.20-13.10.37:139][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_cross.png)
+[2021.08.20-13.10.37:141][923]LogTexture: Display: Building textures: emote_cross (BGRA8, 32X38)
+[2021.08.20-13.10.37:147][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_dots1.png)
+[2021.08.20-13.10.37:149][923]LogTexture: Display: Building textures: emote_dots1 (BGRA8, 32X38)
+[2021.08.20-13.10.37:156][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_dots2.png)
+[2021.08.20-13.10.37:157][923]LogTexture: Display: Building textures: emote_dots2 (BGRA8, 32X38)
+[2021.08.20-13.10.37:165][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_dots3.png)
+[2021.08.20-13.10.37:167][923]LogTexture: Display: Building textures: emote_dots3 (BGRA8, 32X38)
+[2021.08.20-13.10.37:173][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_drop.png)
+[2021.08.20-13.10.37:175][923]LogTexture: Display: Building textures: emote_drop (BGRA8, 32X38)
+[2021.08.20-13.10.37:183][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_drops.png)
+[2021.08.20-13.10.37:185][923]LogTexture: Display: Building textures: emote_drops (BGRA8, 32X38)
+[2021.08.20-13.10.37:191][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_exclamation.png)
+[2021.08.20-13.10.37:193][923]LogTexture: Display: Building textures: emote_exclamation (BGRA8, 32X38)
+[2021.08.20-13.10.37:200][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_exclamations.png)
+[2021.08.20-13.10.37:201][923]LogTexture: Display: Building textures: emote_exclamations (BGRA8, 32X38)
+[2021.08.20-13.10.37:208][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_faceAngry.png)
+[2021.08.20-13.10.37:209][923]LogTexture: Display: Building textures: emote_faceAngry (BGRA8, 32X38)
+[2021.08.20-13.10.37:216][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_faceHappy.png)
+[2021.08.20-13.10.37:218][923]LogTexture: Display: Building textures: emote_faceHappy (BGRA8, 32X38)
+[2021.08.20-13.10.37:225][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_faceSad.png)
+[2021.08.20-13.10.37:226][923]LogTexture: Display: Building textures: emote_faceSad (BGRA8, 32X38)
+[2021.08.20-13.10.37:233][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_heart.png)
+[2021.08.20-13.10.37:235][923]LogTexture: Display: Building textures: emote_heart (BGRA8, 32X38)
+[2021.08.20-13.10.37:240][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_heartBroken.png)
+[2021.08.20-13.10.37:242][923]LogTexture: Display: Building textures: emote_heartBroken (BGRA8, 32X38)
+[2021.08.20-13.10.37:249][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_hearts.png)
+[2021.08.20-13.10.37:251][923]LogTexture: Display: Building textures: emote_hearts (BGRA8, 32X38)
+[2021.08.20-13.10.37:257][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_idea.png)
+[2021.08.20-13.10.37:259][923]LogTexture: Display: Building textures: emote_idea (BGRA8, 32X38)
+[2021.08.20-13.10.37:266][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_laugh.png)
+[2021.08.20-13.10.37:267][923]LogTexture: Display: Building textures: emote_laugh (BGRA8, 32X38)
+[2021.08.20-13.10.37:273][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_music.png)
+[2021.08.20-13.10.37:275][923]LogTexture: Display: Building textures: emote_music (BGRA8, 32X38)
+[2021.08.20-13.10.37:282][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_question.png)
+[2021.08.20-13.10.37:284][923]LogTexture: Display: Building textures: emote_question (BGRA8, 32X38)
+[2021.08.20-13.10.37:291][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_sleep.png)
+[2021.08.20-13.10.37:292][923]LogTexture: Display: Building textures: emote_sleep (BGRA8, 32X38)
+[2021.08.20-13.10.37:298][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_sleeps.png)
+[2021.08.20-13.10.37:300][923]LogTexture: Display: Building textures: emote_sleeps (BGRA8, 32X38)
+[2021.08.20-13.10.37:308][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_star.png)
+[2021.08.20-13.10.37:309][923]LogTexture: Display: Building textures: emote_star (BGRA8, 32X38)
+[2021.08.20-13.10.37:315][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_stars.png)
+[2021.08.20-13.10.37:317][923]LogTexture: Display: Building textures: emote_stars (BGRA8, 32X38)
+[2021.08.20-13.10.37:324][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_emotespack\PNG\Vector\Style 5\emote_swirl.png)
+[2021.08.20-13.10.37:326][923]LogTexture: Display: Building textures: emote_swirl (BGRA8, 32X38)
+[2021.08.20-13.10.40:760][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.08.20-13.10.41:585][ 54]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-13.10.41:654][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote__B61279E7452961A4C611C5B695F8BAFB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote__.uasset'
+[2021.08.20-13.10.41:659][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote__6B787E734848EB6FB7646EB91D5DC8E6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote__.uasset'
+[2021.08.20-13.10.41:664][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote__DF18015D4E40CFCBE8AD068807AB41B6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote__.uasset'
+[2021.08.20-13.10.41:671][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_alert6BBBCC1544BF6C35110988A1CCFF501B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_alert.uasset'
+[2021.08.20-13.10.41:676][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_alertB778F7FC4506C686B399A494117ED7EE.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_alert.uasset'
+[2021.08.20-13.10.41:681][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_alertA49B83884F5C4D184E316CB66A4553F1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_alert.uasset'
+[2021.08.20-13.10.41:687][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_anger54FB5B604EA233F45D4A008B7DF3E59E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_anger.uasset'
+[2021.08.20-13.10.41:692][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_angerCD216CEB4C9E58DD92063A97B470BB4D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_anger.uasset'
+[2021.08.20-13.10.41:697][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_anger8F7FA4E84A30A624464B68A0273E7ABD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_anger.uasset'
+[2021.08.20-13.10.41:704][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_bars10931EED445B961ED2E382AB54A84D09.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_bars.uasset'
+[2021.08.20-13.10.41:709][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_barsF0E4DEC647F2AA18EA811F979D9EBA6C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_bars.uasset'
+[2021.08.20-13.10.41:714][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_bars4F6B078441DE6022F49C08A71EDE2CC6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_bars.uasset'
+[2021.08.20-13.10.41:720][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cashE73194724E7C8746086086835B0BD456.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_cash.uasset'
+[2021.08.20-13.10.41:725][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cash4517F30C4BEC2B664713DCB8BC50FB4B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_cash.uasset'
+[2021.08.20-13.10.41:730][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cashF24FF875494EF7B9399F26AEAB676D16.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_cash.uasset'
+[2021.08.20-13.10.41:736][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_circle76E3F0674E740AAB17A6B2B98539B475.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_circle.uasset'
+[2021.08.20-13.10.41:741][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_circle1BF22C4249DAF3B286C562A5337DFD1F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_circle.uasset'
+[2021.08.20-13.10.41:747][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_circle73F4471143FA811B4F8EB08941E53910.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_circle.uasset'
+[2021.08.20-13.10.41:755][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cloudBA382BC642C7A6CFF7CDDA89170E69EB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_cloud.uasset'
+[2021.08.20-13.10.41:759][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cloud70E2010D40EBACB96989EF9BBD5E02BF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_cloud.uasset'
+[2021.08.20-13.10.41:764][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cloud9DDF7BA04BA2D976F7555380667DAE5F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_cloud.uasset'
+[2021.08.20-13.10.41:772][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_crossE525498144CF0FDF985CCC93EF5B367B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_cross.uasset'
+[2021.08.20-13.10.41:777][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_cross09D077A042C1E17F4D3C9D9177E9C243.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_cross.uasset'
+[2021.08.20-13.10.41:820][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_crossF2969C15478E3369968065893AB1337E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_cross.uasset'
+[2021.08.20-13.10.41:824][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots1F4267AB24C317B7523751889E4986E60.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_dots1.uasset'
+[2021.08.20-13.10.41:829][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots11C01C3CC48055DC916FC8284F3C22871.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_dots1.uasset'
+[2021.08.20-13.10.41:834][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots1E3C053AB417C8C442DA2528903BB4493.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_dots1.uasset'
+[2021.08.20-13.10.41:840][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots2413659EA485D3C3A80326FAF266493A1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_dots2.uasset'
+[2021.08.20-13.10.41:844][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots2570E4315441C75EA49B1BEAE5BB22EFF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_dots2.uasset'
+[2021.08.20-13.10.41:856][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots2629F91A046C013C097EB0B9F647E230D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_dots2.uasset'
+[2021.08.20-13.10.41:860][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots3DA3C196C43BA686DF7AFE4B9094E1952.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_dots3.uasset'
+[2021.08.20-13.10.41:865][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots3D7E7C2F74DCA3D9D380059A1299BAC51.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_dots3.uasset'
+[2021.08.20-13.10.41:870][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dots3300FBDC24B49D4D5A4244088880BAF07.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_dots3.uasset'
+[2021.08.20-13.10.41:875][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_drop5AC5C8D346A6ACC6094B70B3F6032365.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_drop.uasset'
+[2021.08.20-13.10.41:880][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_drop27BC00204A7C8CC1ECD07EAC3507C670.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_drop.uasset'
+[2021.08.20-13.10.41:886][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_dropDD5389514546FF9FF58B1692276AE480.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_drop.uasset'
+[2021.08.20-13.10.41:890][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_drops78BC5F254C0F4A0CEEFB968B0B37BAF4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_drops.uasset'
+[2021.08.20-13.10.41:895][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_drops012371F64F97B3F9F4B4E0811EA8753C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_drops.uasset'
+[2021.08.20-13.10.41:900][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_drops7172FCA9458E298545AAA2BA3388DF19.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_drops.uasset'
+[2021.08.20-13.10.41:905][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_exclamationE24A91544F6C62EB7137E3AB8628C675.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_exclamation.uasset'
+[2021.08.20-13.10.41:910][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_exclamationB5C2EC9F4AB156AD5A34448D5AA6C984.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_exclamation.uasset'
+[2021.08.20-13.10.41:915][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_exclamation006DD8E44E2144CD0256E3B2C70A4DDB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_exclamation.uasset'
+[2021.08.20-13.10.41:920][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_exclamations1C4A636C4D9DE0DC98F2AFA8CEA37FD9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_exclamations.uasset'
+[2021.08.20-13.10.41:925][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_exclamationsED1ED1724BD075A83D7DE4A6F983832F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_exclamations.uasset'
+[2021.08.20-13.10.41:930][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_exclamations6E248D7A44C5D66853581889D85C8C4C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_exclamations.uasset'
+[2021.08.20-13.10.41:935][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceAngryBEE35B63475F2C6B6A63BCBB54A06841.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_faceAngry.uasset'
+[2021.08.20-13.10.41:941][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceAngry5FFC1F8F464611BDEC613E821F0C2FA4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_faceAngry.uasset'
+[2021.08.20-13.10.41:946][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceAngryBDD9B7E543404BD19826E7AA0512E0CC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_faceAngry.uasset'
+[2021.08.20-13.10.41:951][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceHappy1B8FAA794D660CD6DF639B88EDC7ABC4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_faceHappy.uasset'
+[2021.08.20-13.10.41:956][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceHappy7E44A72C41A9F95F3912BEB1D6A17E83.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_faceHappy.uasset'
+[2021.08.20-13.10.41:961][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceHappy253B10744683076C2D7DD8B7384FD419.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_faceHappy.uasset'
+[2021.08.20-13.10.41:968][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceSadD1A86E67419638A4870DFB8F1AB6E300.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_faceSad.uasset'
+[2021.08.20-13.10.41:973][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceSad4FEE3AD947894C4388C0B1ACDD6DAEC8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_faceSad.uasset'
+[2021.08.20-13.10.41:978][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_faceSad1C8DFD0447A9E7234109EFA4C801BE0B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_faceSad.uasset'
+[2021.08.20-13.10.41:984][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heart9B69679C489CCDEFC38EE9AE10A146A2.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_heart.uasset'
+[2021.08.20-13.10.41:989][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heartEE63CEED4AA55345F6F2EA89B908FEC5.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_heart.uasset'
+[2021.08.20-13.10.41:995][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heart926D7E574639C3665686F78646136288.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_heart.uasset'
+[2021.08.20-13.10.42:001][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heartBrokenD1A5E22547D220AC83FDA6A54DE801F6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_heartBroken.uasset'
+[2021.08.20-13.10.42:006][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heartBrokenA2115F3A436347368D5862B9B576BD80.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_heartBroken.uasset'
+[2021.08.20-13.10.42:011][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heartBroken3AC5FAFC46E4A16C9B497F935C114890.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_heartBroken.uasset'
+[2021.08.20-13.10.42:017][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_hearts7BB5CC064185563A4B6C6B93219BD9EC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_hearts.uasset'
+[2021.08.20-13.10.42:022][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_hearts874E834D4B94320622B499B3C5BB5F16.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_hearts.uasset'
+[2021.08.20-13.10.42:027][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_heartsE29C078F4F79FE136846B9B295A4784C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_hearts.uasset'
+[2021.08.20-13.10.42:032][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_idea6DF937B844C55563B0FDA2B01B0C1B2F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_idea.uasset'
+[2021.08.20-13.10.42:037][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_idea8450965249130713ED5D838893299708.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_idea.uasset'
+[2021.08.20-13.10.42:041][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_idea2CA868074D571610E97C6A8906ABE632.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_idea.uasset'
+[2021.08.20-13.10.42:048][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_laugh98E849C14E2DAF4823AD7DB15C11BAF6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_laugh.uasset'
+[2021.08.20-13.10.42:054][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_laugh3F1FF55B49AA1A9E9B2E61A1055DC113.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_laugh.uasset'
+[2021.08.20-13.10.42:059][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_laugh2BCA0F18400E832D442B00BC0339B7D8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_laugh.uasset'
+[2021.08.20-13.10.42:064][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_music05479F734B79B6BB0D4739A4FD2B006B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_music.uasset'
+[2021.08.20-13.10.42:070][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_musicAAEBEA604B8E7BBE723679A03CC65808.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_music.uasset'
+[2021.08.20-13.10.42:075][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_musicBA256AFA4BF0342505ADA99428254E43.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_music.uasset'
+[2021.08.20-13.10.42:079][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_questionE2C504544FCAB320EFA1BDAACAD9ADF1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_question.uasset'
+[2021.08.20-13.10.42:086][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_questionF04CA2E44CB5A8985BB5C48F09FC023D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_question.uasset'
+[2021.08.20-13.10.42:090][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_questionFFE118934B2627598311ACAEA809D4A6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_question.uasset'
+[2021.08.20-13.10.42:095][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_sleepC4637559499E8E564596978CBF3F7A71.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_sleep.uasset'
+[2021.08.20-13.10.42:101][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_sleep409B54C44768D53E8AF83989CA479EC0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_sleep.uasset'
+[2021.08.20-13.10.42:105][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_sleep5E8D9CEE4482873EF191D7A85ED924E6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_sleep.uasset'
+[2021.08.20-13.10.42:110][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_sleeps6F490FD946F525A05C6BCEBBD2868A3D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_sleeps.uasset'
+[2021.08.20-13.10.42:115][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_sleeps2B24D2C44CEF0166AB9031BF9AC3F097.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_sleeps.uasset'
+[2021.08.20-13.10.42:120][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_sleeps9420237445B9573B910FB0BD90C6EFE8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_sleeps.uasset'
+[2021.08.20-13.10.42:125][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_starD00D7983417BC40D2BCB1BA9746A8759.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_star.uasset'
+[2021.08.20-13.10.42:130][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_star27774E3A4109DC95CAC932AFD73A0A28.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_star.uasset'
+[2021.08.20-13.10.42:136][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_starB56E3AF04AD1BDC179B2D399AB6D2BA2.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_star.uasset'
+[2021.08.20-13.10.42:141][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_starsFAFAD4824D6C94B3FCB1C48DE9D5B400.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_stars.uasset'
+[2021.08.20-13.10.42:145][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_stars4DDFC11745184FF7DB1B6A971429689B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_stars.uasset'
+[2021.08.20-13.10.42:153][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_starsE95E2B7545976875AE6E789B361B7021.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_stars.uasset'
+[2021.08.20-13.10.42:159][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_swirl8CC8D8054194A49C9D48938275899B91.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/speakingBubble/emote_swirl.uasset'
+[2021.08.20-13.10.42:165][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_swirl56BF990647ECEAB2933A558948EAECAB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_swirl.uasset'
+[2021.08.20-13.10.42:171][ 54]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/emote_swirl8CF8AEE34FB5D823BE4BB89440EB0981.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Widget/UI_Elements/emotes/_transBackground/emote_swirl.uasset'
+[2021.08.20-13.10.42:249][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_cross.emote_cross
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_swirl.emote_swirl
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_stars.emote_stars
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_star.emote_star
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_sleeps.emote_sleeps
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_sleep.emote_sleep
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_question.emote_question
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_music.emote_music
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_laugh.emote_laugh
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_idea.emote_idea
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_hearts.emote_hearts
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_heartBroken.emote_heartBroken
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_heart.emote_heart
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_faceSad.emote_faceSad
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_faceHappy.emote_faceHappy
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_faceAngry.emote_faceAngry
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_exclamations.emote_exclamations
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_exclamation.emote_exclamation
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_drops.emote_drops
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_drop.emote_drop
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_dots3.emote_dots3
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_dots2.emote_dots2
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_dots1.emote_dots1
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_cross.emote_cross
+[2021.08.20-13.10.42:249][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_cloud.emote_cloud
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_circle.emote_circle
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_cash.emote_cash
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_bars.emote_bars
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_anger.emote_anger
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote_alert.emote_alert
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/thinkingBubble/emote__.emote__
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote__.emote__
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_swirl.emote_swirl
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_stars.emote_stars
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_star.emote_star
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_sleeps.emote_sleeps
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_sleep.emote_sleep
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_question.emote_question
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_music.emote_music
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_laugh.emote_laugh
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_idea.emote_idea
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_hearts.emote_hearts
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_heartBroken.emote_heartBroken
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_heart.emote_heart
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_faceSad.emote_faceSad
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_faceHappy.emote_faceHappy
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_faceAngry.emote_faceAngry
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_exclamations.emote_exclamations
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_exclamation.emote_exclamation
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_drops.emote_drops
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_drop.emote_drop
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_dots3.emote_dots3
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_dots2.emote_dots2
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_dots1.emote_dots1
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_cross.emote_cross
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_cloud.emote_cloud
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_circle.emote_circle
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_cash.emote_cash
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_bars.emote_bars
+[2021.08.20-13.10.42:250][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_anger.emote_anger
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/speakingBubble/emote_alert.emote_alert
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_swirl.emote_swirl
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_stars.emote_stars
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_star.emote_star
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_sleeps.emote_sleeps
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_sleep.emote_sleep
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_question.emote_question
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_music.emote_music
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_laugh.emote_laugh
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_idea.emote_idea
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_hearts.emote_hearts
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_heartBroken.emote_heartBroken
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_heart.emote_heart
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_faceSad.emote_faceSad
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_faceHappy.emote_faceHappy
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_faceAngry.emote_faceAngry
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_exclamations.emote_exclamations
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_exclamation.emote_exclamation
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_drops.emote_drops
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_drop.emote_drop
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_dots3.emote_dots3
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_dots2.emote_dots2
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_dots1.emote_dots1
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_cloud.emote_cloud
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_circle.emote_circle
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_cash.emote_cash
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_bars.emote_bars
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_anger.emote_anger
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote_alert.emote_alert
+[2021.08.20-13.10.42:251][ 54]LogContentValidation: Display: Validating Texture2D /Game/Test/Widget/UI_Elements/emotes/_transBackground/emote__.emote__
