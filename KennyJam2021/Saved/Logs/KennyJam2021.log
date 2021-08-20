@@ -1760,3 +1760,299 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.20-05.11.54:803][184]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/nature/treeCrooked.treeCrooked
 [2021.08.20-05.11.54:803][184]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/stall.stall
 [2021.08.20-05.11.54:803][184]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/stallStool.stallStool
+[2021.08.20-05.35.21:391][356]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallBlockHalf.fbx)
+[2021.08.20-05.35.21:407][356]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallBlockHalf.fbx
+[2021.08.20-05.35.21:416][356]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.22:213][356]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.35.22:240][356]LogStaticMesh: Building static mesh wallBlockHalf...
+[2021.08.20-05.35.22:249][356]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallBlockHalf.wallBlockHalf
+[2021.08.20-05.35.22:258][356]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.22:262][356]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallBroken.fbx)
+[2021.08.20-05.35.22:324][356]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallBroken.fbx
+[2021.08.20-05.35.22:335][356]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.22:337][356]LogStaticMesh: Building static mesh wallBroken...
+[2021.08.20-05.35.22:347][356]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallBroken.wallBroken
+[2021.08.20-05.35.22:355][356]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.22:359][356]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallBlock.fbx)
+[2021.08.20-05.35.22:391][356]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallBlock.fbx
+[2021.08.20-05.35.22:402][356]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.22:404][356]LogStaticMesh: Building static mesh wallBlock...
+[2021.08.20-05.35.22:411][356]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallBlock.wallBlock
+[2021.08.20-05.35.22:419][356]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.27:937][443]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCorner.fbx)
+[2021.08.20-05.35.27:954][443]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCorner.fbx
+[2021.08.20-05.35.27:965][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.28:670][443]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.35.28:696][443]LogStaticMesh: Building static mesh wallCorner...
+[2021.08.20-05.35.28:705][443]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallCorner.wallCorner
+[2021.08.20-05.35.28:713][443]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.32:950][529]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerDetail.fbx)
+[2021.08.20-05.35.32:967][529]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerDetail.fbx
+[2021.08.20-05.35.32:978][529]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.33:787][529]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.35.33:814][529]LogStaticMesh: Building static mesh wallCornerDetail...
+[2021.08.20-05.35.33:830][529]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDetail.wallCornerDetail
+[2021.08.20-05.35.33:837][529]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.42:449][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerDiagonal.fbx)
+[2021.08.20-05.35.42:467][612]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerDiagonal.fbx
+[2021.08.20-05.35.42:478][612]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.43:237][612]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.35.43:262][612]LogStaticMesh: Building static mesh wallCornerDiagonal...
+[2021.08.20-05.35.43:270][612]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal.wallCornerDiagonal
+[2021.08.20-05.35.43:277][612]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.43:282][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerDiagonalHalf.fbx)
+[2021.08.20-05.35.43:331][612]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerDiagonalHalf.fbx
+[2021.08.20-05.35.43:340][612]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.43:343][612]LogStaticMesh: Building static mesh wallCornerDiagonalHalf...
+[2021.08.20-05.35.43:348][612]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf.wallCornerDiagonalHalf
+[2021.08.20-05.35.43:355][612]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.35.50:793][719]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerEdge.fbx)
+[2021.08.20-05.35.50:810][719]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCornerEdge.fbx
+[2021.08.20-05.35.50:819][719]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.35.52:223][719]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.35.52:251][719]LogStaticMesh: Building static mesh wallCornerEdge...
+[2021.08.20-05.35.52:259][719]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallCornerEdge.wallCornerEdge
+[2021.08.20-05.35.52:266][719]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.36.04:391][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCurved.fbx)
+[2021.08.20-05.36.04:408][801]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallCurved.fbx
+[2021.08.20-05.36.04:419][801]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.36.05:466][801]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.36.05:495][801]LogStaticMesh: Building static mesh wallCurved...
+[2021.08.20-05.36.05:508][801]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallCurved.wallCurved
+[2021.08.20-05.36.05:515][801]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.36.17:153][891]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDetailDiagonal.fbx)
+[2021.08.20-05.36.17:174][891]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDetailDiagonal.fbx
+[2021.08.20-05.36.17:185][891]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.36.18:048][891]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.36.18:073][891]LogStaticMesh: Building static mesh wallDetailDiagonal...
+[2021.08.20-05.36.18:083][891]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal.wallDetailDiagonal
+[2021.08.20-05.36.18:090][891]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.36.18:094][891]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDetailHorizontal.fbx)
+[2021.08.20-05.36.18:136][891]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDetailHorizontal.fbx
+[2021.08.20-05.36.18:148][891]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.36.18:149][891]LogStaticMesh: Building static mesh wallDetailHorizontal...
+[2021.08.20-05.36.18:155][891]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal.wallDetailHorizontal
+[2021.08.20-05.36.18:164][891]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.36.18:168][891]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDetailCross.fbx)
+[2021.08.20-05.36.18:201][891]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDetailCross.fbx
+[2021.08.20-05.36.18:212][891]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.36.18:214][891]LogStaticMesh: Building static mesh wallDetailCross...
+[2021.08.20-05.36.18:224][891]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallDetailCross.wallDetailCross
+[2021.08.20-05.36.18:234][891]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.36.39:330][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.20-05.36.41:751][453]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.20-05.36.50:012][874]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDiagonal.fbx)
+[2021.08.20-05.36.50:028][874]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDiagonal.fbx
+[2021.08.20-05.36.50:038][874]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.36.51:067][874]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.36.51:089][874]LogStaticMesh: Building static mesh wallDiagonal...
+[2021.08.20-05.36.51:095][874]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal.wallDiagonal
+[2021.08.20-05.36.51:102][874]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.37.16:742][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.20-05.37.16:743][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test/MainMap' took 0.009
+[2021.08.20-05.37.16:744][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallBlockHalf] ([1] browsable assets)...
+[2021.08.20-05.37.16:754][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBlockHalf.wallBlockHalf]
+[2021.08.20-05.37.16:755][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallBlockHalf]
+[2021.08.20-05.37.16:771][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBlockHalf_Auto905F43DA3475D4A90FE6F4BB6DB24D01D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallBlockHalf_Auto9.uasset'
+[2021.08.20-05.37.16:772][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallBroken] ([1] browsable assets)...
+[2021.08.20-05.37.16:783][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBroken.wallBroken]
+[2021.08.20-05.37.16:783][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallBroken]
+[2021.08.20-05.37.16:800][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBroken_Auto9C4DF4D054B5F43067E2F379361B0D048.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallBroken_Auto9.uasset'
+[2021.08.20-05.37.16:801][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallBlock] ([1] browsable assets)...
+[2021.08.20-05.37.16:811][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBlock.wallBlock]
+[2021.08.20-05.37.16:811][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallBlock]
+[2021.08.20-05.37.16:827][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBlock_Auto901DE2FAA41AAC272F5F40D9A9C1443F9.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallBlock_Auto9.uasset'
+[2021.08.20-05.37.16:828][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallCorner] ([1] browsable assets)...
+[2021.08.20-05.37.16:839][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCorner.wallCorner]
+[2021.08.20-05.37.16:839][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallCorner]
+[2021.08.20-05.37.16:853][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCorner_Auto95488A339436C5DE689D7C494C636E6FC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallCorner_Auto9.uasset'
+[2021.08.20-05.37.16:854][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDetail] ([1] browsable assets)...
+[2021.08.20-05.37.16:865][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDetail.wallCornerDetail]
+[2021.08.20-05.37.16:865][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDetail]
+[2021.08.20-05.37.16:880][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDetail_Auto9C4CA6F504D2EB1BE234DD1AD18C12A5A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDetail_Auto9.uasset'
+[2021.08.20-05.37.16:881][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal] ([1] browsable assets)...
+[2021.08.20-05.37.16:893][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal.wallCornerDiagonal]
+[2021.08.20-05.37.16:893][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal]
+[2021.08.20-05.37.16:910][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDiagonal_Auto9709B685644CA627D64DC5CB545002B20.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal_Auto9.uasset'
+[2021.08.20-05.37.16:912][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf] ([1] browsable assets)...
+[2021.08.20-05.37.16:922][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf.wallCornerDiagonalHalf]
+[2021.08.20-05.37.16:922][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf]
+[2021.08.20-05.37.16:937][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDiagonalHalf_Auto98FD1943E4B0CD8A39BF550B66CF4F914.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf_Auto9.uasset'
+[2021.08.20-05.37.16:938][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerEdge] ([1] browsable assets)...
+[2021.08.20-05.37.16:949][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerEdge.wallCornerEdge]
+[2021.08.20-05.37.16:950][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallCornerEdge]
+[2021.08.20-05.37.16:965][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerEdge_Auto95EC5AB89432DBB355203A39878650D1A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallCornerEdge_Auto9.uasset'
+[2021.08.20-05.37.16:966][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallCurved] ([1] browsable assets)...
+[2021.08.20-05.37.16:977][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCurved.wallCurved]
+[2021.08.20-05.37.16:977][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallCurved]
+[2021.08.20-05.37.16:992][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCurved_Auto99E7D29434D7246783E671385BDA64694.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallCurved_Auto9.uasset'
+[2021.08.20-05.37.16:993][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal] ([1] browsable assets)...
+[2021.08.20-05.37.17:004][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal.wallDetailDiagonal]
+[2021.08.20-05.37.17:004][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal]
+[2021.08.20-05.37.17:019][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDetailDiagonal_Auto9BF37864144A125A8FAD210B4CC375E1E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal_Auto9.uasset'
+[2021.08.20-05.37.17:021][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal] ([1] browsable assets)...
+[2021.08.20-05.37.17:033][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal.wallDetailHorizontal]
+[2021.08.20-05.37.17:033][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal]
+[2021.08.20-05.37.17:048][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDetailHorizontal_Auto9384A01F34A718D5A6966B88D384EC3F8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal_Auto9.uasset'
+[2021.08.20-05.37.17:049][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallDetailCross] ([1] browsable assets)...
+[2021.08.20-05.37.17:060][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDetailCross.wallDetailCross]
+[2021.08.20-05.37.17:060][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallDetailCross]
+[2021.08.20-05.37.17:076][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDetailCross_Auto91BF75CD24CB977C1BDFC1C8332F2F91E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallDetailCross_Auto9.uasset'
+[2021.08.20-05.37.17:078][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal] ([1] browsable assets)...
+[2021.08.20-05.37.17:089][ 42]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal.wallDiagonal]
+[2021.08.20-05.37.17:089][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal]
+[2021.08.20-05.37.17:104][ 42]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDiagonal_Auto9F6E7B4BE4C0827B273280D96C6D220E3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal_Auto9.uasset'
+[2021.08.20-05.37.17:105][ 42]LogFileHelpers: Auto-saving content packages took 0.361
+[2021.08.20-05.51.10:799][564]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDoor.fbx)
+[2021.08.20-05.51.10:818][564]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDoor.fbx
+[2021.08.20-05.51.10:832][564]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.51.11:934][564]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.51.11:963][564]LogStaticMesh: Building static mesh wallDoor...
+[2021.08.20-05.51.11:979][564]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/farm/wallDoor.wallDoor
+[2021.08.20-05.51.11:988][564]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.51.27:970][643]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDoorwayRound.fbx)
+[2021.08.20-05.51.27:992][643]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallDoorwayRound.fbx
+[2021.08.20-05.51.28:007][643]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.51.29:201][643]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.51.29:228][643]LogStaticMesh: Building static mesh wallDoorwayRound...
+[2021.08.20-05.51.29:243][643]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound.wallDoorwayRound
+[2021.08.20-05.51.29:253][643]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.51.36:407][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.08.20-05.51.36:408][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test/MainMap' took 0.013
+[2021.08.20-05.51.36:409][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallDoor] ([1] browsable assets)...
+[2021.08.20-05.51.36:420][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDoor.wallDoor]
+[2021.08.20-05.51.36:421][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallDoor]
+[2021.08.20-05.51.36:441][697]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDoor_Auto03740DCEC44A1EA3C4763D29260A9874A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallDoor_Auto0.uasset'
+[2021.08.20-05.51.36:442][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound] ([1] browsable assets)...
+[2021.08.20-05.51.36:454][697]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound.wallDoorwayRound]
+[2021.08.20-05.51.36:454][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound]
+[2021.08.20-05.51.36:473][697]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDoorwayRound_Auto0BBC0F3D642780AF6B52403A2605A222C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound_Auto0.uasset'
+[2021.08.20-05.51.36:474][697]LogFileHelpers: Auto-saving content packages took 0.065
+[2021.08.20-05.51.48:339][745]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallRounded.fbx)
+[2021.08.20-05.51.48:356][745]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallRounded.fbx
+[2021.08.20-05.51.48:367][745]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.51.49:192][745]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.51.49:219][745]LogStaticMesh: Building static mesh wallRounded...
+[2021.08.20-05.51.49:232][745]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallRounded.wallRounded
+[2021.08.20-05.51.49:240][745]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.51.49:245][745]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallHalf.fbx)
+[2021.08.20-05.51.49:307][745]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallHalf.fbx
+[2021.08.20-05.51.49:316][745]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.51.49:318][745]LogStaticMesh: Building static mesh wallHalf...
+[2021.08.20-05.51.49:323][745]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallHalf.wallHalf
+[2021.08.20-05.51.49:332][745]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.51.55:103][925]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallSide.fbx)
+[2021.08.20-05.51.55:120][925]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallSide.fbx
+[2021.08.20-05.51.55:130][925]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.51.56:458][925]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.51.56:487][925]LogStaticMesh: Building static mesh wallSide...
+[2021.08.20-05.51.56:493][925]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallSide.wallSide
+[2021.08.20-05.51.56:501][925]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.52.00:367][969]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallSlope.fbx)
+[2021.08.20-05.52.00:385][969]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallSlope.fbx
+[2021.08.20-05.52.00:396][969]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.52.01:346][969]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.52.01:370][969]LogStaticMesh: Building static mesh wallSlope...
+[2021.08.20-05.52.01:378][969]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallSlope.wallSlope
+[2021.08.20-05.52.01:385][969]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.52.07:098][ 47]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowGlass.fbx)
+[2021.08.20-05.52.07:116][ 47]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowGlass.fbx
+[2021.08.20-05.52.07:128][ 47]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.52.07:934][ 47]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.52.07:962][ 47]LogStaticMesh: Building static mesh wallWindowGlass...
+[2021.08.20-05.52.07:974][ 47]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallWindowGlass.wallWindowGlass
+[2021.08.20-05.52.07:984][ 47]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.52.11:747][104]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowRound.fbx)
+[2021.08.20-05.52.11:763][104]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowRound.fbx
+[2021.08.20-05.52.11:774][104]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.52.12:615][104]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.52.12:643][104]LogStaticMesh: Building static mesh wallWindowRound...
+[2021.08.20-05.52.12:659][104]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/farm/wallWindowRound.wallWindowRound
+[2021.08.20-05.52.12:667][104]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.52.16:796][163]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowShutters.fbx)
+[2021.08.20-05.52.16:820][163]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowShutters.fbx
+[2021.08.20-05.52.16:835][163]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.52.17:732][163]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.52.17:763][163]LogStaticMesh: Building static mesh wallWindowShutters...
+[2021.08.20-05.52.17:782][163]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/farm/wallWindowShutters.wallWindowShutters
+[2021.08.20-05.52.17:793][163]FBXImport: FBX File Loading: Found name clash, node 'shutter' was renamed to 'shutter1' 
+[2021.08.20-05.52.17:794][163]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.52.24:176][224]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowStone.fbx)
+[2021.08.20-05.52.24:196][224]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWindowStone.fbx
+[2021.08.20-05.52.24:208][224]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.52.24:954][224]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.52.24:979][224]LogStaticMesh: Building static mesh wallWindowStone...
+[2021.08.20-05.52.24:994][224]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/farm/wallWindowStone.wallWindowStone
+[2021.08.20-05.52.25:003][224]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.52.43:718][320]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodBroken.fbx)
+[2021.08.20-05.52.43:736][320]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodBroken.fbx
+[2021.08.20-05.52.43:746][320]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.52.44:500][320]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.52.44:530][320]LogStaticMesh: Building static mesh wallWoodBroken...
+[2021.08.20-05.52.44:539][320]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallWoodBroken.wallWoodBroken
+[2021.08.20-05.52.44:548][320]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.53.04:112][448]LogActorFactory: Actor Factory created wallDiagonal
+[2021.08.20-05.53.07:847][665]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal.wallDiagonal
+[2021.08.20-05.53.20:206][968]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodCornerDiagonalHalf.fbx)
+[2021.08.20-05.53.20:222][968]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodCornerDiagonalHalf.fbx
+[2021.08.20-05.53.20:233][968]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-05.53.21:067][968]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-05.53.21:094][968]LogStaticMesh: Building static mesh wallWoodCornerDiagonalHalf...
+[2021.08.20-05.53.21:101][968]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallWoodCornerDiagonalHalf.wallWoodCornerDiagonalHalf
+[2021.08.20-05.53.21:108][968]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-05.53.26:768][152]LogSlate: Window 'wallDiagonal' being destroyed
+[2021.08.20-05.53.26:783][152]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-05.53.26:783][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-05.53.33:683][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.20-05.53.35:804][295]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-05.53.35:866][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBlock5CD561BC4A41CA9E945BA18162313502.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallBlock.uasset'
+[2021.08.20-05.53.35:879][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBlockHalfDDC6B0AC42F7C0EEFAACCFB632B0267F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallBlockHalf.uasset'
+[2021.08.20-05.53.35:890][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBrokenA7C5710D476D59A51A3CBA968B108900.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallBroken.uasset'
+[2021.08.20-05.53.35:901][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCorner25E7C2634DE34B7982DC6C97BF96DD19.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCorner.uasset'
+[2021.08.20-05.53.35:913][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDetail3DFD397442D7E19A54C0E5813DA5B9B6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCornerDetail.uasset'
+[2021.08.20-05.53.35:924][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDiagonal7FF185884E5D6A41FD5D4A9E4E705533.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal.uasset'
+[2021.08.20-05.53.35:937][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDiagonalHalfF5DDDA50431979775222EAA97EA080A4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf.uasset'
+[2021.08.20-05.53.35:948][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerEdge6CBCB07A495E9495ED1B2E9EFC100617.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCornerEdge.uasset'
+[2021.08.20-05.53.35:960][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCurvedC59E081348795C518A4F3D86249C008B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCurved.uasset'
+[2021.08.20-05.53.35:971][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDetailCrossB82FC0E747D7D6CA3F9B1DB8F718A49E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallDetailCross.uasset'
+[2021.08.20-05.53.35:984][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDetailDiagonalFA03BC3142C4E9D908100D88FB76664C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal.uasset'
+[2021.08.20-05.53.35:995][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDetailHorizontalD2AA6B064D33C1D8E38A998E0F3A52F2.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal.uasset'
+[2021.08.20-05.53.36:007][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDiagonal3520558046610738232C85B8B19A0CD7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallDiagonal.uasset'
+[2021.08.20-05.53.36:020][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDoor7D745BEF42766D00A8BCF68CA1C5E916.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallDoor.uasset'
+[2021.08.20-05.53.36:034][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallDoorwayRoundDA47988A44348E63C894249A69036C3D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound.uasset'
+[2021.08.20-05.53.36:060][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallHalf06A017584E2554D539846D85F4E55C01.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallHalf.uasset'
+[2021.08.20-05.53.36:088][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallRoundedF75E4C3F4799C5C4155F678BE09374CB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallRounded.uasset'
+[2021.08.20-05.53.36:117][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallSide4D64187041858A4072980A891C943FFE.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallSide.uasset'
+[2021.08.20-05.53.36:145][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallSlope8F1AB93F47CA04AA572DD9A3ED024142.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallSlope.uasset'
+[2021.08.20-05.53.36:172][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWindowGlassB90424914AB13A933CAA4098870966F7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWindowGlass.uasset'
+[2021.08.20-05.53.36:202][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWindowRound79C7545A449B38CA83007D84ED3544D3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWindowRound.uasset'
+[2021.08.20-05.53.36:230][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWindowShuttersBF6FCBD6492101AD62715FADA50E1244.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWindowShutters.uasset'
+[2021.08.20-05.53.36:257][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWindowStoneB6C8D70142930B8C7336B29997D4AC99.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWindowStone.uasset'
+[2021.08.20-05.53.36:286][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWoodBroken56C9C9FE4A2CB332C891B5AE6CC4093D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWoodBroken.uasset'
+[2021.08.20-05.53.36:314][295]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWoodCornerDiagonalHalf617448234F26D93DCF05D6B341D3DA38.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWoodCornerDiagonalHalf.uasset'
+[2021.08.20-05.53.36:333][295]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWindowRound.wallWindowRound
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDetail.wallCornerDetail
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCorner.wallCorner
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWindowGlass.wallWindowGlass
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBlock.wallBlock
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBroken.wallBroken
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBlockHalf.wallBlockHalf
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallSlope.wallSlope
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonal.wallCornerDiagonal
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallSide.wallSide
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf.wallCornerDiagonalHalf
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDoorwayRound.wallDoorwayRound
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerEdge.wallCornerEdge
+[2021.08.20-05.53.36:334][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDoor.wallDoor
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallHalf.wallHalf
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCurved.wallCurved
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallRounded.wallRounded
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDiagonal.wallDiagonal
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDetailDiagonal.wallDetailDiagonal
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDetailHorizontal.wallDetailHorizontal
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallDetailCross.wallDetailCross
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWindowShutters.wallWindowShutters
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWindowStone.wallWindowStone
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWoodBroken.wallWoodBroken
+[2021.08.20-05.53.36:335][295]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWoodCornerDiagonalHalf.wallWoodCornerDiagonalHalf
