@@ -800,3 +800,672 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.20-06.19.59:467][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.08.20-06.20.00:050][  2]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.08.20-06.20.00:715][  4]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.20-06.20.22:759][162]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Test/Widget/HUD.HUD
+[2021.08.20-06.20.24:328][162]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.08.20-06.20.28:669][162]LogSlate: Took 0.020184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.20-06.20.31:547][254]LogSlate: Window 'Message Log' being destroyed
+[2021.08.20-06.20.31:553][254]LogSlate: Window 'Message Log' being destroyed
+[2021.08.20-06.20.34:592][420]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.20.34:594][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.20.34:635][420]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.20.34:635][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.20.44:724][944]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.20-06.20.44:855][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.20-06.20.44:942][944]PIE: New page: PIE session: MainMap (Aug 20, 2021, 10:20:44 PM)
+[2021.08.20-06.20.44:998][944]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.20-06.20.45:008][944]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.20-06.20.45:032][944]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.20-06.20.45:090][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041547s)
+[2021.08.20-06.20.45:104][944]LogAIModule: Creating AISystem for world MainMap
+[2021.08.20-06.20.45:112][944]LogPlayLevel: PIE: World Init took: (0.022210s)
+[2021.08.20-06.20.45:132][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.099891s)
+[2021.08.20-06.20.45:240][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.08.20-06.20.45:275][944]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.20-06.20.45:275][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.20-06.20.45:275][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.20-06.20.45:276][944]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.20-06.20.45:276][944]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.20-06.20.45:286][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.20-06.20.45:286][944]LogAudioMixer: Display: 1: FrontRight
+[2021.08.20-06.20.45:303][944]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.20-06.20.45:303][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.20-06.20.45:303][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.20-06.20.45:304][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.20-06.20.45:304][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.20-06.20.45:304][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.20-06.20.45:304][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.20-06.20.45:325][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.20-06.20.45:325][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.20-06.20.45:325][944]LogInit: FAudioDevice initialized.
+[2021.08.20-06.20.45:325][944]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMap'.
+[2021.08.20-06.20.45:345][944]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.20-06.20.45:347][944]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2021.08.20-14.20.45
+[2021.08.20-06.20.45:386][944]LogWorld: Bringing up level for play took: 0.027119
+[2021.08.20-06.20.45:409][944]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.08.20-06.20.45:663][944]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.20-06.20.45:865][944]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.20-06.20.45:889][944]PIE: Server logged in
+[2021.08.20-06.20.45:891][944]PIE: Play in editor total start time 1.119 seconds.
+[2021.08.20-06.22.49:092][837]Cmd: SELECT NONE
+[2021.08.20-06.22.50:721][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-06.22.50:722][922]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.20-06.22.50:722][922]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.22.50:722][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.22.50:750][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.20-06.22.50:754][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.22.50:770][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.20-06.22.50:770][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-06.22.50:771][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-06.22.50:808][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-06.22.50:876][922]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.08.20-06.22.50:898][923]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.08.20-06.22.53:277][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.20-06.22.53:285][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.20-06.22.53:285][ 52]PIE: New page: PIE session: MainMap (Aug 20, 2021, 10:22:53 PM)
+[2021.08.20-06.22.53:326][ 52]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.20-06.22.53:328][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001869s)
+[2021.08.20-06.22.53:328][ 52]LogAIModule: Creating AISystem for world MainMap
+[2021.08.20-06.22.53:357][ 52]LogPlayLevel: PIE: World Init took: (0.028900s)
+[2021.08.20-06.22.53:357][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.030998s)
+[2021.08.20-06.22.53:374][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.08.20-06.22.53:375][ 52]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.20-06.22.53:375][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.20-06.22.53:375][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.20-06.22.53:375][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.20-06.22.53:386][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.20-06.22.53:386][ 52]LogAudioMixer: Display: 1: FrontRight
+[2021.08.20-06.22.53:403][ 52]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.20-06.22.53:404][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.20-06.22.53:404][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.20-06.22.53:404][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.20-06.22.53:404][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.20-06.22.53:404][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.20-06.22.53:404][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.20-06.22.53:422][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.20-06.22.53:422][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.20-06.22.53:422][ 52]LogInit: FAudioDevice initialized.
+[2021.08.20-06.22.53:422][ 52]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2021.08.20-06.22.53:433][ 52]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.20-06.22.53:435][ 52]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2021.08.20-14.22.53
+[2021.08.20-06.22.53:435][ 52]LogWorld: Bringing up level for play took: 0.000832
+[2021.08.20-06.22.53:435][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.08.20-06.22.53:438][ 52]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.20-06.22.53:439][ 52]PIE: Server logged in
+[2021.08.20-06.22.53:439][ 52]PIE: Play in editor total start time 0.156 seconds.
+[2021.08.20-06.25.21:258][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-06.25.21:258][431]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.20-06.25.21:258][431]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.25.21:258][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.25.21:269][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.20-06.25.21:272][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.25.21:288][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.20-06.25.21:288][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-06.25.21:289][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-06.25.21:310][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-06.25.21:313][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.08.20-06.25.21:335][432]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.08.20-06.25.45:013][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.20-06.25.46:396][705]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.20-06.25.46:405][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.20-06.25.46:405][705]PIE: New page: PIE session: MainMap (Aug 20, 2021, 10:25:46 PM)
+[2021.08.20-06.25.46:445][705]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_MainMap
+[2021.08.20-06.25.46:447][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002114s)
+[2021.08.20-06.25.46:448][705]LogAIModule: Creating AISystem for world MainMap
+[2021.08.20-06.25.46:449][705]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2021.08.20-06.25.46:449][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/MainMap.MainMap to /Game/Test/UEDPIE_0_MainMap.MainMap (0.003563s)
+[2021.08.20-06.25.46:467][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.08.20-06.25.46:469][705]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.20-06.25.46:469][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.20-06.25.46:469][705]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.20-06.25.46:469][705]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.20-06.25.46:479][705]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.20-06.25.46:479][705]LogAudioMixer: Display: 1: FrontRight
+[2021.08.20-06.25.46:498][705]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.20-06.25.46:498][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.20-06.25.46:498][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.20-06.25.46:498][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.20-06.25.46:499][705]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.20-06.25.46:499][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.20-06.25.46:499][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.20-06.25.46:517][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.20-06.25.46:517][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.20-06.25.46:517][705]LogInit: FAudioDevice initialized.
+[2021.08.20-06.25.46:517][705]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2021.08.20-06.25.46:527][705]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.20-06.25.46:529][705]LogWorld: Bringing World /Game/Test/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2021.08.20-14.25.46
+[2021.08.20-06.25.46:529][705]LogWorld: Bringing up level for play took: 0.001025
+[2021.08.20-06.25.46:529][705]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.08.20-06.25.46:532][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.20-06.25.46:532][705]PIE: Server logged in
+[2021.08.20-06.25.46:533][705]PIE: Play in editor total start time 0.131 seconds.
+[2021.08.20-06.27.31:744][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-06.27.31:744][114]LogWorld: BeginTearingDown for /Game/Test/UEDPIE_0_MainMap
+[2021.08.20-06.27.31:744][114]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.27.31:745][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.27.31:757][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.20-06.27.31:775][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.27.31:791][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.20-06.27.31:791][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-06.27.31:792][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-06.27.31:813][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-06.27.31:816][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.20-06.27.31:845][115]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.08.20-06.27.32:238][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.20-06.39.07:141][358]LogContentBrowser: Attempting asset rename: wallWoodBroken -> wallBrokenWood
+[2021.08.20-06.39.07:177][358]LogMetaData: Removing '/Game/Test/Geometry/Mesh/Environment/farm/wallBrokenWood.wallBrokenWood' ref from Metadata '/Game/Test/Geometry/Mesh/Environment/farm/wallWoodBroken.PackageMetaData'
+[2021.08.20-06.39.07:280][358]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallBrokenWood59079A2D4D5D7764B4CC339B1B043E50.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallBrokenWood.uasset'
+[2021.08.20-06.39.07:343][358]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/Environment/farm/wallWoodBroken.wallWoodBroken'
+[2021.08.20-06.39.07:378][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.08.20-06.39.07:411][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.08.20-06.39.07:428][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.20-06.39.07:459][358]AssetCheck: New page: Asset Save: wallBrokenWood
+[2021.08.20-06.39.07:459][358]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallBrokenWood.wallBrokenWood
+[2021.08.20-06.39.18:370][ 12]LogContentBrowser: Attempting asset rename: wallWoodCornerDiagonalHalf -> wallCornerDiagonalHalfWood
+[2021.08.20-06.39.18:407][ 12]LogMetaData: Removing '/Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalfWood.wallCornerDiagonalHalfWood' ref from Metadata '/Game/Test/Geometry/Mesh/Environment/farm/wallWoodCornerDiagonalHalf.PackageMetaData'
+[2021.08.20-06.39.18:467][ 12]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallCornerDiagonalHalfWood906D8F354F3C38D0CA6950AC3B2F8A7F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalfWood.uasset'
+[2021.08.20-06.39.18:524][ 12]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/Environment/farm/wallWoodCornerDiagonalHalf.wallWoodCornerDiagonalHalf'
+[2021.08.20-06.39.18:556][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.20-06.39.18:587][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.08.20-06.39.18:603][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.20-06.39.18:632][ 12]AssetCheck: New page: Asset Save: wallCornerDiagonalHalfWood
+[2021.08.20-06.39.18:632][ 12]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalfWood.wallCornerDiagonalHalfWood
+[2021.08.20-06.39.26:972][498]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalf.wallCornerDiagonalHalf
+[2021.08.20-06.39.27:968][498]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.20-06.39.33:007][783]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallCornerDiagonalHalfWood.wallCornerDiagonalHalfWood
+[2021.08.20-06.39.37:775][ 36]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.39.37:775][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.39.42:374][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.08.20-06.39.43:563][268]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.20-06.39.43:705][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.08.20-06.39.43:731][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.08.20-06.39.43:746][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.20-06.40.25:452][463]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodWindowShutters.fbx)
+[2021.08.20-06.40.25:472][463]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodWindowShutters.fbx
+[2021.08.20-06.40.25:481][463]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-06.40.26:393][463]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-06.40.26:429][463]LogStaticMesh: Building static mesh wallWoodWindowShutters...
+[2021.08.20-06.40.26:436][463]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallWoodWindowShutters.wallWoodWindowShutters
+[2021.08.20-06.40.26:448][463]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-06.40.26:581][463]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.20-06.40.36:461][ 43]LogContentBrowser: Attempting asset rename: wallWoodWindowShutters -> wallWindowShuttersWood
+[2021.08.20-06.40.36:478][ 43]LogMetaData: Removing '/Game/Test/Geometry/Mesh/Environment/farm/wallWindowShuttersWood.wallWindowShuttersWood' ref from Metadata '/Game/Test/Geometry/Mesh/Environment/farm/wallWoodWindowShutters.PackageMetaData'
+[2021.08.20-06.40.36:541][ 43]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWindowShuttersWood86FE227C4F57FBCCB06F92A4BEC32F19.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWindowShuttersWood.uasset'
+[2021.08.20-06.40.36:630][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.20-06.40.36:661][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.20-06.40.36:677][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.20-06.40.36:708][ 43]AssetCheck: New page: Asset Save: wallWindowShuttersWood
+[2021.08.20-06.40.36:708][ 43]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWindowShuttersWood.wallWindowShuttersWood
+[2021.08.20-06.41.02:086][280]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodWindowSmall.fbx)
+[2021.08.20-06.41.02:104][280]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\fantasy-town-kit-1.0\Models\FBX format\wallWoodWindowSmall.fbx
+[2021.08.20-06.41.02:113][280]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-06.41.03:134][280]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-06.41.03:165][280]LogStaticMesh: Building static mesh wallWoodWindowSmall...
+[2021.08.20-06.41.03:175][280]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/farm/wallWoodWindowSmall.wallWoodWindowSmall
+[2021.08.20-06.41.03:187][280]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-06.41.08:284][560]LogContentBrowser: Attempting asset rename: wallWoodWindowSmall -> wallWindowSmall
+[2021.08.20-06.41.08:318][560]LogMetaData: Removing '/Game/Test/Geometry/Mesh/Environment/farm/wallWindowSmall.wallWindowSmall' ref from Metadata '/Game/Test/Geometry/Mesh/Environment/farm/wallWoodWindowSmall.PackageMetaData'
+[2021.08.20-06.41.08:380][560]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/wallWindowSmall22E22E3B47DDDBA7E531C49A141FBAE4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/farm/wallWindowSmall.uasset'
+[2021.08.20-06.41.08:451][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.08.20-06.41.08:478][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.20-06.41.08:496][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.20-06.41.08:533][560]AssetCheck: New page: Asset Save: wallWindowSmall
+[2021.08.20-06.41.08:533][560]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/farm/wallWindowSmall.wallWindowSmall
+[2021.08.20-06.42.01:034][328]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.20-06.42.01:062][328]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.20-06.42.07:234][698]LogContentBrowser: Attempting asset rename: NewFolder -> furniture
+[2021.08.20-06.42.07:234][698]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.20-10.00.12:470][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomCabinetDrawer.fbx)
+[2021.08.20-10.00.12:497][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomCabinetDrawer.fbx
+[2021.08.20-10.00.12:513][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:111][542]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.00.37:144][542]LogStaticMesh: Building static mesh bathroomCabinetDrawer...
+[2021.08.20-10.00.37:168][542]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer.bathroomCabinetDrawer
+[2021.08.20-10.00.37:199][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.37:212][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomMirror.fbx)
+[2021.08.20-10.00.37:268][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomMirror.fbx
+[2021.08.20-10.00.37:280][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:282][542]LogStaticMesh: Building static mesh bathroomMirror...
+[2021.08.20-10.00.37:287][542]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/bathroomMirror.bathroomMirror
+[2021.08.20-10.00.37:298][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.37:315][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomSink.fbx)
+[2021.08.20-10.00.37:335][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomSink.fbx
+[2021.08.20-10.00.37:346][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:351][542]LogStaticMesh: Building static mesh bathroomSink...
+[2021.08.20-10.00.37:368][542]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/bathroomSink.bathroomSink
+[2021.08.20-10.00.37:370][542]LogStaticMesh: Warning: bathroomSink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.08.20-10.00.37:370][542]LogStaticMesh: Warning: bathroomSink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.08.20-10.00.37:380][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.37:380][542]FBXImport: Warning: bathroomSink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.08.20-10.00.37:380][542]FBXImport: Warning: bathroomSink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.08.20-10.00.37:408][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathtub.fbx)
+[2021.08.20-10.00.37:426][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathtub.fbx
+[2021.08.20-10.00.37:440][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:444][542]LogStaticMesh: Building static mesh bathtub...
+[2021.08.20-10.00.37:464][542]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/bathtub.bathtub
+[2021.08.20-10.00.37:474][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.37:494][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bedDouble.fbx)
+[2021.08.20-10.00.37:515][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bedDouble.fbx
+[2021.08.20-10.00.37:530][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:533][542]LogStaticMesh: Building static mesh bedDouble...
+[2021.08.20-10.00.37:548][542]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/bedDouble.bedDouble
+[2021.08.20-10.00.37:559][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.37:570][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bedSingle.fbx)
+[2021.08.20-10.00.37:589][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bedSingle.fbx
+[2021.08.20-10.00.37:604][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:608][542]LogStaticMesh: Building static mesh bedSingle...
+[2021.08.20-10.00.37:618][542]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/bedSingle.bedSingle
+[2021.08.20-10.00.37:628][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.37:633][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomCabinet.fbx)
+[2021.08.20-10.00.37:651][542]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomCabinet.fbx
+[2021.08.20-10.00.37:661][542]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.00.37:663][542]LogStaticMesh: Building static mesh bathroomCabinet...
+[2021.08.20-10.00.37:668][542]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.bathroomCabinet
+[2021.08.20-10.00.37:676][542]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.00.40:836][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.08.20-10.00.40:852][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test/MainMap' took 0.047
+[2021.08.20-10.00.40:853][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer] ([1] browsable assets)...
+[2021.08.20-10.00.40:865][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer.bathroomCabinetDrawer]
+[2021.08.20-10.00.40:865][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer]
+[2021.08.20-10.00.40:885][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomCabinetDrawer_Auto17FAF0CED4236ED21D501FE83BC8448B6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer_Auto1.uasset'
+[2021.08.20-10.00.40:887][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomMirror] ([1] browsable assets)...
+[2021.08.20-10.00.40:898][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomMirror.bathroomMirror]
+[2021.08.20-10.00.40:898][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomMirror]
+[2021.08.20-10.00.40:913][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomMirror_Auto1702C69C144ED26CE17E31BA6CC319523.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bathroomMirror_Auto1.uasset'
+[2021.08.20-10.00.40:914][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomSink] ([1] browsable assets)...
+[2021.08.20-10.00.40:926][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomSink.bathroomSink]
+[2021.08.20-10.00.40:926][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomSink]
+[2021.08.20-10.00.40:944][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomSink_Auto19E534AC64767FF27FA994DAB5D898B48.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bathroomSink_Auto1.uasset'
+[2021.08.20-10.00.40:945][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bathtub] ([1] browsable assets)...
+[2021.08.20-10.00.40:957][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathtub.bathtub]
+[2021.08.20-10.00.40:957][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bathtub]
+[2021.08.20-10.00.40:975][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathtub_Auto12F64236849A05DB43F6345B0717B0802.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bathtub_Auto1.uasset'
+[2021.08.20-10.00.40:976][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bedDouble] ([1] browsable assets)...
+[2021.08.20-10.00.40:986][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bedDouble.bedDouble]
+[2021.08.20-10.00.40:986][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bedDouble]
+[2021.08.20-10.00.41:004][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bedDouble_Auto1470ECFF54A59ED3161CC29A66056A295.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bedDouble_Auto1.uasset'
+[2021.08.20-10.00.41:011][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bedSingle] ([1] browsable assets)...
+[2021.08.20-10.00.41:023][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bedSingle.bedSingle]
+[2021.08.20-10.00.41:023][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bedSingle]
+[2021.08.20-10.00.41:039][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bedSingle_Auto177A3496844689DA2AA0CC082056E085E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bedSingle_Auto1.uasset'
+[2021.08.20-10.00.41:040][710]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet] ([1] browsable assets)...
+[2021.08.20-10.00.41:053][710]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.bathroomCabinet]
+[2021.08.20-10.00.41:053][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet]
+[2021.08.20-10.00.41:068][710]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomCabinet_Auto1C635A9F44BF9AC64F9418F802794CA96.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet_Auto1.uasset'
+[2021.08.20-10.00.41:069][710]LogFileHelpers: Auto-saving content packages took 0.217
+[2021.08.20-10.00.42:683][795]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathtub.bathtub
+[2021.08.20-10.01.11:864][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\benchCushionLow.fbx)
+[2021.08.20-10.01.11:883][281]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\benchCushionLow.fbx
+[2021.08.20-10.01.11:892][281]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.12:816][281]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.01.12:841][281]LogStaticMesh: Building static mesh benchCushionLow...
+[2021.08.20-10.01.12:851][281]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/benchCushionLow.benchCushionLow
+[2021.08.20-10.01.12:859][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.12:873][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseClosed.fbx)
+[2021.08.20-10.01.12:924][281]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseClosed.fbx
+[2021.08.20-10.01.12:937][281]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.12:940][281]LogStaticMesh: Building static mesh bookcaseClosed...
+[2021.08.20-10.01.12:958][281]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseClosed.bookcaseClosed
+[2021.08.20-10.01.12:971][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.12:984][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseClosedDoors.fbx)
+[2021.08.20-10.01.13:005][281]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseClosedDoors.fbx
+[2021.08.20-10.01.13:018][281]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.13:022][281]LogStaticMesh: Building static mesh bookcaseClosedDoors...
+[2021.08.20-10.01.13:036][281]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseClosedDoors.bookcaseClosedDoors
+[2021.08.20-10.01.13:046][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.13:052][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bench.fbx)
+[2021.08.20-10.01.13:069][281]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bench.fbx
+[2021.08.20-10.01.13:078][281]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.13:080][281]LogStaticMesh: Building static mesh bench...
+[2021.08.20-10.01.13:089][281]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/bench.bench
+[2021.08.20-10.01.13:098][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.13:103][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\benchCushion.fbx)
+[2021.08.20-10.01.13:119][281]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\benchCushion.fbx
+[2021.08.20-10.01.13:128][281]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.13:131][281]LogStaticMesh: Building static mesh benchCushion...
+[2021.08.20-10.01.13:142][281]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/benchCushion.benchCushion
+[2021.08.20-10.01.13:151][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.21:435][362]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseClosedWide.fbx)
+[2021.08.20-10.01.21:454][362]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseClosedWide.fbx
+[2021.08.20-10.01.21:467][362]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.22:313][362]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.01.22:339][362]LogStaticMesh: Building static mesh bookcaseClosedWide...
+[2021.08.20-10.01.22:361][362]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseClosedWide.bookcaseClosedWide
+[2021.08.20-10.01.22:373][362]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.31:167][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseOpen.fbx)
+[2021.08.20-10.01.31:185][436]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseOpen.fbx
+[2021.08.20-10.01.31:196][436]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.32:052][436]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.01.32:075][436]LogStaticMesh: Building static mesh bookcaseOpen...
+[2021.08.20-10.01.32:093][436]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseOpen.bookcaseOpen
+[2021.08.20-10.01.32:102][436]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.32:107][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseOpenLow.fbx)
+[2021.08.20-10.01.32:165][436]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bookcaseOpenLow.fbx
+[2021.08.20-10.01.32:176][436]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.32:179][436]LogStaticMesh: Building static mesh bookcaseOpenLow...
+[2021.08.20-10.01.32:189][436]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseOpenLow.bookcaseOpenLow
+[2021.08.20-10.01.32:200][436]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.01.37:216][495]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\books.fbx)
+[2021.08.20-10.01.37:235][495]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\books.fbx
+[2021.08.20-10.01.37:247][495]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.01.39:269][495]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.01.39:294][495]LogStaticMesh: Building static mesh books...
+[2021.08.20-10.01.39:302][495]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/books.books
+[2021.08.20-10.01.39:318][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.03.10:167][814]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cabinetBedDrawer.fbx)
+[2021.08.20-10.03.10:188][814]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cabinetBedDrawer.fbx
+[2021.08.20-10.03.10:200][814]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.03.10:989][814]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.03.11:015][814]LogStaticMesh: Building static mesh cabinetBedDrawer...
+[2021.08.20-10.03.11:026][814]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/cabinetBedDrawer.cabinetBedDrawer
+[2021.08.20-10.03.11:036][814]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.03.11:042][814]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cabinetBed.fbx)
+[2021.08.20-10.03.11:099][814]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cabinetBed.fbx
+[2021.08.20-10.03.11:110][814]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.03.11:112][814]LogStaticMesh: Building static mesh cabinetBed...
+[2021.08.20-10.03.11:118][814]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/cabinetBed.cabinetBed
+[2021.08.20-10.03.11:127][814]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.03.16:765][887]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cabinetBedDrawerTable.fbx)
+[2021.08.20-10.03.16:784][887]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cabinetBedDrawerTable.fbx
+[2021.08.20-10.03.16:795][887]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.03.17:527][887]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.03.17:553][887]LogStaticMesh: Building static mesh cabinetBedDrawerTable...
+[2021.08.20-10.03.17:565][887]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/cabinetBedDrawerTable.cabinetBedDrawerTable
+[2021.08.20-10.03.17:576][887]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.03.57:250][752]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.bathroomCabinet
+[2021.08.20-10.04.16:468][600]LogContentBrowser: Attempting asset rename: bathroomCabinet -> bathroomCabinet1pc
+[2021.08.20-10.04.16:509][600]LogMetaData: Removing '/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet1pc.bathroomCabinet1pc' ref from Metadata '/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.PackageMetaData'
+[2021.08.20-10.04.16:570][600]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomCabinet1pcD857A5C0461715C8EB8EF09F5EA6008A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet1pc.uasset'
+[2021.08.20-10.04.16:662][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.08.20-10.04.16:691][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.08.20-10.04.16:706][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.20-10.04.16:744][600]AssetCheck: New page: Asset Save: bathroomCabinet1pc
+[2021.08.20-10.04.16:744][600]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet1pc.bathroomCabinet1pc
+[2021.08.20-10.04.22:025][653]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomCabinet.fbx)
+[2021.08.20-10.04.22:045][653]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\bathroomCabinet.fbx
+[2021.08.20-10.04.22:055][653]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.08.09:999][653]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.08.10:045][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.20-10.08.10:163][653]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.20-10.08.12:530][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.20-10.08.12:534][653]FBXImport: Import was canceled. 
+[2021.08.20-10.08.12:561][653]LogAssetTools: The import task was canceled.
+[2021.08.20-10.08.13:980][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.20-10.08.14:899][708]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-10.08.14:966][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomCabinetDrawer574BC08E4B9EC148F7C1DF9936685A78.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer.uasset'
+[2021.08.20-10.08.14:979][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomMirror0D6A8A7248428B0DAFD23EACF7BF7C08.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bathroomMirror.uasset'
+[2021.08.20-10.08.14:992][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomSink7846F87046A89C3173B701BABE311C6D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bathroomSink.uasset'
+[2021.08.20-10.08.15:009][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathtub05EC3D15407F0929EB99FD999C3A4026.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bathtub.uasset'
+[2021.08.20-10.08.15:024][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bedDouble4CE7925642C3414332BECA910358A985.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bedDouble.uasset'
+[2021.08.20-10.08.15:219][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bedSingle9886A0824A311B8C987CB1B64A798D35.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bedSingle.uasset'
+[2021.08.20-10.08.15:248][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bench2E8E8BDC4673DF0E3EE5FFAB14FE35BA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bench.uasset'
+[2021.08.20-10.08.15:275][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/benchCushionBBB615B1419049B5125810A5347AA3AF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/benchCushion.uasset'
+[2021.08.20-10.08.15:306][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/benchCushionLow9A8760AA41204D08EF593FB309C29A8F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/benchCushionLow.uasset'
+[2021.08.20-10.08.15:335][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bookcaseClosedE0D0150E426276D65A2D8BB4A774A072.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bookcaseClosed.uasset'
+[2021.08.20-10.08.15:366][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bookcaseClosedDoors1FD52C9E408734C5FEDF0B9DE26D0A7E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bookcaseClosedDoors.uasset'
+[2021.08.20-10.08.15:398][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bookcaseClosedWideC152E16742E9031FD545658A0426C39F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bookcaseClosedWide.uasset'
+[2021.08.20-10.08.15:426][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bookcaseOpenA86B96294E957D668FF247924BC24DCF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bookcaseOpen.uasset'
+[2021.08.20-10.08.15:455][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bookcaseOpenLow1858F9D54FDCEDC3B2242BBBD9E16A85.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bookcaseOpenLow.uasset'
+[2021.08.20-10.08.15:483][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/books67A1139C4ED0C8A11F59809108B4EA9E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/books.uasset'
+[2021.08.20-10.08.15:513][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cabinetBedE7F0CC1B4F6ADD2695F547BC23A217C1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/cabinetBed.uasset'
+[2021.08.20-10.08.15:542][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cabinetBedDrawerDAE11D7B4BD3B3522F24489E939A3BBD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/cabinetBedDrawer.uasset'
+[2021.08.20-10.08.15:572][708]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cabinetBedDrawerTable9F0A9F7D42367E0CCE530B813C74613A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/cabinetBedDrawerTable.uasset'
+[2021.08.20-10.08.15:592][708]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cabinetBedDrawerTable.cabinetBedDrawerTable
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cabinetBed.cabinetBed
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cabinetBedDrawer.cabinetBedDrawer
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/books.books
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseOpenLow.bookcaseOpenLow
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseOpen.bookcaseOpen
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseClosedWide.bookcaseClosedWide
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/benchCushion.benchCushion
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bench.bench
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseClosedDoors.bookcaseClosedDoors
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bookcaseClosed.bookcaseClosed
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/benchCushionLow.benchCushionLow
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bedSingle.bedSingle
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bedDouble.bedDouble
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathtub.bathtub
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomSink.bathroomSink
+[2021.08.20-10.08.15:592][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomMirror.bathroomMirror
+[2021.08.20-10.08.15:593][708]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinetDrawer.bathroomCabinetDrawer
+[2021.08.20-10.08.35:890][815]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cardboardBoxClosed.fbx)
+[2021.08.20-10.08.35:909][815]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cardboardBoxClosed.fbx
+[2021.08.20-10.08.35:920][815]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.08.37:193][815]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.08.37:224][815]LogStaticMesh: Building static mesh cardboardBoxClosed...
+[2021.08.20-10.08.37:231][815]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed.cardboardBoxClosed
+[2021.08.20-10.08.37:242][815]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.08.37:250][815]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cardboardBoxOpen.fbx)
+[2021.08.20-10.08.37:305][815]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\cardboardBoxOpen.fbx
+[2021.08.20-10.08.37:315][815]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.08.37:317][815]LogStaticMesh: Building static mesh cardboardBoxOpen...
+[2021.08.20-10.08.37:321][815]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen.cardboardBoxOpen
+[2021.08.20-10.08.37:332][815]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.09.14:876][258]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\ceilingFan.fbx)
+[2021.08.20-10.09.14:894][258]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\ceilingFan.fbx
+[2021.08.20-10.09.14:904][258]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.09.16:737][258]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.09.16:786][258]LogStaticMesh: Building static mesh ceilingFan...
+[2021.08.20-10.09.16:797][258]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/ceilingFan.ceilingFan
+[2021.08.20-10.09.16:808][258]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.09.37:368][376]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chairCushion.fbx)
+[2021.08.20-10.09.37:385][376]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chairCushion.fbx
+[2021.08.20-10.09.37:396][376]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.09.38:254][376]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.09.38:284][376]LogStaticMesh: Building static mesh chairCushion...
+[2021.08.20-10.09.38:296][376]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/chairCushion.chairCushion
+[2021.08.20-10.09.38:305][376]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.09.38:313][376]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chair.fbx)
+[2021.08.20-10.09.38:369][376]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chair.fbx
+[2021.08.20-10.09.38:379][376]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.09.38:382][376]LogStaticMesh: Building static mesh chair...
+[2021.08.20-10.09.38:390][376]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/chair.chair
+[2021.08.20-10.09.38:402][376]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.10.12:855][529]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chairModernCushion.fbx)
+[2021.08.20-10.10.12:873][529]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chairModernCushion.fbx
+[2021.08.20-10.10.12:883][529]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.10.14:315][529]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.10.14:342][529]LogStaticMesh: Building static mesh chairModernCushion...
+[2021.08.20-10.10.14:348][529]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/chairModernCushion.chairModernCushion
+[2021.08.20-10.10.14:356][529]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.10.36:015][714]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chairRounded.fbx)
+[2021.08.20-10.10.36:034][714]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\chairRounded.fbx
+[2021.08.20-10.10.36:045][714]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.10.36:822][714]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.10.36:852][714]LogStaticMesh: Building static mesh chairRounded...
+[2021.08.20-10.10.36:868][714]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/chairRounded.chairRounded
+[2021.08.20-10.10.36:880][714]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.10.46:811][776]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\coatRackStanding.fbx)
+[2021.08.20-10.10.46:829][776]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\coatRackStanding.fbx
+[2021.08.20-10.10.46:839][776]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.10.47:546][776]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.10.47:573][776]LogStaticMesh: Building static mesh coatRackStanding...
+[2021.08.20-10.10.47:587][776]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/coatRackStanding.coatRackStanding
+[2021.08.20-10.10.47:598][776]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.10.47:603][776]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\coatRack.fbx)
+[2021.08.20-10.10.47:661][776]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\coatRack.fbx
+[2021.08.20-10.10.47:671][776]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.10.47:673][776]LogStaticMesh: Building static mesh coatRack...
+[2021.08.20-10.10.47:681][776]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/coatRack.coatRack
+[2021.08.20-10.10.47:694][776]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.11.12:248][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.08.20-10.11.12:253][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test/MainMap' took 0.031
+[2021.08.20-10.11.12:253][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed] ([1] browsable assets)...
+[2021.08.20-10.11.12:268][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed.cardboardBoxClosed]
+[2021.08.20-10.11.12:268][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed]
+[2021.08.20-10.11.12:286][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cardboardBoxClosed_Auto295923D284F7712461368B7A7A1DD538C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed_Auto2.uasset'
+[2021.08.20-10.11.12:287][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen] ([1] browsable assets)...
+[2021.08.20-10.11.12:301][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen.cardboardBoxOpen]
+[2021.08.20-10.11.12:301][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen]
+[2021.08.20-10.11.12:316][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cardboardBoxOpen_Auto2F2FB441C4A725AAE7EFC95A82D8DC033.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen_Auto2.uasset'
+[2021.08.20-10.11.12:317][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/ceilingFan] ([1] browsable assets)...
+[2021.08.20-10.11.12:332][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/ceilingFan.ceilingFan]
+[2021.08.20-10.11.12:332][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/ceilingFan]
+[2021.08.20-10.11.12:349][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/ceilingFan_Auto2CDD0F9A6423F7C1E43F03FA9060A16FD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/ceilingFan_Auto2.uasset'
+[2021.08.20-10.11.12:350][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/chairCushion] ([1] browsable assets)...
+[2021.08.20-10.11.12:364][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chairCushion.chairCushion]
+[2021.08.20-10.11.12:364][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/chairCushion]
+[2021.08.20-10.11.12:380][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairCushion_Auto206F84D6E4EEC596B9155AFA9A3794A4E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/chairCushion_Auto2.uasset'
+[2021.08.20-10.11.12:382][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/chair] ([1] browsable assets)...
+[2021.08.20-10.11.12:396][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chair.chair]
+[2021.08.20-10.11.12:396][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/chair]
+[2021.08.20-10.11.12:412][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chair_Auto2A6110B2F477E48EADEA8B9B00B6153F8.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/chair_Auto2.uasset'
+[2021.08.20-10.11.12:415][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/chairModernCushion] ([1] browsable assets)...
+[2021.08.20-10.11.12:429][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chairModernCushion.chairModernCushion]
+[2021.08.20-10.11.12:429][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/chairModernCushion]
+[2021.08.20-10.11.12:446][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairModernCushion_Auto2A9B7BBDD4B8C85E5BB70FC9BA66FBF57.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/chairModernCushion_Auto2.uasset'
+[2021.08.20-10.11.12:447][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/chairRounded] ([1] browsable assets)...
+[2021.08.20-10.11.12:468][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chairRounded.chairRounded]
+[2021.08.20-10.11.12:468][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/chairRounded]
+[2021.08.20-10.11.12:484][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairRounded_Auto22018BEAC497D0509E1C2D9A13958DA81.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/chairRounded_Auto2.uasset'
+[2021.08.20-10.11.12:485][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/coatRackStanding] ([1] browsable assets)...
+[2021.08.20-10.11.12:504][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/coatRackStanding.coatRackStanding]
+[2021.08.20-10.11.12:504][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/coatRackStanding]
+[2021.08.20-10.11.12:520][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/coatRackStanding_Auto23263364C4DA5C97E19DA8D8DD7B774F7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/coatRackStanding_Auto2.uasset'
+[2021.08.20-10.11.12:521][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/Geometry/Mesh/Environment/furniture/coatRack] ([1] browsable assets)...
+[2021.08.20-10.11.12:540][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/coatRack.coatRack]
+[2021.08.20-10.11.12:540][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/Geometry/Mesh/Environment/furniture/coatRack]
+[2021.08.20-10.11.12:556][871]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/coatRack_Auto2061D17A745CA1CBEC53F368BE9DAA63B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/Autosaves/Game/Test/Geometry/Mesh/Environment/furniture/coatRack_Auto2.uasset'
+[2021.08.20-10.11.12:557][871]LogFileHelpers: Auto-saving content packages took 0.305
+[2021.08.20-10.11.42:865][129]LogContentBrowser: Attempting asset rename: bathroomCabinet1pc -> bathroomCabinet
+[2021.08.20-10.11.42:925][129]LogMetaData: Removing '/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.bathroomCabinet' ref from Metadata '/Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet1pc.PackageMetaData'
+[2021.08.20-10.11.42:985][129]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/bathroomCabinetCEBCC88349472510344645BAB8ACB2DD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.uasset'
+[2021.08.20-10.11.43:789][129]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet1pc.bathroomCabinet1pc'
+[2021.08.20-10.11.43:823][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.08.20-10.11.43:849][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.08.20-10.11.43:865][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.20-10.11.43:904][129]AssetCheck: New page: Asset Save: bathroomCabinet
+[2021.08.20-10.11.43:904][129]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/bathroomCabinet.bathroomCabinet
+[2021.08.20-10.11.46:655][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.20-10.11.47:400][231]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-10.11.47:452][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cardboardBoxClosed3E16624141E7379ABE45ACB09EBBF119.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed.uasset'
+[2021.08.20-10.11.47:463][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/cardboardBoxOpen5D882A064F32E606BC0D16B741230206.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen.uasset'
+[2021.08.20-10.11.47:476][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/ceilingFan674D0B084D343AEE6065E08D90962AEB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/ceilingFan.uasset'
+[2021.08.20-10.11.47:488][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairD3FF9D284EB4A34D077D758E5180DB54.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/chair.uasset'
+[2021.08.20-10.11.47:501][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairCushion4CF12DB54D20939060971E830C9207D4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/chairCushion.uasset'
+[2021.08.20-10.11.47:513][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairModernCushion019B8D8345A1EA1A8FF93CBCCA87F65E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/chairModernCushion.uasset'
+[2021.08.20-10.11.47:526][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/chairRounded6FBB04614D526E3761BDC89E94E03B13.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/chairRounded.uasset'
+[2021.08.20-10.11.47:539][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/coatRackF16DD5284311A15B7AE4E5B1FB971802.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/coatRack.uasset'
+[2021.08.20-10.11.47:552][231]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/coatRackStandingCE9E5534488B59CFA29AB1ADB37C3664.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/coatRackStanding.uasset'
+[2021.08.20-10.11.47:581][231]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/coatRack.coatRack
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/coatRackStanding.coatRackStanding
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chairRounded.chairRounded
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chairModernCushion.chairModernCushion
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chair.chair
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/chairCushion.chairCushion
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/ceilingFan.ceilingFan
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxOpen.cardboardBoxOpen
+[2021.08.20-10.11.47:581][231]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/cardboardBoxClosed.cardboardBoxClosed
+[2021.08.20-10.12.14:582][357]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\deskCorner.fbx)
+[2021.08.20-10.12.14:602][357]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\deskCorner.fbx
+[2021.08.20-10.12.14:615][357]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.12.15:334][357]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.12.15:364][357]LogStaticMesh: Building static mesh deskCorner_deskCorner...
+[2021.08.20-10.12.15:382][357]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/deskCorner_deskCorner.deskCorner_deskCorner
+[2021.08.20-10.12.15:395][357]LogStaticMesh: Building static mesh deskCorner_drawer...
+[2021.08.20-10.12.15:402][357]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/deskCorner_drawer.deskCorner_drawer
+[2021.08.20-10.12.15:416][357]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.12.15:420][357]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\desk.fbx)
+[2021.08.20-10.12.15:482][357]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\desk.fbx
+[2021.08.20-10.12.15:496][357]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.12.15:498][357]LogStaticMesh: Building static mesh desk_desk...
+[2021.08.20-10.12.15:510][357]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/desk_desk.desk_desk
+[2021.08.20-10.12.15:518][357]LogStaticMesh: Building static mesh desk_drawer...
+[2021.08.20-10.12.15:524][357]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/desk_drawer.desk_drawer
+[2021.08.20-10.12.15:536][357]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.12.17:242][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.08.20-10.12.24:750][416]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-10.12.26:999][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.20-10.12.28:504][498]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.20-10.12.28:580][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.20-10.12.32:325][543]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\deskCorner.fbx)
+[2021.08.20-10.12.32:342][543]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\deskCorner.fbx
+[2021.08.20-10.12.32:353][543]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.12.36:251][543]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.12.36:291][543]LogStaticMesh: Building static mesh deskCorner...
+[2021.08.20-10.12.36:315][543]LogStaticMesh: Built static mesh [0.02s] /Game/Test/Geometry/Mesh/Environment/furniture/deskCorner.deskCorner
+[2021.08.20-10.12.36:327][543]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.12.36:335][543]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\desk.fbx)
+[2021.08.20-10.12.36:391][543]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\desk.fbx
+[2021.08.20-10.12.36:406][543]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.12.36:408][543]LogStaticMesh: Building static mesh desk...
+[2021.08.20-10.12.36:423][543]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/desk.desk
+[2021.08.20-10.12.36:432][543]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.12.55:685][698]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\doorway.fbx)
+[2021.08.20-10.12.55:702][698]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\doorway.fbx
+[2021.08.20-10.12.55:713][698]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.12.56:552][698]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.12.56:580][698]LogStaticMesh: Building static mesh doorway...
+[2021.08.20-10.12.56:592][698]LogStaticMesh: Built static mesh [0.01s] /Game/Test/Geometry/Mesh/Environment/furniture/doorway.doorway
+[2021.08.20-10.12.56:605][698]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.12.56:612][698]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\doorwayOpen.fbx)
+[2021.08.20-10.12.56:668][698]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\doorwayOpen.fbx
+[2021.08.20-10.12.56:677][698]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.12.56:679][698]LogStaticMesh: Building static mesh doorwayOpen...
+[2021.08.20-10.12.56:683][698]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/doorwayOpen.doorwayOpen
+[2021.08.20-10.12.56:692][698]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.13.16:637][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorFull.fbx)
+[2021.08.20-10.13.16:656][928]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorFull.fbx
+[2021.08.20-10.13.16:666][928]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.13.17:434][928]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.20-10.13.17:459][928]LogStaticMesh: Building static mesh floorFull...
+[2021.08.20-10.13.17:461][928]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/floorFull.floorFull
+[2021.08.20-10.13.17:470][928]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.13.17:481][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorHalf.fbx)
+[2021.08.20-10.13.17:527][928]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorHalf.fbx
+[2021.08.20-10.13.17:536][928]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.13.17:538][928]LogStaticMesh: Building static mesh floorHalf...
+[2021.08.20-10.13.17:541][928]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/floorHalf.floorHalf
+[2021.08.20-10.13.17:549][928]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.13.17:555][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorCorner.fbx)
+[2021.08.20-10.13.17:575][928]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorCorner.fbx
+[2021.08.20-10.13.17:582][928]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.13.17:585][928]LogStaticMesh: Building static mesh floorCorner...
+[2021.08.20-10.13.17:588][928]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/floorCorner.floorCorner
+[2021.08.20-10.13.17:600][928]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.13.17:614][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorCornerRound.fbx)
+[2021.08.20-10.13.17:633][928]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\furniturekit_updated\Models\FBX format\floorCornerRound.fbx
+[2021.08.20-10.13.17:642][928]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.20-10.13.17:644][928]LogStaticMesh: Building static mesh floorCornerRound...
+[2021.08.20-10.13.17:646][928]LogStaticMesh: Built static mesh [0.00s] /Game/Test/Geometry/Mesh/Environment/furniture/floorCornerRound.floorCornerRound
+[2021.08.20-10.13.17:657][928]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.20-10.13.48:316][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.08.20-10.13.51:032][ 70]LogSlate: Window 'Save Content' being destroyed
+[2021.08.20-10.13.51:117][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/desk3407596043FE1E3909A35A81B47656E6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/desk.uasset'
+[2021.08.20-10.13.51:146][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/deskCorner466416B74F8D527CCC791C9325D1B881.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/deskCorner.uasset'
+[2021.08.20-10.13.51:176][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/doorway30A47BFF49E5142FDDED859431CE49BB.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/doorway.uasset'
+[2021.08.20-10.13.51:208][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/doorwayOpenB6640C734AA5CDA8253F7EAC8ECD081C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/doorwayOpen.uasset'
+[2021.08.20-10.13.51:237][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/floorCornerC4AC8F3846BAF1AEEE10AA90DAB5C5C1.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/floorCorner.uasset'
+[2021.08.20-10.13.51:355][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/floorCornerRound2D91EA5B49D7329E1DD435838C4BC1E7.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/floorCornerRound.uasset'
+[2021.08.20-10.13.51:386][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/floorFullB2BF90F74A662439317D19868AAB674D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/floorFull.uasset'
+[2021.08.20-10.13.51:417][ 70]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Saved/floorHalf27343A0342D5909209E8ADB7357A55DA.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KennyJam2021/Content/Test/Geometry/Mesh/Environment/furniture/floorHalf.uasset'
+[2021.08.20-10.13.51:442][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.20-10.13.51:442][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/floorCornerRound.floorCornerRound
+[2021.08.20-10.13.51:442][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/floorCorner.floorCorner
+[2021.08.20-10.13.51:442][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/floorHalf.floorHalf
+[2021.08.20-10.13.51:442][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/floorFull.floorFull
+[2021.08.20-10.13.51:442][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/doorwayOpen.doorwayOpen
+[2021.08.20-10.13.51:442][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/doorway.doorway
+[2021.08.20-10.13.51:443][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/deskCorner.deskCorner
+[2021.08.20-10.13.51:443][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Test/Geometry/Mesh/Environment/furniture/desk.desk
