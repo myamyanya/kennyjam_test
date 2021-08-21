@@ -1,17 +1,25 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 08/21/21 11:11:06
+=======
+﻿Log file open, 08/21/21 11:38:13
+>>>>>>> Stashed changes
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: KenneyJam2021
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.286940
+=======
+LogStats: Stats thread started at 0.574284
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
 LogPluginManager: Mounting plugin MegascansPlugin
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
@@ -24,11 +32,38 @@ LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin EditorScriptingUtilities
+=======
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin AndroidMedia
@@ -40,10 +75,19 @@ LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin MediaPlayerEditor
+=======
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
@@ -53,6 +97,12 @@ LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+=======
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin MotoSynth
@@ -60,11 +110,36 @@ LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
+=======
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
@@ -72,12 +147,17 @@ LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+=======
+LogPluginManager: Mounting plugin ActorLayerUtilities
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioSynesthesia
@@ -86,16 +166,26 @@ LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin ActorLayerUtilities
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin MobilePatchingUtils
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PhysXVehicles
+=======
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
@@ -104,6 +194,7 @@ LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
@@ -123,11 +214,18 @@ LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+=======
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin DatabaseSupport
-LogPluginManager: Mounting plugin SQLiteSupport
 LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
@@ -215,6 +313,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2021.08.21-03.11.07:110][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.08.21-03.11.07:110][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.08.21-03.11.07:110][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
@@ -2407,3 +2506,771 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.21-03.49.27:160][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.08.21-03.49.27:164][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
 [2021.08.21-03.49.27:195][819]LogPlayLevel: Display: Destroying online subsystem :Context_27
+=======
+[2021.08.21-03.38.14:620][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.21-03.38.14:620][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.21-03.38.14:620][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:620][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.21-03.38.14:620][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.21-03.38.14:621][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.21-03.38.14:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:622][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:638][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.21-03.38.14:638][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.21-03.38.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.21-03.38.14:640][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.21-03.38.14:641][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.21-03.38.14:642][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.21-03.38.14:643][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.21-03.38.14:643][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.21-03.38.14:643][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.21-03.38.14:643][  0]LogHAL: Display: Platform has ~ 16 GB [17066790912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.21-03.38.14:643][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.21-03.38.14:643][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:643][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.21-03.38.14:643][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.21-03.38.14:643][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:643][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.21-03.38.14:643][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.21-03.38.14:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.21-03.38.14:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.21-03.38.14:646][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:646][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.21-03.38.14:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.21-03.38.14:648][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.21-03.38.14:649][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.21-03.38.14:649][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.21-03.38.14:649][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.21-03.38.14:649][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-03.38.14:649][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Editor.ini]
+[2021.08.21-03.38.14:649][  0]LogInit: Computer: LAPTOP-957TEBTO
+[2021.08.21-03.38.14:649][  0]LogInit: User: Lenovo
+[2021.08.21-03.38.14:649][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.21-03.38.14:649][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.21-03.38.14:649][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.21-03.38.14:649][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.21-03.38.14:649][  0]LogMemory: Process Physical Memory: 138.87 MB used, 138.87 MB peak
+[2021.08.21-03.38.14:649][  0]LogMemory: Process Virtual Memory: 119.78 MB used, 119.78 MB peak
+[2021.08.21-03.38.14:649][  0]LogMemory: Physical Memory: 8431.28 MB used,  7844.88 MB free, 16276.16 MB total
+[2021.08.21-03.38.14:649][  0]LogMemory: Virtual Memory: 134200872.00 MB used,  16853.43 MB free, 134217728.00 MB total
+[2021.08.21-03.38.14:662][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.21-03.38.14:811][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.21-03.38.14:812][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.08.21-03.38.14:812][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.08.21-03.38.16:134][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.21-03.38.16:157][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.21-03.38.16:189][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.21-03.38.16:189][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.21-03.38.16:660][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.08.21-03.38.16:666][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.21-03.38.16:666][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.21-03.38.16:666][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.21-03.38.16:933][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.08.21-03.38.16:934][  0]LogD3D11RHI:       6052/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.21-03.38.16:952][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.08.21-03.38.16:952][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.21-03.38.16:956][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.21-03.38.16:956][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.21-03.38.16:956][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.21-03.38.16:983][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.21-03.38.16:983][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.21-03.38.16:983][  0]LogWindows: EnumDisplayDevices:
+[2021.08.21-03.38.16:984][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.08.21-03.38.16:985][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.08.21-03.38.16:986][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.08.21-03.38.16:988][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-03.38.16:989][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-03.38.16:991][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-03.38.16:992][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-03.38.16:994][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.21-03.38.16:994][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.08.21-03.38.16:994][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.08.21-03.38.16:994][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.08.21-03.38.16:994][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.08.21-03.38.17:170][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.21-03.38.17:170][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.21-03.38.17:170][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.21-03.38.17:201][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.21-03.38.17:206][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.21-03.38.17:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.21-03.38.18:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.21-03.38.18:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.21-03.38.18:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.21-03.38.18:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.21-03.38.18:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.21-03.38.18:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.21-03.38.18:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.21-03.38.18:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.21-03.38.18:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.21-03.38.18:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.21-03.38.18:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.21-03.38.18:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.21-03.38.18:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.21-03.38.18:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.21-03.38.18:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.21-03.38.18:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.21-03.38.18:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.21-03.38.18:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.21-03.38.18:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.21-03.38.18:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.21-03.38.18:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.21-03.38.18:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.21-03.38.18:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.21-03.38.18:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.21-03.38.18:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.21-03.38.18:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.21-03.38.18:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.21-03.38.18:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.21-03.38.18:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.21-03.38.18:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.21-03.38.18:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.21-03.38.18:453][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.21-03.38.18:466][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.21-03.38.18:577][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.21-03.38.18:577][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Intermediate/Shaders/WorkingDirectory/34776/).
+[2021.08.21-03.38.18:577][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/27876E0646003992D8EEDBA123ED7E9E/'.
+[2021.08.21-03.38.18:578][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.21-03.38.18:578][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.21-03.38.20:133][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.21-03.38.20:204][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.21-03.38.20:204][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.21-03.38.20:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.21-03.38.20:204][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.21-03.38.20:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.21-03.38.20:204][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.21-03.38.20:225][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.21-03.38.20:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.21-03.38.20:225][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.21-03.38.20:246][  0]LogDerivedDataCache: Speed tests for C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.08.21-03.38.20:246][  0]LogDerivedDataCache: Display: Performance to C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=162.54MBs, RandomWriteSpeed=65.45MBs. Assigned SpeedClass 'Local'
+[2021.08.21-03.38.20:247][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.21-03.38.20:247][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.21-03.38.20:247][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.21-03.38.20:370][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.21-03.38.20:371][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.21-03.38.20:417][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2021.08.21-03.38.20:960][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.21-03.38.20:960][  0]LogInit: Active device profile: [0000022DB3C82300][0000022DB1FC6540 49] Windows
+[2021.08.21-03.38.20:960][  0]LogInit: Profiles: [0000022DB3C82300][0000022DB1FC6540 49] Windows, [0000022DB3C19F00][0000022DB422C6C0 49] WindowsNoEditor, [0000022DB3C82E00][0000022DB4230840 49] WindowsServer, [0000022DB3C19200][0000022DB42349C0 49] WindowsClient, [0000022DB3C82100][0000022DB4238B40 49] IOS, [0000022DB3C1B200][0000022DB423CCC0 49] iPadAir, [0000022DB3C80500][0000022DB4240E40 49] iPadAir2, [0000022DB3BADE00][0000022DB4249100 49] IPadPro, [0000022DB3BADF00][0000022DB4245140 49] iPadAir3, [0000022DB3C1AB00][0000022DB424D2C0 49] iPadAir4, [0000022DB3BAF600][0000022DB4251440 49] iPadMini2, [0000022DB3C18900][0000022DB42555C0 49] iPadMini3, [0000022DB3BAD700][0000022DB1FCB700 49] iPadMini4, [0000022DB3C1BA00][0000022DB4259840 49] iPadMini5, [0000022DB3BBD400][0000022DB4261A80 49] iPhone6, [0000022DB3BBD500][0000022DB425DAC0 49] iPodTouch6, [0000022DB3C82F00][0000022DB426C0C0 49] iPhone7, [0000022DB3C81500][0000022DB4268100 49] iPodTouch7, [0000022DB3BBDE00][0000022DB4270280 49] iPhone5S, [0000022DB3C80F00][0000022DB4274400 49] iPhone6Plus, [0000022DB3BBF800][0000022DB4278580 49] iPhone6S, [0000022DB3C82700][0000022DB427C700 49] iPhone6SPlus, [0000022DB3BBE400][0000022DB4280880 49] iPhone7Plus, [0000022DB3C1A100][0000022DB4284A00 49] iPhoneSE, [0000022DB3BBC600][0000022DB4288B80 49] iPhone8, [0000022DB3C19900][0000022DB428CD00 49] iPhone8Plus, [0000022DB3BBD900][0000022DB4290E80 49] iPhoneX, [0000022DB3C19C00][0000022DB4295000 49] iPhoneXS, [0000022DB3BBC800][0000022DB4299180 49] iPhoneXSMax, [0000022DB3C19D00][0000022DB429D300 49] iPhoneXR, [0000022DB3BBE100][0000022DB42A1480 49] iPhone11, [0000022DB3C18600][0000022DB42A5600 49] iPhone11Pro, [0000022DB3BBD200][0000022DB4265740 49] iPhone11ProMax, [0000022DB3C19700][0000022DB42A9880 49] iPhoneSE2, [0000022DB3BBE900][0000022DB42AD9C0 49] iPhone12Mini, [0000022DB3C1A500][0000022DB42B1B00 49] iPhone12, [0000022DB3BBEF00][0000022DB42B9C80 49] iPhone12Pro, [0000022DB3C19400][0000022DB42BC140 49] iPhone12ProMax, [0000022DB3BBC100][0000022DB42C02C0 49] iPadPro105, [0000022DB3C19A00][0000022DB42C4440 49] iPadPro129, [0000022DB3BBDB00][0000022DB42C85C0 49] iPadPro97, [0000022DB3C18E00][0000022DB42CC740 49] iPadPro2_129, [0000022DB3BBEC00][0000022DB42D08C0 49] iPad5, [0000022DB3C19300][0000022DB42D4A40 49] iPad6, [0000022DB3BBC700][0000022DB42D8BC0 49] iPad7, [0000022DB3C18800][0000022DB42DCD40 49] iPad8, [0000022DB3BBDA00][0000022DB42E0EC0 49] iPadPro11, [0000022DB3C18700][0000022DB42E5040 49] iPadPro2_11, [0000022DB3BBD300][0000022DB42E91C0 49] iPadPro3_129, [0000022DB3C18B00][0000022DB42ED340 49] iPadPro4_129, [0000022DB3BBD700][0000022DB42F14C0 49] AppleTV, [0000022DB3C18500][0000022DB42F5640 49] AppleTV4K, [0000022DB3BBFB00][0000022DB42F97C0 49] TVOS, [0000022DB3C1A300][0000022DB42B5900 49] Mac, [0000022DB3BBD100][0000022DB42FDA40 49] MacClient, [0000022DB3C1A000][0000022DB4301B80 49] MacNoEditor, [0000022DB3BBCD00][0000022DB4309D00 49] MacServer, [0000022DB3C19500][0000022DB430C1C0 49] Linux, [0000022DB3BBDD00][0000022DB4310340 49] LinuxAArch64, [0000022DB3C1A200][0000022DB43144C0 49] LinuxNoEditor, [0000022DB3BBC300][0000022DB4318640 49] LinuxAArch64NoEditor, [0000022DB3C1A800][0000022DB431C7C0 49] LinuxClient, [0000022DB3BBC500][0000022DB4320940 49] LinuxAArch64Client, [0000022DB3C19000][0000022DB4324AC0 49] LinuxServer, [0000022DB3BBCA00][0000022DB4328C40 49] LinuxAArch64Server, [0000022DB3C1BE00][0000022DB432CDC0 49] Android, [0000022DB3BBD000][0000022DB4330F40 49] Android_Low, [0000022DB3C1AC00][0000022DB43350C0 49] Android_Mid, [0000022DB3BBD800][0000022DB4339240 49] Android_High, [0000022DB3C1B400][0000022DB433D3C0 49] Android_Default, [0000022DB3BBF500][0000022DB4341540 49] Android_Adreno4xx, [0000022DB3C18400][0000022DB43456C0 49] Android_Adreno5xx_Low, [0000022DB3BBF400][0000022DB4349840 49] Android_Adreno5xx, [0000022DB3C1BF00][0000022DB4305980 49] Android_Adreno6xx, [0000022DB3BAE500][0000022DB434DAC0 49] Android_Adreno6xx_Vulkan, [0000022DB3C82900][0000022DB4351C00 49] Android_Mali_T6xx, [0000022DB3BADB00][0000022DB43580C0 49] Android_Mali_T7xx, [0000022DB3C82600][0000022DB435C240 49] Android_Mali_T8xx, [0000022DB3BAC800][0000022DB43603C0 49] Android_Mali_G71, [0000022DB3C81B00][0000022DB4364540 49] Android_Mali_G72, [0000022DB3BADD00][0000022DB43686C0 49] Android_Mali_G72_Vulkan, [0000022DB3C81E00][0000022DB436C840 49] Android_Mali_G76, [0000022DB3BAFF00][0000022DB43709C0 49] Android_Mali_G76_Vulkan, [0000022DB3C82500][0000022DB4374B40 49] Android_Mali_G77, [0000022DB3BAF700][0000022DB4378CC0 49] Android_Mali_G77_Vulkan, [0000022DB3C81300][0000022DB437CE40 49] Android_Vulkan_SM5, [0000022DB3BACA00][0000022DB4380FC0 49] Android_PowerVR_G6xxx, [0000022DB3C82000][0000022DB4385140 49] Android_PowerVR_GT7xxx, [0000022DB3BAFE00][0000022DB43892C0 49] Android_PowerVR_GE8xxx, [0000022DB3C81A00][0000022DB438D440 49] Android_PowerVR_GM9xxx, [0000022DB3BAE200][0000022DB43915C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000022DB3C80600][0000022DB4395740 49] Android_TegraK1, [0000022DB3BAE900][0000022DB43998C0 49] Android_Unknown_Vulkan, [0000022DB3C81400][0000022DB4355A00 49] Lumin, [0000022DB3BACF00][0000022DB439DB40 49] Lumin_Desktop, [0000022DB3C80300][0000022DB43A1C80 49] HoloLens, 
+[2021.08.21-03.38.21:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.21-03.38.21:177][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.21-03.38.21:177][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.21-03.38.21:177][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.21-03.38.21:177][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.21-03.38.21:208][  0]LogNetVersion: KenneyJam2021 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 707209456)
+[2021.08.21-03.38.22:049][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.21-03.38.22:137][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.087798 seconds
+[2021.08.21-03.38.22:150][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.21-03.38.22:150][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.21-03.38.22:150][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.21-03.38.22:743][  0]LogPython: Using Python 3.7.7
+[2021.08.21-03.38.24:817][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.21-03.38.24:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.21-03.38.25:055][  0]SourceControl: Source control is disabled
+[2021.08.21-03.38.25:055][  0]SourceControl: Source control is disabled
+[2021.08.21-03.38.25:062][  0]SourceControl: Source control is disabled
+[2021.08.21-03.38.25:080][  0]SourceControl: Source control is disabled
+[2021.08.21-03.38.25:095][  0]SourceControl: Source control is disabled
+[2021.08.21-03.38.25:232][  0]LogUProjectInfo: Found projects:
+[2021.08.21-03.38.25:777][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.21-03.38.25:837][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.21-03.38.25:838][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.21-03.38.26:046][  0]LogCollectionManager: Loaded 0 collections in 0.001544 seconds
+[2021.08.21-03.38.26:113][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Collections/' took 0.00s
+[2021.08.21-03.38.26:113][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/Developers/Lenovo/Collections/' took 0.00s
+[2021.08.21-03.38.26:113][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/Collections/' took 0.00s
+[2021.08.21-03.38.26:113][  0]LogOcInput: OculusInput pre-init called
+[2021.08.21-03.38.26:144][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.21-03.38.26:144][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.21-03.38.26:991][  0]LogEngine: Initializing Engine...
+[2021.08.21-03.38.26:994][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.08.21-03.38.26:994][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.21-03.38.26:996][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.21-03.38.27:235][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.21-03.38.27:256][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.21-03.38.27:271][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.21-03.38.27:279][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.21-03.38.27:279][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.21-03.38.27:279][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.21-03.38.27:279][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.21-03.38.27:280][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.21-03.38.27:280][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.21-03.38.27:316][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.21-03.38.27:316][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.21-03.38.27:416][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.21-03.38.27:422][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.21-03.38.27:425][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.21-03.38.27:425][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.21-03.38.27:427][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.21-03.38.27:427][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.21-03.38.27:427][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.21-03.38.27:429][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.21-03.38.27:429][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.21-03.38.27:429][  0]LogInit: FAudioDevice initialized.
+[2021.08.21-03.38.27:430][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.21-03.38.27:430][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.21-03.38.28:006][  0]LogDerivedDataCache: Saved boot cache 0.58s 77MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.21-03.38.28:007][  0]LogInit: Texture streaming: Enabled
+[2021.08.21-03.38.28:038][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.21-03.38.28:165][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.21-03.38.28:165][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={89097FE8-4FB9-2349-F045-56A563B679BE}
+[2021.08.21-03.38.28:165][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.21-03.38.28:173][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.21-03.38.28:246][  0]LogInit: Transaction tracking system initialized
+[2021.08.21-03.38.28:300][  0]BlueprintLog: New page: Editor Load
+[2021.08.21-03.38.28:466][  0]LocalizationService: Localization service is disabled
+[2021.08.21-03.38.28:523][  0]TimingProfiler: Initialize
+[2021.08.21-03.38.28:523][  0]TimingProfiler: OnSessionChanged
+[2021.08.21-03.38.28:523][  0]LoadingProfiler: Initialize
+[2021.08.21-03.38.28:524][  0]LoadingProfiler: OnSessionChanged
+[2021.08.21-03.38.28:524][  0]NetworkingProfiler: Initialize
+[2021.08.21-03.38.28:524][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.21-03.38.28:524][  0]MemoryProfiler: Initialize
+[2021.08.21-03.38.28:524][  0]MemoryProfiler: OnSessionChanged
+[2021.08.21-03.38.29:290][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.21-03.38.29:291][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.21-03.38.29:384][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/' took 0.01s
+[2021.08.21-03.38.30:104][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.21-03.38.30:110][  0]SourceControl: Source control is disabled
+[2021.08.21-03.38.30:349][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.21-03.38.45:581][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.08.21-03.38.45:582][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.21-03.38.45:587][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.21-03.38.47:490][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.08.21-03.38.47:491][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.21-03.38.47:495][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.21-03.38.47:497][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/KenneyJam2021/Geometry/Mesh/Environment/farm/roadCorner
+/Game/KenneyJam2021/MainMap
+[2021.08.21-03.38.47:505][  0]LogUnrealEdMisc: Loading editor; pre map load, took 35.576
+[2021.08.21-03.38.47:506][  0]Cmd: MAP LOAD FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.21-03.38.47:511][  0]LightingResults: New page: Lighting Build
+[2021.08.21-03.38.47:515][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-03.38.47:515][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-03.38.47:515][  0]MapCheck: New page: Map Check
+[2021.08.21-03.38.47:515][  0]LightingResults: New page: Lighting Build
+[2021.08.21-03.38.47:532][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.08.21-03.38.48:055][  0]LogStaticMesh: Building static mesh roadCorner...
+[2021.08.21-03.38.48:074][  0]LogStaticMesh: Built static mesh [0.02s] /Game/KenneyJam2021/Geometry/Mesh/Environment/farm/roadCorner.roadCorner
+[2021.08.21-03.38.48:103][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2021.08.21-03.38.48:106][  0]LogAIModule: Creating AISystem for world MainMap
+[2021.08.21-03.38.48:122][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.21-03.38.48:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.08.21-03.38.48:148][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.21-03.38.48:149][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.622ms to complete.
+[2021.08.21-03.38.48:149][  0]LogFileHelpers: Loading map 'MainMap' took 0.643
+[2021.08.21-03.38.48:154][  0]LogUnrealEdMisc: Total Editor Startup Time, took 36.224
+[2021.08.21-03.38.48:274][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0190 seconds. Added 3628 classes and 872 folders.
+[2021.08.21-03.38.48:280][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.21-03.38.48:283][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.21-03.38.48:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-03.38.48:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.21-03.38.48:285][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.21-03.38.48:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.21-03.38.48:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.21-03.38.48:286][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.21-03.38.48:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.21-03.38.48:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.21-03.38.48:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-03.38.48:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-03.38.48:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.21-03.38.48:288][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.21-03.38.48:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.21-03.38.48:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.21-03.38.48:289][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.21-03.38.48:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.21-03.38.48:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.08.21-03.38.48:290][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.21-03.38.48:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.21-03.38.48:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.21-03.38.48:292][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.21-03.38.48:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.21-03.38.48:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.08.21-03.38.48:293][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.21-03.38.48:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.21-03.38.48:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.08.21-03.38.48:294][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.21-03.38.48:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.21-03.38.48:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.08.21-03.38.48:295][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.21-03.38.48:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.21-03.38.48:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.08.21-03.38.48:297][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.21-03.38.48:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.21-03.38.48:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.08.21-03.38.48:298][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-03.38.48:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-03.38.48:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.08.21-03.38.48:299][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.21-03.38.48:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.21-03.38.48:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.08.21-03.38.48:299][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.21-03.38.48:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.21-03.38.48:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.08.21-03.38.48:301][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.21-03.38.48:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-03.38.48:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.08.21-03.38.48:302][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.21-03.38.48:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.21-03.38.48:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.08.21-03.38.48:302][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.21-03.38.48:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.21-03.38.48:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.08.21-03.38.48:303][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-03.38.48:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-03.38.48:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.08.21-03.38.48:304][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-03.38.48:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-03.38.48:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.08.21-03.38.48:305][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.21-03.38.48:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-03.38.48:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.08.21-03.38.48:305][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.21-03.38.48:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.21-03.38.48:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.08.21-03.38.48:306][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.21-03.38.48:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.21-03.38.48:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.08.21-03.38.48:307][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.21-03.38.48:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.21-03.38.48:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.08.21-03.38.48:308][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-03.38.48:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-03.38.48:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.08.21-03.38.48:309][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.21-03.38.48:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-03.38.48:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.21-03.38.48:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.08.21-03.38.48:364][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.21-03.38.48:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-03.38.48:409][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-03.38.48:422][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-03.38.48:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-03.38.48:438][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.08.21-03.38.48:575][  0]LogSlate: The tab "GPULightmassSettings" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.08.21-03.38.48:679][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.21-03.38.48:680][  0]LogSlate: Took 0.000736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.21-03.38.48:779][  0]LogRenderer: Reallocating scene render targets to support 900x704 Format 10 NumSamples 1 (Frame:1).
+[2021.08.21-03.38.49:076][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.08.21-03.38.49:076][  0]LogLoad: (Engine Initialization) Total time: 37.15 seconds
+[2021.08.21-03.38.49:076][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.21-03.38.49:076][  0]LogInit: First time updating LLM stats...
+[2021.08.21-03.38.49:158][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.21-03.38.49:196][  1]LogAssetRegistry: Asset discovery search completed in 28.7814 seconds
+[2021.08.21-03.38.49:200][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.08.21-03.38.49:399][  3]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.21-03.38.52:891][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.08.21-03.39.09:248][762]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.21-03.39.09:274][762]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\mushroom_redGroup.fbx)
+[2021.08.21-03.39.09:313][762]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\mushroom_redGroup.fbx
+[2021.08.21-03.39.09:330][762]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.39.10:302][762]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.21-03.39.10:343][762]LogStaticMesh: Building static mesh mushroom_redGroup...
+[2021.08.21-03.39.10:390][762]LogStaticMesh: Built static mesh [0.05s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup.mushroom_redGroup
+[2021.08.21-03.39.10:402][762]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.39.10:408][762]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\mushroom_redTall.fbx)
+[2021.08.21-03.39.10:473][762]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\mushroom_redTall.fbx
+[2021.08.21-03.39.10:496][762]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.39.10:501][762]LogStaticMesh: Building static mesh mushroom_redTall...
+[2021.08.21-03.39.10:532][762]LogStaticMesh: Built static mesh [0.03s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall.mushroom_redTall
+[2021.08.21-03.39.10:546][762]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.39.10:558][762]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\mushroom_red.fbx)
+[2021.08.21-03.39.10:587][762]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\mushroom_red.fbx
+[2021.08.21-03.39.10:606][762]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.39.10:609][762]LogStaticMesh: Building static mesh mushroom_red...
+[2021.08.21-03.39.10:639][762]LogStaticMesh: Built static mesh [0.03s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red.mushroom_red
+[2021.08.21-03.39.10:655][762]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.48.10:879][970]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_carrot.fbx]
+[2021.08.21-03.48.10:958][970]LogFbx: Loading FBX Scene from D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_carrot.fbx
+[2021.08.21-03.48.10:981][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.48.11:013][970]LogStaticMesh: Building static mesh crop_carrot...
+[2021.08.21-03.48.11:098][970]LogStaticMesh: Built static mesh [0.09s] /Engine/Transient.crop_carrot
+[2021.08.21-03.48.11:258][970]LogStaticMesh: Building static mesh crop_carrot...
+[2021.08.21-03.48.11:289][970]LogStaticMesh: Built static mesh [0.03s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot.crop_carrot
+[2021.08.21-03.48.11:360][970]LogEditorFactories: -- imported successfully
+[2021.08.21-03.48.11:378][970]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.48.11:401][970]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_melon.fbx]
+[2021.08.21-03.48.11:648][970]LogFbx: Loading FBX Scene from D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_melon.fbx
+[2021.08.21-03.48.11:666][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.48.11:673][970]LogStaticMesh: Building static mesh crop_melon...
+[2021.08.21-03.48.11:853][970]LogStaticMesh: Built static mesh [0.18s] /Engine/Transient.crop_melon
+[2021.08.21-03.48.12:002][970]LogStaticMesh: Building static mesh crop_melon...
+[2021.08.21-03.48.12:023][970]LogStaticMesh: Built static mesh [0.02s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon.crop_melon
+[2021.08.21-03.48.12:059][970]LogEditorFactories: -- imported successfully
+[2021.08.21-03.48.12:082][970]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.48.12:139][970]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_pumpkin.fbx]
+[2021.08.21-03.48.12:382][970]LogFbx: Loading FBX Scene from D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_pumpkin.fbx
+[2021.08.21-03.48.12:402][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.48.12:409][970]LogStaticMesh: Building static mesh crop_pumpkin...
+[2021.08.21-03.48.12:565][970]LogStaticMesh: Built static mesh [0.16s] /Engine/Transient.crop_pumpkin
+[2021.08.21-03.48.12:693][970]LogStaticMesh: Building static mesh crop_pumpkin...
+[2021.08.21-03.48.12:713][970]LogStaticMesh: Built static mesh [0.02s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin.crop_pumpkin
+[2021.08.21-03.48.12:726][970]LogEditorFactories: -- imported successfully
+[2021.08.21-03.48.12:731][970]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.48.12:754][970]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_turnip.fbx]
+[2021.08.21-03.48.12:974][970]LogFbx: Loading FBX Scene from D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/assets/kenney_natureKit_2.1/Models/FBX format/crop_turnip.fbx
+[2021.08.21-03.48.12:991][970]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.48.12:995][970]LogStaticMesh: Building static mesh crop_turnip...
+[2021.08.21-03.48.13:140][970]LogStaticMesh: Built static mesh [0.15s] /Engine/Transient.crop_turnip
+[2021.08.21-03.48.13:388][970]LogStaticMesh: Building static mesh crop_turnip...
+[2021.08.21-03.48.13:424][970]LogStaticMesh: Built static mesh [0.04s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip.crop_turnip
+[2021.08.21-03.48.13:450][970]LogEditorFactories: -- imported successfully
+[2021.08.21-03.48.13:458][970]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.48.49:524][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.08.21-03.48.49:526][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KenneyJam2021/MainMap' took 0.012
+[2021.08.21-03.48.49:527][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup] ([1] browsable assets)...
+[2021.08.21-03.48.49:550][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup.mushroom_redGroup]
+[2021.08.21-03.48.49:550][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup]
+[2021.08.21-03.48.49:577][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/mushroom_redGroup_Auto1EF4B6B474022C37EFDE7B0A586C1FEC6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup_Auto1.uasset'
+[2021.08.21-03.48.49:578][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall] ([1] browsable assets)...
+[2021.08.21-03.48.49:599][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall.mushroom_redTall]
+[2021.08.21-03.48.49:599][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall]
+[2021.08.21-03.48.49:623][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/mushroom_redTall_Auto12168F4CE469B3DDE8D0EF99B365BB00D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall_Auto1.uasset'
+[2021.08.21-03.48.49:625][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red] ([1] browsable assets)...
+[2021.08.21-03.48.49:646][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red.mushroom_red]
+[2021.08.21-03.48.49:646][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red]
+[2021.08.21-03.48.49:667][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/mushroom_red_Auto1B5E8F53445DF7A5DE42FCA80234CCB0D.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red_Auto1.uasset'
+[2021.08.21-03.48.49:668][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot] ([1] browsable assets)...
+[2021.08.21-03.48.49:689][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot.crop_carrot]
+[2021.08.21-03.48.49:689][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot]
+[2021.08.21-03.48.49:720][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_carrot_Auto1BCDB11DF4491325D8A19E8BE8293CB6B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot_Auto1.uasset'
+[2021.08.21-03.48.49:722][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon] ([1] browsable assets)...
+[2021.08.21-03.48.49:745][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon.crop_melon]
+[2021.08.21-03.48.49:745][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon]
+[2021.08.21-03.48.49:771][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_melon_Auto16C9991554C9FAAA3778E16988AC83622.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon_Auto1.uasset'
+[2021.08.21-03.48.49:773][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin] ([1] browsable assets)...
+[2021.08.21-03.48.49:793][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin.crop_pumpkin]
+[2021.08.21-03.48.49:793][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin]
+[2021.08.21-03.48.49:818][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_pumpkin_Auto1B0E72D1E4C63CCAADD3A9F9CF64CA10B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin_Auto1.uasset'
+[2021.08.21-03.48.49:821][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip] ([1] browsable assets)...
+[2021.08.21-03.48.49:842][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip.crop_turnip]
+[2021.08.21-03.48.49:842][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip]
+[2021.08.21-03.48.49:868][ 87]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_turnip_Auto148CD6F7D4FF866586906479B6AD60FAC.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip_Auto1.uasset'
+[2021.08.21-03.48.49:869][ 87]LogFileHelpers: Auto-saving content packages took 0.343
+[2021.08.21-03.48.51:183][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.08.21-03.48.51:996][140]LogSlate: Window 'Save Content' being destroyed
+[2021.08.21-03.48.52:083][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_carrotC4768A0B4970EA8EA38E0685AF6165EF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot.uasset'
+[2021.08.21-03.48.52:107][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_melonABFC686746F14D1599CD02B078B58D7E.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon.uasset'
+[2021.08.21-03.48.52:130][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_pumpkinC144310242F8F2DD3C194593329170E0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin.uasset'
+[2021.08.21-03.48.52:150][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/crop_turnipF444D98B4DF6AF344685EA8949A7E85C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip.uasset'
+[2021.08.21-03.48.52:169][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/mushroom_red774989B144D4554B3888F9AD3F267D66.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red.uasset'
+[2021.08.21-03.48.52:190][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/mushroom_redGroupA4C454394E463B6985B69E9FEE1AA25B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup.uasset'
+[2021.08.21-03.48.52:210][140]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/mushroom_redTall6CFDE9054CDDAF7AE5D9C6B12A9D7FAF.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall.uasset'
+[2021.08.21-03.48.52:234][140]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.21-03.48.52:234][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_turnip.crop_turnip
+[2021.08.21-03.48.52:234][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_pumpkin.crop_pumpkin
+[2021.08.21-03.48.52:234][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_melon.crop_melon
+[2021.08.21-03.48.52:234][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/crop_carrot.crop_carrot
+[2021.08.21-03.48.52:234][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_red.mushroom_red
+[2021.08.21-03.48.52:235][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redTall.mushroom_redTall
+[2021.08.21-03.48.52:235][140]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/mushroom_redGroup.mushroom_redGroup
+[2021.08.21-03.52.22:505][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\flower_purpleB.fbx)
+[2021.08.21-03.52.22:536][ 46]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\flower_purpleB.fbx
+[2021.08.21-03.52.22:556][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.52.23:706][ 46]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.21-03.52.23:751][ 46]LogStaticMesh: Building static mesh flower_purpleB...
+[2021.08.21-03.52.23:771][ 46]LogStaticMesh: Built static mesh [0.02s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_purpleB.flower_purpleB
+[2021.08.21-03.52.23:788][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.52.23:803][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\flower_purpleC.fbx)
+[2021.08.21-03.52.23:889][ 46]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\flower_purpleC.fbx
+[2021.08.21-03.52.23:912][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.52.23:914][ 46]LogStaticMesh: Building static mesh flower_purpleC...
+[2021.08.21-03.52.23:933][ 46]LogStaticMesh: Built static mesh [0.02s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_purpleC.flower_purpleC
+[2021.08.21-03.52.23:944][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.52.23:952][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\flower_purpleA.fbx)
+[2021.08.21-03.52.23:983][ 46]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\flower_purpleA.fbx
+[2021.08.21-03.52.24:000][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.52.24:004][ 46]LogStaticMesh: Building static mesh flower_purpleA...
+[2021.08.21-03.52.24:021][ 46]LogStaticMesh: Built static mesh [0.02s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_purpleA.flower_purpleA
+[2021.08.21-03.52.24:032][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.52.31:665][375]LogContentBrowser: Attempting asset rename: flower_purpleA -> flower_A
+[2021.08.21-03.52.31:905][375]LogMetaData: Removing '/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_A.flower_A' ref from Metadata '/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_purpleA.PackageMetaData'
+[2021.08.21-03.52.32:002][375]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/flower_ADF578A4743CC3A58B1B3FBBAD9EB3893.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_A.uasset'
+[2021.08.21-03.52.32:105][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.08.21-03.52.32:128][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.08.21-03.52.32:137][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.21-03.52.32:214][375]AssetCheck: New page: Asset Save: flower_A
+[2021.08.21-03.52.32:214][375]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_A.flower_A
+[2021.08.21-03.52.37:236][594]LogContentBrowser: Attempting asset rename: flower_purpleB -> flower_B
+[2021.08.21-03.52.37:291][594]LogMetaData: Removing '/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_B.flower_B' ref from Metadata '/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_purpleB.PackageMetaData'
+[2021.08.21-03.52.37:364][594]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/flower_B217A7FCC4B5E46518E1AE9B1394838FD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_B.uasset'
+[2021.08.21-03.52.37:453][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.21-03.52.37:471][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.21-03.52.37:480][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.21-03.52.37:532][594]AssetCheck: New page: Asset Save: flower_B
+[2021.08.21-03.52.37:532][594]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_B.flower_B
+[2021.08.21-03.52.43:179][842]LogContentBrowser: Attempting asset rename: flower_purpleC -> flower_C
+[2021.08.21-03.52.43:225][842]LogMetaData: Removing '/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_C.flower_C' ref from Metadata '/Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_purpleC.PackageMetaData'
+[2021.08.21-03.52.43:303][842]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/flower_C2986E2DA4DB58DC981FC9C919F23A449.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_C.uasset'
+[2021.08.21-03.52.43:398][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.21-03.52.43:419][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.08.21-03.52.43:428][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.21-03.52.43:479][842]AssetCheck: New page: Asset Save: flower_C
+[2021.08.21-03.52.43:480][842]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/flower_C.flower_C
+[2021.08.21-03.53.32:212][270]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\grass_leafs.fbx)
+[2021.08.21-03.53.32:256][270]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\grass_leafs.fbx
+[2021.08.21-03.53.32:323][270]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.53.33:355][270]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.21-03.53.33:399][270]LogStaticMesh: Building static mesh grass_leafs...
+[2021.08.21-03.53.33:417][270]LogStaticMesh: Built static mesh [0.03s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/grass_leafs.grass_leafs
+[2021.08.21-03.53.33:428][270]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.54.07:905][405]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\ground_riverBend.fbx)
+[2021.08.21-03.54.07:955][405]LogFbx: Loading FBX Scene from D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\assets\kenney_natureKit_2.1\Models\FBX format\ground_riverBend.fbx
+[2021.08.21-03.54.07:985][405]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.21-03.54.09:006][405]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.21-03.54.09:045][405]LogStaticMesh: Building static mesh ground_riverBend...
+[2021.08.21-03.54.09:056][405]LogStaticMesh: Built static mesh [0.01s] /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/ground_riverBend.ground_riverBend
+[2021.08.21-03.54.09:066][405]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.21-03.54.59:848][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.08.21-03.55.00:945][658]LogSlate: Window 'Save Content' being destroyed
+[2021.08.21-03.55.01:043][658]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/grass_leafsD4211C1245208F7B9B589AAA781FF43F.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/grass_leafs.uasset'
+[2021.08.21-03.55.01:085][658]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/ground_riverBend63281C694AD10C0CB53F32AC999E71ED.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/natureKit/ground_riverBend.uasset'
+[2021.08.21-03.55.01:100][658]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.21-03.55.01:101][658]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/ground_riverBend.ground_riverBend
+[2021.08.21-03.55.01:101][658]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/natureKit/grass_leafs.grass_leafs
+[2021.08.21-03.55.10:613][783]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-03.56.08:531][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roadCorner4)
+>>>>>>> Stashed changes
