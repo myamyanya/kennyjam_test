@@ -1,0 +1,1222 @@
+﻿Log file open, 08/21/21 20:10:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KenneyJam2021
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270973
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Lenovo/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:7890'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.21-12.10.34:845][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.21-12.10.34:846][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:846][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:855][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:855][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.21-12.10.34:855][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.21-12.10.34:855][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:855][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.21-12.10.34:855][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:855][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.21-12.10.34:856][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.21-12.10.34:857][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.21-12.10.34:857][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.21-12.10.34:857][  0]LogHAL: Display: Platform has ~ 16 GB [17066790912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.21-12.10.34:857][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.21-12.10.34:857][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.21-12.10.34:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.21-12.10.34:858][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.21-12.10.34:859][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.21-12.10.34:859][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.21-12.10.34:859][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.21-12.10.34:859][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.21-12.10.34:859][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.21-12.10.34:859][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.21-12.10.34:859][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.21-12.10.34:859][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.21-12.10.34:859][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Editor.ini]
+[2021.08.21-12.10.34:859][  0]LogInit: Computer: LAPTOP-957TEBTO
+[2021.08.21-12.10.34:859][  0]LogInit: User: Lenovo
+[2021.08.21-12.10.34:859][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.21-12.10.34:859][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.21-12.10.34:860][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.21-12.10.34:860][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.21-12.10.34:860][  0]LogMemory: Process Physical Memory: 139.00 MB used, 139.00 MB peak
+[2021.08.21-12.10.34:860][  0]LogMemory: Process Virtual Memory: 112.35 MB used, 112.35 MB peak
+[2021.08.21-12.10.34:860][  0]LogMemory: Physical Memory: 7469.41 MB used,  8806.75 MB free, 16276.16 MB total
+[2021.08.21-12.10.34:860][  0]LogMemory: Virtual Memory: 134199120.00 MB used,  18611.68 MB free, 134217728.00 MB total
+[2021.08.21-12.10.34:869][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.21-12.10.34:960][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.21-12.10.34:963][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.08.21-12.10.34:963][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.08.21-12.10.35:202][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.21-12.10.35:215][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.21-12.10.35:235][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.21-12.10.35:235][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.21-12.10.35:471][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.08.21-12.10.35:471][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.21-12.10.35:471][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.21-12.10.35:471][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.21-12.10.35:608][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.08.21-12.10.35:608][  0]LogD3D11RHI:       6052/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.21-12.10.35:623][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.08.21-12.10.35:623][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.21-12.10.35:626][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.21-12.10.35:626][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.21-12.10.35:626][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.21-12.10.35:635][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.21-12.10.35:635][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.21-12.10.35:635][  0]LogWindows: EnumDisplayDevices:
+[2021.08.21-12.10.35:635][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.08.21-12.10.35:635][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.08.21-12.10.35:636][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.08.21-12.10.35:636][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-12.10.35:637][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-12.10.35:637][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-12.10.35:638][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.08.21-12.10.35:638][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.21-12.10.35:638][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.08.21-12.10.35:638][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.08.21-12.10.35:638][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.08.21-12.10.35:638][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.08.21-12.10.35:743][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.21-12.10.35:744][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.21-12.10.35:744][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.21-12.10.35:766][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.21-12.10.35:769][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.21-12.10.36:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.21-12.10.36:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.21-12.10.36:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.21-12.10.36:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.21-12.10.36:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.21-12.10.36:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.21-12.10.36:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.21-12.10.36:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.21-12.10.36:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.21-12.10.36:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.21-12.10.36:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.21-12.10.36:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.21-12.10.36:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.21-12.10.36:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.21-12.10.36:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.21-12.10.36:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.21-12.10.36:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.21-12.10.36:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.21-12.10.36:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.21-12.10.36:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.21-12.10.36:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.21-12.10.36:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.21-12.10.36:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.21-12.10.36:525][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.21-12.10.36:535][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.21-12.10.36:624][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.21-12.10.36:624][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Intermediate/Shaders/WorkingDirectory/22392/).
+[2021.08.21-12.10.36:624][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/A1C3C18C4A7341F9693536A351B4AD4B/'.
+[2021.08.21-12.10.36:624][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.21-12.10.36:624][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.21-12.10.37:565][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.21-12.10.37:624][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.21-12.10.37:624][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.21-12.10.37:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.21-12.10.37:624][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.21-12.10.37:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.21-12.10.37:624][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.21-12.10.37:638][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.21-12.10.37:638][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.21-12.10.37:638][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.21-12.10.37:655][  0]LogDerivedDataCache: Speed tests for C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.08.21-12.10.37:655][  0]LogDerivedDataCache: Display: Performance to C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=145.02MBs, RandomWriteSpeed=94.05MBs. Assigned SpeedClass 'Local'
+[2021.08.21-12.10.37:656][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.21-12.10.37:656][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.21-12.10.37:656][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.21-12.10.37:734][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.21-12.10.37:734][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.21-12.10.37:769][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2021.08.21-12.10.38:071][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.21-12.10.38:072][  0]LogInit: Active device profile: [00000192F93D6300][00000192EE2BC800 49] Windows
+[2021.08.21-12.10.38:072][  0]LogInit: Profiles: [00000192F93D6300][00000192EE2BC800 49] Windows, [00000192F9375F00][00000192EE2C4980 49] WindowsNoEditor, [00000192F93D6E00][00000192EE2C8B00 49] WindowsServer, [00000192F9375200][00000192EE2CCC80 49] WindowsClient, [00000192F93D6100][00000192EE2D0E00 49] IOS, [00000192F9377200][00000192EE2D4F80 49] iPadAir, [00000192F93D4500][00000192EE2D9100 49] iPadAir2, [00000192F931DE00][00000192EE2E13C0 49] IPadPro, [00000192F931DF00][00000192EE2DD400 49] iPadAir3, [00000192F9376B00][00000192EE2E5580 49] iPadAir4, [00000192F931F600][00000192EE2C16C0 49] iPadMini2, [00000192F9374900][00000192EE2E9800 49] iPadMini3, [00000192F931D700][00000192EE2ED940 49] iPadMini4, [00000192F9377A00][00000192EE2F1A80 49] iPadMini5, [00000192F9369400][00000192EE2FDD40 49] iPhone6, [00000192F9369500][00000192EE2F80C0 49] iPodTouch6, [00000192F93D6F00][00000192EE304380 49] iPhone7, [00000192F93D5500][00000192EE3003C0 49] iPodTouch7, [00000192F9369E00][00000192EE308540 49] iPhone5S, [00000192F93D4F00][00000192EE30C6C0 49] iPhone6Plus, [00000192F936B800][00000192EE310840 49] iPhone6S, [00000192F93D6700][00000192EE3149C0 49] iPhone6SPlus, [00000192F936A400][00000192EE318B40 49] iPhone7Plus, [00000192F9376100][00000192EE31CCC0 49] iPhoneSE, [00000192F9368600][00000192EE320E40 49] iPhone8, [00000192F9375900][00000192EE324FC0 49] iPhone8Plus, [00000192F9369900][00000192EE329140 49] iPhoneX, [00000192F9375C00][00000192EE32D2C0 49] iPhoneXS, [00000192F9368800][00000192EDB6D440 49] iPhoneXSMax, [00000192F9375D00][00000192EDB715C0 49] iPhoneXR, [00000192F936A100][00000192EE2F5700 49] iPhone11, [00000192F9374600][00000192EDB75840 49] iPhone11Pro, [00000192F9369200][00000192EDB79980 49] iPhone11ProMax, [00000192F9375700][00000192EDB7DAC0 49] iPhoneSE2, [00000192F936A900][00000192EDB85C40 49] iPhone12Mini, [00000192F9376500][00000192EDB88100 49] iPhone12, [00000192F936AF00][00000192EDB8C280 49] iPhone12Pro, [00000192F9375400][00000192EDB90400 49] iPhone12ProMax, [00000192F9368100][00000192EDB94580 49] iPadPro105, [00000192F9375A00][00000192EDB98700 49] iPadPro129, [00000192F9369B00][00000192EDB9C880 49] iPadPro97, [00000192F9374E00][00000192EDBA0A00 49] iPadPro2_129, [00000192F936AC00][00000192EDBA4B80 49] iPad5, [00000192F9375300][00000192EDBA8D00 49] iPad6, [00000192F9368700][00000192EDBACE80 49] iPad7, [00000192F9374800][00000192EDBB1000 49] iPad8, [00000192F9369A00][00000192EDBB5180 49] iPadPro11, [00000192F9374700][00000192EDBB9300 49] iPadPro2_11, [00000192F9369300][00000192EDBBD480 49] iPadPro3_129, [00000192F9374B00][00000192EDBC1600 49] iPadPro4_129, [00000192F9369700][00000192EDBC5780 49] AppleTV, [00000192F9374500][00000192EDB818C0 49] AppleTV4K, [00000192F936BB00][00000192EDBC9A00 49] TVOS, [00000192F9376300][00000192EDBCDB40 49] Mac, [00000192F9369100][00000192EDBD5CC0 49] MacClient, [00000192F9376000][00000192EDBD8180 49] MacNoEditor, [00000192F9368D00][00000192EDBDC300 49] MacServer, [00000192F9375500][00000192EDBE0480 49] Linux, [00000192F9369D00][00000192EDBE4600 49] LinuxAArch64, [00000192F9376200][00000192EDBE8780 49] LinuxNoEditor, [00000192F9368300][00000192EDBEC900 49] LinuxAArch64NoEditor, [00000192F9376800][00000192EDBF0A80 49] LinuxClient, [00000192F9368500][00000192EDBF4C00 49] LinuxAArch64Client, [00000192F9375000][00000192EDBF8D80 49] LinuxServer, [00000192F9368A00][00000192EDBFCF00 49] LinuxAArch64Server, [00000192F9377E00][00000192EDC01080 49] Android, [00000192F9369000][00000192EDC05200 49] Android_Low, [00000192F9376C00][00000192EDC09380 49] Android_Mid, [00000192F9369800][00000192EDC0D500 49] Android_High, [00000192F9377400][00000192EDC11680 49] Android_Default, [00000192F936B500][00000192EDC15800 49] Android_Adreno4xx, [00000192F9374400][00000192EDBD1940 49] Android_Adreno5xx_Low, [00000192F936B400][00000192EDC19A80 49] Android_Adreno5xx, [00000192F9377F00][00000192EDC1DBC0 49] Android_Adreno6xx, [00000192F931E500][00000192EDC21D00 49] Android_Adreno6xx_Vulkan, [00000192F93D6900][00000192EDC281C0 49] Android_Mali_T6xx, [00000192F931DB00][00000192EDC2C340 49] Android_Mali_T7xx, [00000192F93D6600][00000192EDC304C0 49] Android_Mali_T8xx, [00000192F931C800][00000192EDC34640 49] Android_Mali_G71, [00000192F93D5B00][00000192EDC387C0 49] Android_Mali_G72, [00000192F931DD00][00000192EDC3C940 49] Android_Mali_G72_Vulkan, [00000192F93D5E00][00000192EDC40AC0 49] Android_Mali_G76, [00000192F931FF00][00000192EDC44C40 49] Android_Mali_G76_Vulkan, [00000192F93D6500][00000192EDC48DC0 49] Android_Mali_G77, [00000192F931F700][00000192EDC4CF40 49] Android_Mali_G77_Vulkan, [00000192F93D5300][00000192EDC510C0 49] Android_Vulkan_SM5, [00000192F931CA00][00000192EDC55240 49] Android_PowerVR_G6xxx, [00000192F93D6000][00000192EDC593C0 49] Android_PowerVR_GT7xxx, [00000192F931FE00][00000192EDC5D540 49] Android_PowerVR_GE8xxx, [00000192F93D5A00][00000192EDC616C0 49] Android_PowerVR_GM9xxx, [00000192F931E200][00000192EDC65840 49] Android_PowerVR_GM9xxx_Vulkan, [00000192F93D4600][00000192EDC25980 49] Android_TegraK1, [00000192F931E900][00000192EDC69AC0 49] Android_Unknown_Vulkan, [00000192F93D5400][00000192EDC6DC00 49] Lumin, [00000192F931CF00][00000192EDC71D40 49] Lumin_Desktop, [00000192F93D4300][00000192EDC78200 49] HoloLens, 
+[2021.08.21-12.10.38:215][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.21-12.10.38:215][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.21-12.10.38:215][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.21-12.10.38:215][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.21-12.10.38:215][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.21-12.10.38:236][  0]LogNetVersion: KenneyJam2021 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 707209456)
+[2021.08.21-12.10.38:856][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.21-12.10.38:923][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.066255 seconds
+[2021.08.21-12.10.38:930][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.21-12.10.38:930][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.21-12.10.38:930][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.21-12.10.39:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.21-12.10.39:537][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.21-12.10.39:606][  0]LogPython: Using Python 3.7.7
+[2021.08.21-12.10.40:793][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.21-12.10.40:829][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.21-12.10.40:829][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.21-12.10.40:998][  0]SourceControl: Source control is disabled
+[2021.08.21-12.10.40:998][  0]SourceControl: Source control is disabled
+[2021.08.21-12.10.41:003][  0]SourceControl: Source control is disabled
+[2021.08.21-12.10.41:007][  0]SourceControl: Source control is disabled
+[2021.08.21-12.10.41:019][  0]SourceControl: Source control is disabled
+[2021.08.21-12.10.41:028][  0]LogUProjectInfo: Found projects:
+[2021.08.21-12.10.41:203][  0]LogCollectionManager: Loaded 0 collections in 0.001137 seconds
+[2021.08.21-12.10.41:239][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Collections/' took 0.00s
+[2021.08.21-12.10.41:239][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/Developers/Lenovo/Collections/' took 0.00s
+[2021.08.21-12.10.41:239][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/Collections/' took 0.00s
+[2021.08.21-12.10.41:239][  0]LogOcInput: OculusInput pre-init called
+[2021.08.21-12.10.41:256][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.21-12.10.41:256][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.21-12.10.43:597][  0]LogEngine: Initializing Engine...
+[2021.08.21-12.10.43:599][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.08.21-12.10.43:599][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.21-12.10.43:600][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.21-12.10.43:725][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.21-12.10.43:736][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.21-12.10.43:748][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.21-12.10.43:753][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.21-12.10.43:753][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.21-12.10.43:753][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.21-12.10.43:753][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.21-12.10.43:753][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.21-12.10.43:773][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.21-12.10.43:773][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.21-12.10.43:818][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.21-12.10.43:824][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.21-12.10.43:826][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.21-12.10.43:826][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.21-12.10.43:828][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.21-12.10.43:828][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.21-12.10.43:828][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.21-12.10.43:829][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.21-12.10.43:829][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.21-12.10.43:829][  0]LogInit: FAudioDevice initialized.
+[2021.08.21-12.10.43:830][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.21-12.10.43:830][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.21-12.10.44:042][  0]LogDerivedDataCache: Saved boot cache 0.21s 77MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.21-12.10.44:043][  0]LogInit: Texture streaming: Enabled
+[2021.08.21-12.10.44:058][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.21-12.10.44:065][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.21-12.10.44:065][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.21-12.10.44:069][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.21-12.10.44:104][  0]LogInit: Transaction tracking system initialized
+[2021.08.21-12.10.44:134][  0]BlueprintLog: New page: Editor Load
+[2021.08.21-12.10.44:234][  0]LocalizationService: Localization service is disabled
+[2021.08.21-12.10.44:269][  0]TimingProfiler: Initialize
+[2021.08.21-12.10.44:269][  0]TimingProfiler: OnSessionChanged
+[2021.08.21-12.10.44:270][  0]LoadingProfiler: Initialize
+[2021.08.21-12.10.44:270][  0]LoadingProfiler: OnSessionChanged
+[2021.08.21-12.10.44:270][  0]NetworkingProfiler: Initialize
+[2021.08.21-12.10.44:270][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.21-12.10.44:270][  0]MemoryProfiler: Initialize
+[2021.08.21-12.10.44:270][  0]MemoryProfiler: OnSessionChanged
+[2021.08.21-12.10.44:453][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.21-12.10.44:453][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.21-12.10.44:697][  0]LogFileCache: Scanning file cache for directory 'D:/VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/' took 0.01s
+[2021.08.21-12.10.44:955][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.21-12.10.44:960][  0]SourceControl: Source control is disabled
+[2021.08.21-12.10.44:960][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.114
+[2021.08.21-12.10.44:960][  0]Cmd: MAP LOAD FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.21-12.10.44:960][  0]LightingResults: New page: Lighting Build
+[2021.08.21-12.10.44:961][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.10.44:962][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.10.44:962][  0]MapCheck: New page: Map Check
+[2021.08.21-12.10.44:962][  0]LightingResults: New page: Lighting Build
+[2021.08.21-12.10.44:973][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.08.21-12.10.45:349][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2021.08.21-12.10.45:350][  0]LogAIModule: Creating AISystem for world MainMap
+[2021.08.21-12.10.45:374][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.21-12.10.45:386][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.21-12.10.45:386][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.21-12.10.45:386][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2021.08.21-12.10.45:386][  0]LogFileHelpers: Loading map 'MainMap' took 0.426
+[2021.08.21-12.10.45:388][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.542
+[2021.08.21-12.10.45:521][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3628 classes and 872 folders.
+[2021.08.21-12.10.45:524][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.21-12.10.45:524][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.21-12.10.45:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-12.10.45:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.08.21-12.10.45:525][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.21-12.10.45:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.21-12.10.45:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.21-12.10.45:526][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.21-12.10.45:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.21-12.10.45:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.21-12.10.45:527][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-12.10.45:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-12.10.45:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.21-12.10.45:527][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.21-12.10.45:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.21-12.10.45:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.21-12.10.45:528][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.21-12.10.45:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.21-12.10.45:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.21-12.10.45:528][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.21-12.10.45:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.21-12.10.45:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.21-12.10.45:529][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.21-12.10.45:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.21-12.10.45:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.21-12.10.45:529][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.21-12.10.45:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.21-12.10.45:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.21-12.10.45:530][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.21-12.10.45:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.21-12.10.45:530][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.21-12.10.45:530][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.21-12.10.45:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.21-12.10.45:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.21-12.10.45:531][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.21-12.10.45:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.21-12.10.45:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.21-12.10.45:532][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-12.10.45:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-12.10.45:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.21-12.10.45:532][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.21-12.10.45:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.21-12.10.45:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.08.21-12.10.45:533][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.21-12.10.45:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.21-12.10.45:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.21-12.10.45:534][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.21-12.10.45:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-12.10.45:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.21-12.10.45:534][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.21-12.10.45:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.21-12.10.45:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.08.21-12.10.45:535][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.21-12.10.45:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.21-12.10.45:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.08.21-12.10.45:535][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-12.10.45:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-12.10.45:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.08.21-12.10.45:536][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-12.10.45:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-12.10.45:536][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.08.21-12.10.45:536][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.21-12.10.45:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.21-12.10.45:536][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.08.21-12.10.45:537][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.21-12.10.45:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.21-12.10.45:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.08.21-12.10.45:537][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.21-12.10.45:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.21-12.10.45:538][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.08.21-12.10.45:538][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.21-12.10.45:538][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:538][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.21-12.10.45:538][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.08.21-12.10.45:538][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.21-12.10.45:538][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.21-12.10.45:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.08.21-12.10.45:539][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.21-12.10.45:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.21-12.10.45:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.21-12.10.45:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.08.21-12.10.45:586][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.21-12.10.45:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-12.10.45:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-12.10.45:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-12.10.45:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.21-12.10.45:633][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.21-12.10.45:716][  0]LogSlate: The tab "GPULightmassSettings" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.08.21-12.10.45:773][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.21-12.10.45:776][  0]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.21-12.10.45:776][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.21-12.10.45:883][  0]LogRenderer: Reallocating scene render targets to support 900x704 Format 10 NumSamples 1 (Frame:1).
+[2021.08.21-12.10.46:110][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.21-12.10.46:111][  0]LogLoad: (Engine Initialization) Total time: 15.26 seconds
+[2021.08.21-12.10.46:111][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.21-12.10.46:111][  0]LogInit: First time updating LLM stats...
+[2021.08.21-12.10.46:238][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.21-12.10.46:256][  1]LogAssetRegistry: Asset discovery search completed in 8.4884 seconds
+[2021.08.21-12.10.46:258][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2021.08.21-12.10.46:612][  2]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.21-12.11.01:055][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen2)
+[2021.08.21-12.11.03:615][789]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.21-12.11.03:644][789]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grassBase_8_rough._Inst_grassBase_8_rough
+[2021.08.21-12.11.15:869][485]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.21-12.11.16:946][548]LogSlate: Window '_Inst_grassBase_8_rough' being destroyed
+[2021.08.21-12.11.16:954][548]LogSlate: Window '_Inst_grassBase_8_rough' being destroyed
+[2021.08.21-12.11.16:961][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.21-12.11.16:997][548]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.21-12.11.17:505][548]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.21-12.11.17:505][548]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.21-12.11.17:507][548]TextureStreamingBuild: Display: Compiling optional shaders took 0.515 seconds.
+[2021.08.21-12.11.17:513][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.21-12.11.17:526][548]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.11.17:526][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.11.17:985][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.21-12.11.26:199][ 66]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.11.34:373][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.11.35:611][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.21-12.11.35:781][621]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMap292ECCD845D2EF3282545782E0E5E28C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap'
+[2021.08.21-12.11.35:803][621]AssetCheck: New page: Asset Save: MainMap
+[2021.08.21-12.11.35:803][621]LogContentValidation: Display: Validating World /Game/KenneyJam2021/MainMap.MainMap
+[2021.08.21-12.11.36:135][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.11.44:432][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.11.54:264][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.12.06:505][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.12.09:972][595]Cmd: TRANSACTION UNDO
+[2021.08.21-12.12.09:972][595]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.21-12.12.10:704][621]Cmd: TRANSACTION UNDO
+[2021.08.21-12.12.10:704][621]LogEditorTransaction: Undo Replace component used material
+[2021.08.21-12.12.11:471][665]Cmd: TRANSACTION UNDO
+[2021.08.21-12.12.11:471][665]LogEditorTransaction: Undo Replace component used material
+[2021.08.21-12.12.12:360][718]Cmd: TRANSACTION UNDO
+[2021.08.21-12.12.12:360][718]LogEditorTransaction: Undo Replace component used material
+[2021.08.21-12.12.13:397][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.12.23:477][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner5)
+[2021.08.21-12.12.30:997][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.12.32:140][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.12.46:229][709]LogContentBrowser: Attempting asset rename: _Inst_grayLite_8_rough -> _Inst_grayExtraLite_8_rough
+[2021.08.21-12.12.46:316][709]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/_Inst_grayExtraLite_8_rough818FA8E240B2A5C52C1BDE97D9618416.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Material/_Inst_grayExtraLite_8_rough.uasset'
+[2021.08.21-12.12.46:371][709]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough._Inst_grayLite_8_rough'
+[2021.08.21-12.12.46:400][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.21-12.12.46:418][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.21-12.12.46:425][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.08.21-12.12.46:488][709]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/cabinRoofChimneyC952AD05420ECB946286269A62F70639.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/cabin/cabinRoofChimney.uasset'
+[2021.08.21-12.12.46:518][709]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/cabinDoorAB9EB5A745E748AAEC454AB5BFD1C2DD.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Mesh/Environment/cabin/cabinDoor.uasset'
+[2021.08.21-12.12.46:566][709]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.21-12.12.46:567][709]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grayExtraLite_8_rough._Inst_grayExtraLite_8_rough
+[2021.08.21-12.12.46:567][709]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/cabin/cabinDoor.cabinDoor
+[2021.08.21-12.12.46:567][709]LogContentValidation: Display: Validating StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/cabin/cabinRoofChimney.cabinRoofChimney
+[2021.08.21-12.12.47:326][755]LogContentBrowser: Deferred new asset file creation: _Inst_grayExtraLite_8_rough1
+[2021.08.21-12.12.47:341][755]LogContentBrowser: Creating deferred item: _Inst_grayExtraLite_8_rough1
+[2021.08.21-12.12.54:407][167]LogContentBrowser: Attempting asset rename: _Inst_grayExtraLite_8_rough1 -> _Inst_grayLite_8_rough1
+[2021.08.21-12.12.54:408][167]LogContentBrowser: End creating deferred item _Inst_grayExtraLite_8_rough1
+[2021.08.21-12.12.56:041][261]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough1._Inst_grayLite_8_rough1
+[2021.08.21-12.13.01:833][576]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.21-12.13.02:608][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.21-12.13.02:610][617]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.21-12.13.02:617][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.21-12.13.02:628][617]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/_Inst_grayLite_8_rough12ECB3DA943A30BEC280CE286192A7F94.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough1.uasset'
+[2021.08.21-12.13.02:642][617]AssetCheck: New page: Asset Save: _Inst_grayLite_8_rough1
+[2021.08.21-12.13.02:642][617]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough1._Inst_grayLite_8_rough1
+[2021.08.21-12.13.03:276][655]LogSlate: Window '_Inst_grayLite_8_rough1' being destroyed
+[2021.08.21-12.13.03:282][655]LogSlate: Window '_Inst_grayLite_8_rough1' being destroyed
+[2021.08.21-12.13.03:287][655]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.13.03:287][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.13.05:490][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.13.08:642][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.13.10:017][ 38]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough1._Inst_grayLite_8_rough1
+[2021.08.21-12.13.13:230][206]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.21-12.13.14:022][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.21-12.13.14:023][246]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.21-12.13.14:031][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.21-12.13.14:042][246]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/_Inst_grayLite_8_rough16C7B8D7A4F1DA59C224DD698E7837EE0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough1.uasset'
+[2021.08.21-12.13.14:060][246]AssetCheck: New page: Asset Save: _Inst_grayLite_8_rough1
+[2021.08.21-12.13.14:060][246]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grayLite_8_rough1._Inst_grayLite_8_rough1
+[2021.08.21-12.13.14:877][295]LogSlate: Window '_Inst_grayLite_8_rough1' being destroyed
+[2021.08.21-12.13.14:886][295]LogSlate: Window '_Inst_grayLite_8_rough1' being destroyed
+[2021.08.21-12.13.14:895][295]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.13.14:895][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.13.15:150][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.13.18:474][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (log_stack3)
+[2021.08.21-12.13.23:127][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cart)
+[2021.08.21-12.13.25:558][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.21-12.13.25:763][916]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMapEB59BD83439AD57F7FAD01A2DDE5F328.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap'
+[2021.08.21-12.13.25:785][916]AssetCheck: New page: Asset Save: MainMap
+[2021.08.21-12.13.25:785][916]LogContentValidation: Display: Validating World /Game/KenneyJam2021/MainMap.MainMap
+[2021.08.21-12.13.32:224][167]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.14.07:846][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.15.22:791][185]LogStaticMesh: Building static mesh pancakes...
+[2021.08.21-12.15.22:840][185]LogStaticMesh: Built static mesh [0.05s] /Game/KenneyJam2021/Geometry/Mesh/FoodKit/pancakes.pancakes
+[2021.08.21-12.15.22:873][185]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/KenneyJam2021/Geometry/Mesh/FoodKit/pancakes.pancakes
+[2021.08.21-12.15.28:966][517]LogSlate: Window 'pancakes' being destroyed
+[2021.08.21-12.15.28:975][517]LogSlate: Window 'pancakes' being destroyed
+[2021.08.21-12.15.28:980][517]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.15.28:980][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.15.40:541][176]LogActorFactory: Actor Factory created pan
+[2021.08.21-12.15.41:828][253]LogActorFactory: Actor Factory created pan
+[2021.08.21-12.16.24:987][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.16.28:998][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.16.36:302][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.16.38:056][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.16.55:626][635]LogStaticMesh: Building static mesh meatPatty...
+[2021.08.21-12.16.55:670][635]LogStaticMesh: Built static mesh [0.04s] /Game/KenneyJam2021/Geometry/Mesh/FoodKit/meatPatty.meatPatty
+[2021.08.21-12.16.55:706][635]LogActorFactory: Actor Factory created meatPatty
+[2021.08.21-12.16.56:882][705]LogActorFactory: Actor Factory created meatPatty
+[2021.08.21-12.16.58:815][819]Cmd: TRANSACTION UNDO
+[2021.08.21-12.16.58:815][819]LogEditorTransaction: Undo Create Actors
+[2021.08.21-12.17.12:856][621]LogContentBrowser: Deferred new asset file creation: MasterFood_Child
+[2021.08.21-12.17.12:897][621]LogContentBrowser: Creating deferred item: MasterFood_Child
+[2021.08.21-12.17.20:298][ 65]LogContentBrowser: Attempting asset rename: MasterFood_Child -> Meatparty
+[2021.08.21-12.17.20:300][ 65]LogContentBrowser: End creating deferred item MasterFood_Child
+[2021.08.21-12.17.21:615][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Meatparty.Meatparty
+[2021.08.21-12.17.21:826][140]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.08.21-12.17.23:846][193]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.21-12.17.25:671][289]LogRenderer: Reallocating scene render targets to support 912x704 Format 10 NumSamples 1 (Frame:147).
+[2021.08.21-12.17.39:740][107]BlueprintLog: New page: Compile Meatparty
+[2021.08.21-12.17.39:782][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.08.21-12.17.39:806][107]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.21-12.17.40:090][121]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Meatparty380D0D514ACB68A0980FB88F872F411B.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Item/Food/Meatparty.uasset'
+[2021.08.21-12.17.40:121][121]AssetCheck: New page: Asset Save: Meatparty
+[2021.08.21-12.17.40:121][121]LogContentValidation: Display: Validating Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Meatparty.Meatparty
+[2021.08.21-12.17.40:841][164]LogSlate: Window 'Meatparty' being destroyed
+[2021.08.21-12.17.40:847][164]LogSlate: Window 'Meatparty' being destroyed
+[2021.08.21-12.17.40:851][164]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.17.40:851][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.17.42:273][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Meatparty.Meatparty
+[2021.08.21-12.17.44:508][350]LogSlate: Window 'Meatparty' being destroyed
+[2021.08.21-12.17.44:523][350]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.17.44:523][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.17.44:594][350]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Meatparty.Meatparty
+[2021.08.21-12.17.45:068][350]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.21-12.17.53:183][776]BlueprintLog: New page: Compile Meatparty
+[2021.08.21-12.17.53:222][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.08.21-12.17.53:569][792]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Meatparty572DCB2446DD12CC205636B684FF90B4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Item/Food/Meatparty.uasset'
+[2021.08.21-12.17.53:590][792]AssetCheck: New page: Asset Save: Meatparty
+[2021.08.21-12.17.53:590][792]LogContentValidation: Display: Validating Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Meatparty.Meatparty
+[2021.08.21-12.17.54:228][828]LogSlate: Window 'Meatparty' being destroyed
+[2021.08.21-12.17.54:234][828]LogSlate: Window 'Meatparty' being destroyed
+[2021.08.21-12.17.54:237][828]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.17.54:237][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.18.15:180][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.18.17:089][183]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.18.18:611][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.18.21:039][415]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.18.23:811][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.18.24:209][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.18.26:612][743]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.18.35:804][292]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.18.39:921][538]Cmd: TRANSACTION UNDO
+[2021.08.21-12.18.39:921][538]LogEditorTransaction: Undo Move Actors
+[2021.08.21-12.18.40:455][553]Cmd: TRANSACTION UNDO
+[2021.08.21-12.18.40:455][553]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.21-12.18.40:862][574]Cmd: TRANSACTION UNDO
+[2021.08.21-12.18.40:863][574]LogEditorTransaction: Undo Move Actors
+[2021.08.21-12.18.41:239][596]Cmd: TRANSACTION UNDO
+[2021.08.21-12.18.41:239][596]LogEditorTransaction: Undo Rotate Actors
+[2021.08.21-12.18.41:606][618]Cmd: TRANSACTION UNDO
+[2021.08.21-12.18.41:606][618]LogEditorTransaction: Undo Move Actors
+[2021.08.21-12.18.54:243][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.18.55:607][452]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty2)
+[2021.08.21-12.19.01:819][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.19.04:264][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.19.04:563][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.19.06:234][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.08.21-12.19.06:416][ 75]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMap8B8619F3488B79013883E99D31FD9BD6.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap'
+[2021.08.21-12.19.06:440][ 75]AssetCheck: New page: Asset Save: MainMap
+[2021.08.21-12.19.06:440][ 75]LogContentValidation: Display: Validating World /Game/KenneyJam2021/MainMap.MainMap
+[2021.08.21-12.19.19:081][801]LogStaticMesh: Building static mesh fryingPan...
+[2021.08.21-12.19.19:129][801]LogStaticMesh: Built static mesh [0.05s] /Game/KenneyJam2021/Geometry/Mesh/Kitchen/fryingPan.fryingPan
+[2021.08.21-12.19.19:160][801]LogActorFactory: Actor Factory created fryingPan
+[2021.08.21-12.19.19:716][834]LogActorFactory: Actor Factory created fryingPan
+[2021.08.21-12.19.25:234][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.19.26:181][213]Cmd: TRANSACTION UNDO
+[2021.08.21-12.19.26:181][213]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.21-12.19.35:181][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.19.36:983][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fryingPan)
+[2021.08.21-12.19.46:106][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.19.53:362][817]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.19.53:985][853]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.19.57:728][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.19.58:740][134]Cmd: DELETE
+[2021.08.21-12.19.58:740][134]Cmd: ACTOR DELETE
+[2021.08.21-12.19.58:744][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.21-12.19.58:766][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.08.21-12.19.58:772][134]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.08.21-12.20.00:295][226]Cmd: TRANSACTION UNDO
+[2021.08.21-12.20.00:295][226]LogEditorTransaction: Undo Delete Actors
+[2021.08.21-12.20.04:692][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan)
+[2021.08.21-12.20.06:711][588]Cmd: DELETE
+[2021.08.21-12.20.06:711][588]Cmd: ACTOR DELETE
+[2021.08.21-12.20.06:714][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.21-12.20.06:733][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.08.21-12.20.06:736][588]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.08.21-12.20.07:809][653]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.20.11:022][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fryingPan)
+[2021.08.21-12.20.12:636][938]Cmd: TRANSACTION UNDO
+[2021.08.21-12.20.12:636][938]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.21-12.20.14:859][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.20.18:879][292]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.20.23:503][566]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.20.27:051][778]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty2)
+[2021.08.21-12.20.30:549][987]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.20.31:997][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.20.37:401][395]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.20.44:186][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.08.21-12.20.44:361][794]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMapE0E0F5714DE1AD3EF5683598D1C48BB3.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap'
+[2021.08.21-12.20.44:391][794]AssetCheck: New page: Asset Save: MainMap
+[2021.08.21-12.20.44:391][794]LogContentValidation: Display: Validating World /Game/KenneyJam2021/MainMap.MainMap
+[2021.08.21-12.27.01:184][241]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty2)
+[2021.08.21-12.27.07:174][598]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.27.07:586][622]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty)
+[2021.08.21-12.27.08:199][658]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.27.22:210][496]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.27.35:338][282]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty4)
+[2021.08.21-12.27.40:821][610]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.27.59:673][736]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty4)
+[2021.08.21-12.28.13:152][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.28.18:429][857]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty4)
+[2021.08.21-12.28.21:515][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fryingPan)
+[2021.08.21-12.28.21:951][ 64]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty2)
+[2021.08.21-12.28.28:869][477]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty4)
+[2021.08.21-12.28.40:659][178]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty3)
+[2021.08.21-12.28.41:257][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.28.47:285][572]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty4)
+[2021.08.21-12.28.50:659][773]Cmd: TRANSACTION UNDO
+[2021.08.21-12.28.50:659][773]LogEditorTransaction: Undo Move Actors
+[2021.08.21-12.29.09:381][876]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty6)
+[2021.08.21-12.29.09:436][879]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.08.21-12.29.09:787][898]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.08.21-12.29.13:822][123]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2021.08.21-12.29.24:052][703]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.29.26:175][829]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty6)
+[2021.08.21-12.29.32:095][183]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.29.34:699][338]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty2)
+[2021.08.21-12.29.37:982][534]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.29.46:094][ 19]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty6)
+[2021.08.21-12.29.49:679][233]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.29.53:625][468]Cmd: TRANSACTION UNDO
+[2021.08.21-12.29.53:626][468]LogEditorTransaction: Undo Move Actors
+[2021.08.21-12.29.54:893][527]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.30.13:385][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.30.21:168][ 97]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty7)
+[2021.08.21-12.30.21:827][135]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.30.25:387][346]Cmd: DELETE
+[2021.08.21-12.30.25:387][346]Cmd: ACTOR DELETE
+[2021.08.21-12.30.25:390][346]LogEditorActor: Deleted Actor: Meatparty_C
+[2021.08.21-12.30.25:391][346]LogEditorActor: Deleted Actor: Meatparty_C
+[2021.08.21-12.30.25:392][346]LogEditorActor: Deleted Actor: Meatparty_C
+[2021.08.21-12.30.25:414][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.08.21-12.30.25:425][346]LogEditorActor: Deleted 3 Actors (0.038 secs)
+[2021.08.21-12.30.26:233][395]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty2)
+[2021.08.21-12.30.38:713][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.30.41:629][313]LogEditorViewport: Clicking on Actor (LMB): Meatparty_C (Meatparty5)
+[2021.08.21-12.30.48:445][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.30.51:386][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.30.52:050][932]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.31.14:190][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.08.21-12.31.14:381][233]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMap_Auto1A5C6A19E41F27884121B6FAC47CA3037.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/MainMap_Auto1.umap'
+[2021.08.21-12.31.14:383][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KenneyJam2021/MainMap' took 0.213
+[2021.08.21-12.31.14:383][233]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.213
+[2021.08.21-12.31.14:383][233]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KenneyJam2021/Geometry/Material/_Inst_grassBase_8_rough] ([1] browsable assets)...
+[2021.08.21-12.31.14:396][233]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_grassBase_8_rough._Inst_grassBase_8_rough]
+[2021.08.21-12.31.14:396][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/KenneyJam2021/Geometry/Material/_Inst_grassBase_8_rough]
+[2021.08.21-12.31.14:405][233]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/_Inst_grassBase_8_rough_Auto1A494B51D4D93EBB123B4468E2D9ED407.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/Geometry/Material/_Inst_grassBase_8_rough_Auto1.uasset'
+[2021.08.21-12.31.14:406][233]LogFileHelpers: Auto-saving content packages took 0.023
+[2021.08.21-12.33.51:512][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.33.55:557][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fryingPan)
+[2021.08.21-12.34.07:814][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.21-12.34.45:652][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.21-12.34.51:289][181]Cmd: DELETE
+[2021.08.21-12.34.51:289][181]Cmd: ACTOR DELETE
+[2021.08.21-12.34.51:294][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.21-12.34.51:319][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.21-12.34.51:329][181]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.08.21-12.34.59:835][689]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.21-12.35.01:881][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.21-12.35.02:103][807]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMapF065655C46A8F9F22C8ADC80AD1080A0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap'
+[2021.08.21-12.35.02:132][807]AssetCheck: New page: Asset Save: MainMap
+[2021.08.21-12.35.02:133][807]LogContentValidation: Display: Validating World /Game/KenneyJam2021/MainMap.MainMap
+[2021.08.21-12.36.25:430][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fryingPan)
+[2021.08.21-12.36.34:191][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.36.37:629][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.08.21-12.36.37:813][577]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMap7A8822D34E3D59DBBA00BDA8A6AD3E67.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/MainMap.umap'
+[2021.08.21-12.36.37:837][577]AssetCheck: New page: Asset Save: MainMap
+[2021.08.21-12.36.37:837][577]LogContentValidation: Display: Validating World /Game/KenneyJam2021/MainMap.MainMap
+[2021.08.21-12.36.43:667][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.36.59:564][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.38.26:999][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.38.27:449][843]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.38.33:306][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fryingPan)
+[2021.08.21-12.38.36:651][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.38.40:309][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.38.41:159][651]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.38.45:729][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.38.58:583][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak)
+[2021.08.21-12.39.02:744][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (detail_tree8)
+[2021.08.21-12.39.09:896][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak4)
+[2021.08.21-12.39.11:827][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak)
+[2021.08.21-12.39.17:953][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak4)
+[2021.08.21-12.39.34:999][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak)
+[2021.08.21-12.39.38:220][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak5)
+[2021.08.21-12.39.42:739][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.39.45:620][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak4)
+[2021.08.21-12.39.46:746][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_oak)
+[2021.08.21-12.39.47:490][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.39.50:671][757]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.39.57:445][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner)
+[2021.08.21-12.39.58:052][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lily_large)
+[2021.08.21-12.40.01:577][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lily_small2)
+[2021.08.21-12.40.02:941][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.40.04:891][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.40.06:035][659]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.40.37:281][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.40.47:806][146]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.45.30:774][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_stoneCorner)
+[2021.08.21-12.45.34:916][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (debrisWood2)
+[2021.08.21-12.45.47:453][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (log_stack3)
+[2021.08.21-12.46.01:451][929]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.46.54:004][ 13]LogStaticMesh: Building static mesh plantSmall2...
+[2021.08.21-12.46.54:051][ 13]LogStaticMesh: Built static mesh [0.05s] /Game/KenneyJam2021/Geometry/Mesh/Environment/furniture/plantSmall2.plantSmall2
+[2021.08.21-12.46.54:087][ 13]LogActorFactory: Actor Factory created plantSmall2
+[2021.08.21-12.46.55:158][ 76]LogActorFactory: Actor Factory created plantSmall2
+[2021.08.21-12.47.30:070][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.47.31:352][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantSmall2)
+[2021.08.21-12.47.44:132][985]LogStaticMesh: Building static mesh plantSmall3...
+[2021.08.21-12.47.44:181][985]LogStaticMesh: Built static mesh [0.05s] /Game/KenneyJam2021/Geometry/Mesh/Environment/furniture/plantSmall3.plantSmall3
+[2021.08.21-12.47.44:218][985]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Environment/furniture/plantSmall3.plantSmall3
+[2021.08.21-12.47.44:767][985]LogRenderer: Reallocating scene render targets to support 988x704 Format 10 NumSamples 1 (Frame:1).
+[2021.08.21-12.47.48:737][217]LogSlate: Window 'plantSmall3' being destroyed
+[2021.08.21-12.47.48:746][217]LogSlate: Window 'plantSmall3' being destroyed
+[2021.08.21-12.47.48:751][217]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.21-12.47.48:751][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.21-12.47.51:268][361]LogActorFactory: Actor Factory created plantSmall3
+[2021.08.21-12.47.52:393][428]LogActorFactory: Actor Factory created plantSmall3
+[2021.08.21-12.48.16:594][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (radio)
+[2021.08.21-12.48.26:226][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cabinCorner2)
+[2021.08.21-12.48.26:734][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantSmall3)
+[2021.08.21-12.48.34:243][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.48.37:549][105]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.48.41:655][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.08.21-12.48.47:448][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantSmall3)
+[2021.08.21-12.48.58:305][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen21)
+[2021.08.21-12.49.01:575][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantSmall3)
+[2021.08.21-12.49.05:913][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.49.08:078][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantSmall3)
+[2021.08.21-12.49.13:568][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.49.13:862][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathCorner5)
+[2021.08.21-12.49.14:747][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.49.52:176][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.08.21-12.49.52:416][481]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/MainMap_Auto251960D5046D8436D22C770B2E17C41D4.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/Autosaves/Game/KenneyJam2021/MainMap_Auto2.umap'
+[2021.08.21-12.49.52:418][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/KenneyJam2021/MainMap' took 0.271
+[2021.08.21-12.49.52:418][481]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.271
+[2021.08.21-12.49.59:263][886]LogStaticMesh: Building static mesh presentGreenRound...
+[2021.08.21-12.49.59:326][886]LogStaticMesh: Built static mesh [0.06s] /Game/KenneyJam2021/Geometry/Mesh/Environment/cabin/presentGreenRound.presentGreenRound
+[2021.08.21-12.49.59:352][886]LogActorFactory: Actor Factory created presentGreenRound
+[2021.08.21-12.50.00:002][924]LogActorFactory: Actor Factory created presentGreenRound
+[2021.08.21-12.50.04:019][158]Cmd: TRANSACTION UNDO
+[2021.08.21-12.50.04:019][158]LogEditorTransaction: Undo Create Actors
+[2021.08.21-12.50.05:500][221]LogStaticMesh: Building static mesh present...
+[2021.08.21-12.50.05:537][221]LogStaticMesh: Built static mesh [0.04s] /Game/KenneyJam2021/Geometry/Mesh/Environment/cabin/present.present
+[2021.08.21-12.50.05:567][221]LogActorFactory: Actor Factory created present
+[2021.08.21-12.50.07:074][310]LogActorFactory: Actor Factory created present
+[2021.08.21-12.50.25:292][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.50.26:770][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (present)
+[2021.08.21-12.50.29:994][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ground_pathOpen4)
+[2021.08.21-12.51.40:723][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (log_stack)
+[2021.08.21-12.51.43:796][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (log_stack4)
+[2021.08.21-12.51.47:312][206]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.21-12.51.56:248][737]Cmd: TRANSACTION UNDO
+[2021.08.21-12.51.56:248][737]LogEditorTransaction: Undo Move Actors
+[2021.08.21-12.52.05:397][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.21-12.52.07:897][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GetQueryData is taking a very long time (25.0 s) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GetQueryData is taking a very long time (30.0 s) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (30.0 s) (ErrorCode 00000001) (00000000)
+[2021.08.21-12.54.32:941][761]LogD3D11RHI: GPU has hung or crashed, checking status.
+[2021.08.21-12.54.32:941][761]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2021.08.21-12.55.24:329][761]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.21-12.55.24:329][761]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2021.08.21-12.55.24:330][761]LogWindows: Error: === Critical error: ===
+[2021.08.21-12.55.24:330][761]LogWindows: Error: 
+[2021.08.21-12.55.24:330][761]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 907] 
+[2021.08.21-12.55.24:330][761]LogWindows: Error: Rendering thread exception:
+[2021.08.21-12.55.24:330][761]LogWindows: Error: Assertion failed: GD3D11RHI->GetQueryData(Query->Resource, &Query->Result, sizeof(Query->Result), Query->QueryType, true, false) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp] [Line: 45] 
+[2021.08.21-12.55.24:330][761]LogWindows: Error: 
+[2021.08.21-12.55.24:330][761]LogWindows: Error: 
+[2021.08.21-12.55.24:330][761]LogWindows: Error: 
+[2021.08.21-12.55.24:330][761]LogWindows: Error: [Callstack] 0x00007ffd6bdd4ed9 KERNELBASE.dll!UnknownFunction []
+[2021.08.21-12.55.24:330][761]LogWindows: Error: [Callstack] 0x00007ffd02dcd066 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:330][761]LogWindows: Error: [Callstack] 0x00007ffd02dd07a8 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:330][761]LogWindows: Error: [Callstack] 0x00007ffd02ade8cd UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:330][761]LogWindows: Error: [Callstack] 0x00007ffd02a75575 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd02a77620 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffcef913cee UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffcef9237ef UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd3015d749 UE4Editor-RHI.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ff7ebdeb1fb UE4Editor.exe!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ff7ebdee984 UE4Editor.exe!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd0288ecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd0288f0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd3044a5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd30452c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd02de898b UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd02de1620 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd6d2c7034 KERNEL32.DLL!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: [Callstack] 0x00007ffd6e662651 ntdll.dll!UnknownFunction []
+[2021.08.21-12.55.24:331][761]LogWindows: Error: 
+[2021.08.21-12.55.24:331][761]LogWindows: Error: 
+[2021.08.21-12.55.24:331][761]LogWindows: Error: 
+[2021.08.21-12.55.24:331][761]LogWindows: Error: 
+[2021.08.21-12.55.24:360][761]LogExit: Executing StaticShutdownAfterError
+[2021.08.21-12.55.24:368][761]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.08.21-12.55.24:369][761]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.21-12.55.24:397][761]Log file closed, 08/21/21 20:55:24
