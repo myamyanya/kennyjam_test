@@ -866,3 +866,840 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.22-11.48.51:427][332]LogFileHelpers: Loading map 'Level1' took 0.190
 [2021.08.22-11.48.51:445][332]AssetCheck: New page: Asset Save: GameLogo
 [2021.08.22-11.48.51:445][332]LogContentValidation: Display: Validating Texture2D /Game/KenneyJam2021/Widget/UI_Elements/GameLogo.GameLogo
+[2021.08.22-11.49.16:806][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.22-11.49.16:817][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-11.49.16:817][ 59]PIE: New page: PIE session: Level1 (Aug 23, 2021, 3:49:16 AM)
+[2021.08.22-11.49.16:819][ 59]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.22-11.49.16:821][ 59]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.22-11.49.16:821][ 59]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.49.16:848][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025781s)
+[2021.08.22-11.49.16:849][ 59]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.49.16:849][ 59]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2021.08.22-11.49.16:849][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/Level1.Level1 to /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 (0.027339s)
+[2021.08.22-11.49.16:857][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.22-11.49.16:858][ 59]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.49.16:858][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.49.16:858][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.49.16:859][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.49.16:859][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.49.16:870][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.49.16:870][ 59]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.49.16:889][ 59]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.22-11.49.16:889][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.49.16:889][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.49.16:889][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.49.16:889][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.49.16:889][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.49.16:890][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.49.16:915][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.49.16:915][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.49.16:915][ 59]LogInit: FAudioDevice initialized.
+[2021.08.22-11.49.16:915][ 59]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.08.22-11.49.16:927][ 59]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.49.16:940][ 59]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.08.22-19.49.16
+[2021.08.22-11.49.16:940][ 59]LogWorld: Bringing up level for play took: 0.011568
+[2021.08.22-11.49.16:940][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.08.22-11.49.16:944][ 59]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.08.22-11.49.16:946][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-11.49.16:948][ 59]PIE: Server logged in
+[2021.08.22-11.49.16:948][ 59]PIE: Play in editor total start time 0.135 seconds.
+[2021.08.22-11.49.16:994][ 59]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.49.40:569][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.49.40:569][468]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.49.40:569][468]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.49.40:571][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.49.40:583][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-11.49.40:585][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.49.40:592][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.49.40:593][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.49.40:594][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.49.40:615][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.49.40:620][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.22-11.49.40:641][469]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.08.22-11.49.43:573][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.22-11.49.43:604][644]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.49.43:604][644]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.49.43:604][644]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.49.43:605][644]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.49.43:605][644]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.49.43:608][644]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.49.43:608][644]LoadErrors: Failed to load /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData Referenced by PersistentLevel
+[2021.08.22-11.49.43:619][644]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.22-11.49.43:619][644]Cmd: MAP LOAD FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Maps/StartMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.22-11.49.43:619][644]LightingResults: New page: Lighting Build
+[2021.08.22-11.49.43:619][644]LoadErrors: New page: Loading map: StartMap.umap
+[2021.08.22-11.49.43:624][644]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.49.43:624][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.49.43:625][644]MapCheck: New page: Map Check
+[2021.08.22-11.49.43:625][644]LightingResults: New page: Lighting Build
+[2021.08.22-11.49.43:632][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.49.43:637][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.22-11.49.43:638][644]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMap'.
+[2021.08.22-11.49.43:738][644]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.22-11.49.43:738][644]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.49.43:748][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.22-11.49.43:755][644]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.22-11.49.43:756][644]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2021.08.22-11.49.43:756][644]LogFileHelpers: Loading map 'StartMap' took 0.136
+[2021.08.22-11.49.45:410][732]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.22-11.49.45:421][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-11.49.45:421][732]PIE: New page: PIE session: StartMap (Aug 23, 2021, 3:49:45 AM)
+[2021.08.22-11.49.45:457][732]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.49.45:465][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008155s)
+[2021.08.22-11.49.45:466][732]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.49.45:466][732]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.08.22-11.49.45:466][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.009560s)
+[2021.08.22-11.49.45:473][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.08.22-11.49.45:479][732]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.49.45:479][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.49.45:479][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.49.45:480][732]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.49.45:480][732]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.49.45:489][732]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.49.45:489][732]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.49.45:505][732]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.22-11.49.45:505][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.49.45:505][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.49.45:505][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.49.45:506][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.49.45:506][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.49.45:506][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.49.45:528][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.49.45:528][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.49.45:528][732]LogInit: FAudioDevice initialized.
+[2021.08.22-11.49.45:528][732]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMap'.
+[2021.08.22-11.49.45:534][732]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.49.45:538][732]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 60) at 2021.08.22-19.49.45
+[2021.08.22-11.49.45:539][732]LogWorld: Bringing up level for play took: 0.003594
+[2021.08.22-11.49.45:539][732]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.08.22-11.49.45:541][732]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-11.49.45:542][732]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-11.49.45:542][732]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-11.49.45:542][732]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-11.49.45:542][732]PIE: Server logged in
+[2021.08.22-11.49.45:543][732]PIE: Play in editor total start time 0.124 seconds.
+[2021.08.22-11.49.45:579][732]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.49.46:436][782]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.49.46:436][782]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.49.46:436][782]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.49.46:437][782]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.49.46:437][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.49.46:472][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.49.46:476][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.22-11.49.46:480][782]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.49.46:480][782]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.49.46:480][782]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.49.46:482][782]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.49.46:482][782]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.49.46:490][782]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.49.46:490][782]LoadErrors: Failed to load /Game/KenneyJam2021/Maps/Level1_BuiltData.Level1_BuiltData Referenced by PersistentLevel
+[2021.08.22-11.49.46:513][782]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.08.22-11.49.46:514][782]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.49.46:514][782]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.49.46:539][782]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.08.22-19.49.46
+[2021.08.22-11.49.46:539][782]LogWorld: Bringing up level for play took: 0.023188
+[2021.08.22-11.49.46:541][782]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-11.49.46:541][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-11.49.46:542][782]LogLoad: Took 0.106104 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-11.49.46:585][782]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.50.24:549][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.50.24:549][ 57]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.50.24:549][ 57]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.50.24:551][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.50.24:566][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-11.50.24:568][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.50.24:575][ 57]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.50.24:575][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.50.24:576][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.50.24:597][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.50.24:601][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.22-11.50.24:623][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.08.22-11.50.25:959][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.22-11.50.25:987][137]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.22-11.50.25:987][137]Cmd: MAP LOAD FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Maps/StartMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.22-11.50.25:987][137]LightingResults: New page: Lighting Build
+[2021.08.22-11.50.25:987][137]LoadErrors: New page: Loading map: StartMap.umap
+[2021.08.22-11.50.25:990][137]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.50.25:990][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.50.25:990][137]MapCheck: New page: Map Check
+[2021.08.22-11.50.25:990][137]LightingResults: New page: Lighting Build
+[2021.08.22-11.50.25:997][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.50.25:999][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.22-11.50.26:001][137]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.50.26:001][137]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.50.26:002][137]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.50.26:003][137]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.50.26:003][137]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.50.26:006][137]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\StartMap.umap: Failed to load '/Game/KenneyJam2021/Maps/StartMap_BuiltData': Can't find file.
+[2021.08.22-11.50.26:006][137]LoadErrors: Failed to load /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData Referenced by PersistentLevel
+[2021.08.22-11.50.26:011][137]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMap'.
+[2021.08.22-11.50.26:012][137]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.50.26:107][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.22-11.50.26:188][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.08.22-11.50.26:202][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.22-11.50.26:202][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2021.08.22-11.50.26:202][137]LogFileHelpers: Loading map 'StartMap' took 0.215
+[2021.08.22-11.50.27:463][208]LogSlate: Window 'Message Log' being destroyed
+[2021.08.22-11.50.27:472][208]LogSlate: Window 'Message Log' being destroyed
+[2021.08.22-11.51.28:516][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-11.51.28:516][799]PIE: New page: PIE session: StartMap (Aug 23, 2021, 3:51:28 AM)
+[2021.08.22-11.51.28:517][799]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.51.28:526][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009621s)
+[2021.08.22-11.51.28:527][799]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.51.28:528][799]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2021.08.22-11.51.28:528][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.011108s)
+[2021.08.22-11.51.28:535][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.22-11.51.28:536][799]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.51.28:537][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.51.28:537][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.51.28:538][799]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.51.28:538][799]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.51.28:547][799]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.51.28:547][799]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.51.28:564][799]LogAudioMixer: Display: Using Audio Device 扬声器 (USB Audio Device)
+[2021.08.22-11.51.28:565][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.51.28:565][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.51.28:565][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.51.28:565][799]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.51.28:565][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.51.28:565][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.51.28:583][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.51.28:583][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.51.28:583][799]LogInit: FAudioDevice initialized.
+[2021.08.22-11.51.28:583][799]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMap'.
+[2021.08.22-11.51.28:673][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.51.28:674][799]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.51.28:681][799]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 60) at 2021.08.22-19.51.28
+[2021.08.22-11.51.28:681][799]LogWorld: Bringing up level for play took: 0.006044
+[2021.08.22-11.51.28:681][799]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.08.22-11.51.28:684][799]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-11.51.28:685][799]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-11.51.28:685][799]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-11.51.28:685][799]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-11.51.28:687][799]PIE: Server logged in
+[2021.08.22-11.51.28:688][799]PIE: Play in editor total start time 0.174 seconds.
+[2021.08.22-11.51.28:723][799]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.51.28:769][800]LogRenderer: Reallocating scene render targets to support 1528x792 Format 10 NumSamples 1 (Frame:1).
+[2021.08.22-11.51.30:360][893]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.51.30:360][893]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.51.30:360][893]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.51.30:361][893]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.51.30:361][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.51.30:403][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.51.30:405][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.08.22-11.51.30:411][893]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.51.30:411][893]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.51.30:411][893]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.51.30:412][893]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.51.30:412][893]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.51.30:421][893]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.51.30:422][893]LoadErrors: Failed to load /Game/KenneyJam2021/Maps/Level1_BuiltData.Level1_BuiltData Referenced by PersistentLevel
+[2021.08.22-11.51.30:449][893]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2021.08.22-11.51.30:450][893]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.51.30:450][893]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.51.30:475][893]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.08.22-19.51.30
+[2021.08.22-11.51.30:476][893]LogWorld: Bringing up level for play took: 0.024507
+[2021.08.22-11.51.30:478][893]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-11.51.30:478][893]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-11.51.30:479][893]LogLoad: Took 0.118505 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-11.51.30:532][893]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.53.11:819][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.53.11:819][959]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.53.11:819][959]LogSlate: Window 'KenneyJam2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.22-11.53.11:827][959]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.53.11:829][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.53.11:838][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-11.53.11:841][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.53.11:850][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.53.11:851][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.53.11:852][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.53.11:885][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.08.22-11.53.11:912][960]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.08.22-11.55.06:744][483]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.08.22-11.55.06:754][483]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.08.22-11.55.15:854][ 29]LogContentBrowser: Attempting asset rename: NewMaterial -> cloudMaskMaterial
+[2021.08.22-11.55.15:879][ 29]LogContentBrowser: End creating deferred item NewMaterial
+[2021.08.22-11.55.17:206][105]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/KenneyJam2021/cloudMaskMaterial.cloudMaskMaterial
+[2021.08.22-11.55.17:274][105]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.17:696][105]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.17:745][105]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.55.17:745][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.17:745][105]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.55.17:745][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.55.17:747][105]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.17:835][105]LogSlate: Took 0.028415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.22-11.55.19:350][165]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.22-11.55.19:854][186]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.19:990][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.22-11.55.20:144][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.22-11.55.21:091][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.22-11.55.21:304][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.22-11.55.21:532][251]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-11.55.21:850][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.55.22:199][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.22-11.55.23:420][316]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.55.23:420][316]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.55.23:420][316]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.55.23:420][316]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.55.31:143][448]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.31:151][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.22-11.55.31:266][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.55.31:266][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.31:266][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.55.31:266][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.55.31:274][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.22-11.55.32:238][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.22-11.55.32:395][481]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.32:781][497]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.22-11.55.32:851][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.22-11.55.33:457][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.22-11.55.34:062][559]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.22-11.55.34:524][582]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-11.55.34:629][587]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.55.34:857][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-11.55.34:891][600]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.55.34:891][600]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.55.34:891][600]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.55.34:891][600]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.55.37:584][735]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.37:592][735]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.55.37:592][735]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.37:592][735]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.55.37:592][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.55.37:592][735]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.08.22-11.55.37:601][735]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.08.22-11.55.37:624][735]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.37:737][736]LogSlate: Took 0.016641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.22-11.55.38:501][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.22-11.55.39:028][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.22-11.55.39:272][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.22-11.55.39:423][825]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.22-11.55.39:564][833]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.22-11.55.40:436][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.40:531][884]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.22-11.55.40:620][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.55.41:347][928]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.55.41:605][942]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.22-11.55.41:908][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-11.55.42:487][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.22-11.55.42:663][988]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.22-11.55.44:169][ 70]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.55.44:169][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.55.44:169][ 70]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.55.44:169][ 70]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.55.57:823][255]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.55.57:838][255]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.55.57:838][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.57:838][255]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.55.57:838][255]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.55.57:843][255]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.08.22-11.55.58:677][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.22-11.55.58:677][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.55.59:154][279]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.22-11.55.59:192][281]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.56.00:042][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.22-11.56.00:067][325]LogEditorTransaction: Undo Material Editor: New Expression
+[2021.08.22-11.56.00:070][325]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.00:097][325]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.00:340][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.22-11.56.00:624][335]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.22-11.56.00:722][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.22-11.56.00:794][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.22-11.56.01:419][377]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.22-11.56.01:908][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.22-11.56.01:963][405]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.22-11.56.02:092][412]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.22-11.56.03:038][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.22-11.56.03:397][477]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.22-11.56.03:528][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.22-11.56.03:949][496]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.56.04:363][511]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.22-11.56.06:414][555]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.56.06:414][555]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.56.06:414][555]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.56.06:414][555]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.56.38:624][726]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.38:654][727]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.56.38:654][727]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.56.38:654][727]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.56.38:654][727]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.56.39:785][790]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.56.40:344][821]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.56.40:448][826]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.40:487][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.08.22-11.56.40:566][831]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.22-11.56.41:178][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.22-11.56.41:460][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.22-11.56.42:125][914]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.22-11.56.42:276][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.22-11.56.42:276][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-11.56.42:951][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-11.56.43:003][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-11.56.43:092][960]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.43:503][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.22-11.56.43:572][983]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.22-11.56.43:808][996]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.22-11.56.44:325][ 22]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.22-11.56.45:509][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.22-11.56.45:509][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.22-11.56.45:509][ 36]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-11.56.45:509][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-11.56.45:509][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.22-11.56.46:228][ 37]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.56.46:228][ 37]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.56.46:228][ 37]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.56.46:228][ 37]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.56.49:606][237]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.49:614][237]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.56.49:632][238]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.56.49:632][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.56.49:632][238]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.56.49:632][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.56.50:528][289]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.56.51:148][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.56.51:485][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.22-11.56.51:547][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.22-11.56.52:118][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.56.53:239][386]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.56.53:239][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.56.53:239][386]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.56.53:239][386]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.57.12:754][712]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.12:768][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.57.12:768][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.12:768][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.57.12:768][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.12:770][712]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.08.22-11.57.14:410][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.22-11.57.14:546][813]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.08.22-11.57.14:685][821]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.22-11.57.15:721][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.15:849][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.57.16:699][930]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.57.16:742][931]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.22-11.57.16:898][940]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-11.57.17:243][960]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-11.57.17:363][965]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.57.17:363][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.57.17:363][965]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.57.17:363][965]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.57.17:983][998]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.17:994][998]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.57.17:994][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.18:153][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.57.18:243][  9]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.19:128][ 55]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.57.19:555][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.57.19:780][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.22-11.57.19:931][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.22-11.57.20:606][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.57.21:718][200]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.57.21:718][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.57.21:718][200]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.57.21:718][200]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.57.23:550][298]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.23:567][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.57.23:567][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.23:567][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.57.23:567][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.23:568][298]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.25:616][409]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.22-11.57.25:774][418]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.25:948][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.22-11.57.26:514][460]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.26:973][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.22-11.57.27:262][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.57.27:534][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.22-11.57.28:266][556]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.22-11.57.28:375][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.57.29:622][631]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.57.29:622][631]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.57.29:622][631]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.57.29:622][631]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.57.34:345][912]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.34:368][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.57.34:368][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.34:368][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.57.34:368][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.35:458][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.57.35:729][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.57.35:920][991]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.22-11.57.36:021][997]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.57.36:323][ 14]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.36:568][ 25]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.22-11.57.37:161][ 44]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.08.22-11.57.37:590][ 61]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.22-11.57.37:638][ 62]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.22-11.57.38:541][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.22-11.57.38:611][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.22-11.57.38:683][ 96]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.22-11.57.39:443][130]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.57.39:711][144]LogEditorTransaction: Undo Create Pin Link
+[2021.08.22-11.57.39:715][144]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.39:729][144]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.39:890][146]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.08.22-11.57.40:240][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.40:356][158]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.57.40:762][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.22-11.57.41:279][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.57.41:437][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.22-11.57.41:602][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-11.57.42:193][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.57.42:390][269]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-11.57.43:519][325]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.22-11.57.43:519][325]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.22-11.57.43:519][325]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.57.43:519][325]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.22-11.57.56:234][443]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.56:412][443]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.22-11.57.56:412][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.22-11.57.56:412][443]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.22-11.57.56:412][443]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.22-11.57.56:918][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.22-11.57.57:170][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.22-11.57.57:316][492]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.22-11.57.57:399][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.57.57:802][519]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.57.58:597][564]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.58:606][564]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.57.58:606][564]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.57.58:607][564]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.58:614][564]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.57.58:617][564]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-11.57.58:617][564]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-11.57.59:480][605]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2021.08.22-11.57.59:480][605]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.57.59:480][605]MaterialEditorStats: Texture samplers: 0/16
+[2021.08.22-11.58.02:536][780]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.02:554][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.58.02:554][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.58.03:334][821]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.58.03:334][821]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.22-11.58.03:334][821]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.58.03:334][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.58.03:335][821]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.22-11.58.17:663][445]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.17:705][446]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.58.17:706][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.58.19:560][549]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.58.19:560][549]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.22-11.58.19:560][549]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.58.19:560][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.58.19:560][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.22-11.58.22:396][710]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.22:405][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.58.22:405][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.58.22:407][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.08.22-11.58.22:413][710]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.22-11.58.22:413][710]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.22-11.58.23:294][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.22-11.58.23:540][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.22-11.58.23:560][774]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.58.23:560][774]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.58.23:560][774]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.58.23:560][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.58.27:404][886]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.27:439][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.58.27:439][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.58.28:579][949]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.58.28:579][949]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.58.28:579][949]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.58.28:580][949]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.58.33:933][266]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.33:951][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.58.33:951][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.58.34:932][323]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.58.34:932][323]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.58.34:932][323]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.58.34:932][323]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.58.52:115][344]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.52:151][345]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.58.52:151][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.58.52:915][387]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.58.52:915][387]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.58.52:915][387]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.58.52:915][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.58.57:602][667]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.58.57:603][667]LogMaterial: Warning: [AssetLog] /Engine/Transient.cloudMaskMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.22-11.58.57:603][667]LogMaterial: Display: 	(Node AppendVector) Missing AppendVector input A
+[2021.08.22-11.58.57:608][667]MaterialEditorStats: Error: [SM5] (Node AppendVector) Missing AppendVector input A
+[2021.08.22-11.59.05:033][899]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.05:034][899]LogMaterial: Warning: [AssetLog] /Engine/Transient.cloudMaskMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.22-11.59.05:034][899]LogMaterial: Display: 	(Node AppendVector) Missing AppendVector input A
+[2021.08.22-11.59.08:131][ 79]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.08:132][ 79]LogMaterial: Warning: [AssetLog] /Engine/Transient.cloudMaskMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.22-11.59.08:132][ 79]LogMaterial: Display: 	(Node AppendVector) Missing AppendVector input B
+[2021.08.22-11.59.08:136][ 79]MaterialEditorStats: Error: [SM5] (Node AppendVector) Missing AppendVector input B
+[2021.08.22-11.59.10:396][214]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.10:396][214]LogMaterial: Warning: [AssetLog] /Engine/Transient.cloudMaskMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.22-11.59.10:396][214]LogMaterial: Display: 	(Node AppendVector) Missing AppendVector input B
+[2021.08.22-11.59.14:547][460]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.14:593][461]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.14:593][461]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.59.15:987][540]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.59.15:987][540]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.59.15:987][540]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.59.15:988][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.59.17:391][624]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.17:430][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.17:430][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.59.18:608][692]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.59.18:608][692]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.59.18:608][692]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.59.18:608][692]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.59.20:326][789]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.20:337][789]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.20:337][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.59.20:338][789]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.20:414][790]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-11.59.20:414][790]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-11.59.22:254][892]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.59.22:255][892]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.59.22:255][892]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.59.22:255][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.59.29:842][345]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.29:848][345]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.29:848][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.59.31:133][417]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.59.31:133][417]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.59.31:133][417]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.59.31:133][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.59.53:546][724]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.53:552][724]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.53:567][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.53:567][725]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.59.54:429][774]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.59.54:429][774]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.59.54:429][774]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.59.54:429][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.59.55:184][815]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.55:231][816]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.55:231][816]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-11.59.56:997][920]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-11.59.56:997][920]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-11.59.56:998][920]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-11.59.56:998][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-11.59.59:743][ 84]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.59:748][ 84]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-11.59.59:760][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-11.59.59:760][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.00:417][124]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-12.00.00:417][124]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.00:417][124]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.00:417][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.09:282][387]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.09:285][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.22-12.00.09:330][388]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.22-12.00.09:330][388]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.22-12.00.09:330][388]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.22-12.00.09:330][388]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.22-12.00.10:118][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.22-12.00.10:294][438]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.22-12.00.10:314][439]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-12.00.10:314][439]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.10:314][439]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.10:314][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.10:428][445]LogEditorTransaction: Undo Material Editor: New Expression
+[2021.08.22-12.00.10:431][445]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.10:447][445]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.10:451][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-12.00.10:606][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-12.00.11:161][466]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-12.00.11:161][466]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.11:161][466]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.11:161][466]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.18:376][894]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.18:420][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.18:420][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.19:183][936]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.08.22-12.00.19:183][936]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.19:183][936]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.19:183][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.21:656][ 81]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.21:676][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.21:676][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.22:498][125]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2021.08.22-12.00.22:498][125]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.22:498][125]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.22:498][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.25:338][293]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.25:358][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.25:358][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.27:090][391]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.27:116][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.27:116][392]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.28:109][445]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.00.28:109][445]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.28:109][445]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.28:109][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.49:485][722]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.49:528][723]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.49:528][723]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.51:366][786]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.00.51:366][786]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.51:366][786]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.51:366][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.53:076][830]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.53:080][830]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.53:080][830]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.53:081][830]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.53:100][831]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-12.00.53:100][831]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-12.00.54:530][907]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.00.54:530][907]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.54:530][907]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.54:530][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.00.56:857][ 42]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.56:869][ 42]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.00.56:922][ 43]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.00.56:922][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.00.57:669][ 86]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.00.57:669][ 86]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.00.57:669][ 86]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.00.57:669][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.02:138][352]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.02:194][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.02:194][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.04:081][461]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.01.04:081][461]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.01.04:081][461]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.04:081][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.08:187][707]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.08:193][707]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.08:211][708]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.08:211][708]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.08:984][750]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.01.08:985][750]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.01.08:985][750]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.08:985][750]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.17:959][188]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.18:008][189]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.18:008][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.19:329][263]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.01.19:329][263]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.01.19:329][263]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.19:329][263]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.21:171][372]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.21:177][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.21:177][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.22:453][441]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.22:458][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.22:458][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.24:869][581]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.24:874][581]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.24:874][581]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.25:814][634]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.01.25:814][634]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.01.25:814][634]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.25:814][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.35:585][215]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.35:637][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.35:637][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.36:363][255]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.01.36:364][255]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.01.36:364][255]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.36:364][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.38:987][411]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVertexColor_0, compiling. 
+[2021.08.22-12.01.39:007][413]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.22-12.01.39:007][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-12.01.39:007][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-12.01.39:007][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-12.01.40:737][506]LogEditorTransaction: Undo Material Editor: Toggle Collapsed
+[2021.08.22-12.01.40:746][506]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.40:749][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.40:749][506]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.40:760][506]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVertexColor_0, compiling. 
+[2021.08.22-12.01.40:774][506]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.22-12.01.40:774][506]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.22-12.01.41:389][519]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.22-12.01.41:428][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.22-12.01.41:435][521]LogEditorTransaction: Undo Material Editor: Toggle Collapsed
+[2021.08.22-12.01.41:438][521]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.41:577][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.41:647][529]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-12.01.41:946][545]LogEditorTransaction: Undo Material Editor: New Expression
+[2021.08.22-12.01.41:949][545]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.41:956][545]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.42:254][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-12.01.42:537][572]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-12.01.47:547][866]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.47:600][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.47:601][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.48:343][906]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2021.08.22-12.01.48:343][906]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.22-12.01.48:343][906]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.48:343][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.51:676][104]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.01.51:699][105]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.01.51:699][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.01.52:400][145]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2021.08.22-12.01.52:400][145]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.22-12.01.52:400][145]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.01.52:400][145]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.01.52:400][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.22-12.02.39:772][159]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.02.39:778][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.02.39:778][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.02.39:778][159]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.02.39:794][160]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.22-12.02.39:794][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.22-12.02.41:134][235]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2021.08.22-12.02.41:134][235]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.22-12.02.41:134][235]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.22-12.02.41:134][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.02.41:134][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.22-12.02.48:134][653]LogMaterialEditor: Saving and Compiling material cloudMaskMaterial
+[2021.08.22-12.02.48:764][653]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.02.48:777][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.02.48:777][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.02.48:820][653]LogMaterial: Display: Missing cached shader map for material cloudMaskMaterial, compiling. 
+[2021.08.22-12.02.48:892][653]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.08.22-12.02.48:892][653]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.22-12.02.48:904][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.08.22-12.02.48:906][653]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.22-12.02.48:913][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.08.22-12.02.49:510][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.22-12.02.49:510][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.22-12.02.50:068][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.22-12.02.50:068][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.22-12.02.50:627][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.22-12.02.50:946][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/cloudMaskMaterial" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/cloudMaskMaterial.uasset" SILENT=true
+[2021.08.22-12.02.50:969][653]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/cloudMaskMaterialB4261C2C4EE9713069F1C894931B4820.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/cloudMaskMaterial.uasset'
+[2021.08.22-12.02.51:008][653]AssetCheck: New page: Asset Save: cloudMaskMaterial
+[2021.08.22-12.02.51:008][653]LogContentValidation: Display: Validating Material /Game/KenneyJam2021/cloudMaskMaterial.cloudMaskMaterial
+[2021.08.22-12.02.51:011][653]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2021.08.22-12.02.51:011][653]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.22-12.02.51:011][653]MaterialEditorStats: Texture samplers: 5/16
+[2021.08.22-12.02.51:011][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.22-12.02.51:011][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.22-12.02.54:678][810]LogSlate: Window 'cloudMaskMaterial' being destroyed
+[2021.08.22-12.02.54:685][810]LogSlate: Window 'cloudMaskMaterial' being destroyed
+[2021.08.22-12.02.54:730][810]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-12.02.54:730][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.02.58:989][ 26]LogContentBrowser: Deferred new asset file creation: cloudMaskMaterial_Inst
+[2021.08.22-12.02.59:011][ 26]LogContentBrowser: Creating deferred item: cloudMaskMaterial_Inst
+[2021.08.22-12.03.06:978][504]LogContentBrowser: Attempting asset rename: cloudMaskMaterial_Inst -> _InstcloudMaskMaterial
+[2021.08.22-12.03.06:979][504]LogContentBrowser: End creating deferred item cloudMaskMaterial_Inst
+[2021.08.22-12.03.08:652][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.22-12.03.09:713][604]LogSlate: Window 'Save Content' being destroyed
+[2021.08.22-12.03.09:768][604]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/_InstcloudMaskMaterial338F1C6247F94759117DD984E506C458.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/_InstcloudMaskMaterial.uasset'
+[2021.08.22-12.03.09:787][604]AssetCheck: New page: Asset Save: _InstcloudMaskMaterial
+[2021.08.22-12.03.09:787][604]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/KenneyJam2021/_InstcloudMaskMaterial._InstcloudMaskMaterial
