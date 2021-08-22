@@ -1091,3 +1091,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.22-11.01.43:856][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2021.08.22-11.01.43:876][545]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2021.08.22-11.01.45:442][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.22-11.10.52:593][ 67]LogEditorFactories: Performing atomic reimport of [D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/GameLogo.png]
+[2021.08.22-11.10.52:593][ 67]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/VivianCHEN/Portfolio/gameJam!/KennyJam_2021_Aug/GameLogo.png)
+[2021.08.22-11.10.52:618][ 67]LogTexture: Display: Building textures: GameLogo (AutoDXT, 1400X512)
+[2021.08.22-11.10.52:759][ 67]LogEditorFactories: -- imported successfully
+[2021.08.22-11.10.54:720][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.22-11.10.55:689][138]LogSlate: Window 'Save Content' being destroyed
+[2021.08.22-11.10.55:750][138]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/GameLogo50E07B8148EB7A09067F22A03DF6B58A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/UI_Elements/GameLogo.uasset'
+[2021.08.22-11.10.55:771][138]AssetCheck: New page: Asset Save: GameLogo
+[2021.08.22-11.10.55:771][138]LogContentValidation: Display: Validating Texture2D /Game/KenneyJam2021/Widget/UI_Elements/GameLogo.GameLogo
