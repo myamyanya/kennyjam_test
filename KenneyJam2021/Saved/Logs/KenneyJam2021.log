@@ -837,3 +837,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.22-11.48.02:334][418]LogContentValidation: Display: Validating Texture2D /Game/KenneyJam2021/cloudMask.cloudMask
 [2021.08.22-11.48.03:139][466]LogSlate: Window 'cloudMask' being destroyed
 [2021.08.22-11.48.03:147][466]LogSlate: Window 'cloudMask' being destroyed
+[2021.08.22-11.48.48:839][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.08.22-11.48.50:927][332]LogSlate: Window 'Save Content' being destroyed
+[2021.08.22-11.48.51:000][332]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/GameLogo2BD0B1A045588DBE356EA8AA88356AF0.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/UI_Elements/GameLogo.uasset'
+[2021.08.22-11.48.51:071][332]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.48.51:071][332]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.48.51:124][332]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.48.51:125][332]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.48.51:125][332]LogLinker: Warning: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.48.51:143][332]LogLinker: Warning: [AssetLog] D:\VivianCHEN\Github\kennyjam_test\KenneyJam2021\Content\KenneyJam2021\Maps\Level1.umap: Failed to load '/Game/KenneyJam2021/Maps/Level1_BuiltData': Can't find file.
+[2021.08.22-11.48.51:143][332]LoadErrors: Failed to load /Game/KenneyJam2021/Maps/Level1_BuiltData.Level1_BuiltData Referenced by PersistentLevel
+[2021.08.22-11.48.51:236][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KenneyJam2021/Maps/Level1.Level1
+[2021.08.22-11.48.51:236][332]Cmd: MAP LOAD FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.22-11.48.51:236][332]LightingResults: New page: Lighting Build
+[2021.08.22-11.48.51:237][332]LoadErrors: New page: Loading map: Level1.umap
+[2021.08.22-11.48.51:269][332]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.48.51:270][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.48.51:270][332]MapCheck: New page: Map Check
+[2021.08.22-11.48.51:270][332]LightingResults: New page: Lighting Build
+[2021.08.22-11.48.51:279][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.48.51:282][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.22-11.48.51:284][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.08.22-11.48.51:406][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.22-11.48.51:407][332]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.48.51:418][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.22-11.48.51:426][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.22-11.48.51:426][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2021.08.22-11.48.51:427][332]LogFileHelpers: Loading map 'Level1' took 0.190
+[2021.08.22-11.48.51:445][332]AssetCheck: New page: Asset Save: GameLogo
+[2021.08.22-11.48.51:445][332]LogContentValidation: Display: Validating Texture2D /Game/KenneyJam2021/Widget/UI_Elements/GameLogo.GameLogo
