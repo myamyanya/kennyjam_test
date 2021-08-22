@@ -1,0 +1,1434 @@
+﻿Log file open, 08/22/21 19:52:11
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KenneyJam2021
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.289185
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:7890'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.22-11.52.12:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:775][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:788][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.22-11.52.12:788][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.22-11.52.12:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.22-11.52.12:790][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.22-11.52.12:790][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.22-11.52.12:790][  0]LogHAL: Display: Platform has ~ 8 GB [8447172608 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.22-11.52.12:790][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.22-11.52.12:790][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.22-11.52.12:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.22-11.52.12:791][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.22-11.52.12:792][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.22-11.52.12:792][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.22-11.52.12:792][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.22-11.52.12:792][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.22-11.52.12:792][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Config/Windows/Editor.ini]
+[2021.08.22-11.52.12:792][  0]LogInit: Computer: DESKTOP-R38J9NP
+[2021.08.22-11.52.12:792][  0]LogInit: User: Nickel
+[2021.08.22-11.52.12:792][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.22-11.52.12:792][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.22-11.52.12:792][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.08.22-11.52.12:792][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.22-11.52.12:792][  0]LogMemory: Process Physical Memory: 138.01 MB used, 138.01 MB peak
+[2021.08.22-11.52.12:792][  0]LogMemory: Process Virtual Memory: 119.29 MB used, 119.29 MB peak
+[2021.08.22-11.52.12:792][  0]LogMemory: Physical Memory: 5231.73 MB used,  2824.12 MB free, 8055.85 MB total
+[2021.08.22-11.52.12:792][  0]LogMemory: Virtual Memory: 134208128.00 MB used,  9596.93 MB free, 134217728.00 MB total
+[2021.08.22-11.52.12:802][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.22-11.52.12:839][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.22-11.52.12:840][  0]LogInit: Using OS detected language (zh-CN).
+[2021.08.22-11.52.12:840][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.08.22-11.52.12:854][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2021.08.22-11.52.12:976][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2021.08.22-11.52.12:976][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2021.08.22-11.52.12:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2021.08.22-11.52.12:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2021.08.22-11.52.12:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2021.08.22-11.52.12:977][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2021.08.22-11.52.12:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2021.08.22-11.52.12:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2021.08.22-11.52.12:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.08.22-11.52.12:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.08.22-11.52.12:979][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.08.22-11.52.13:045][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.22-11.52.13:065][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.22-11.52.13:088][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.22-11.52.13:088][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.22-11.52.13:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.22-11.52.13:329][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.22-11.52.13:329][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.22-11.52.13:329][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.22-11.52.13:430][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.08.22-11.52.13:430][  0]LogD3D11RHI:       4018/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.22-11.52.13:471][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.08.22-11.52.13:471][  0]LogD3D11RHI:       128/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.22-11.52.13:475][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.22-11.52.13:475][  0]LogD3D11RHI:       0/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.22-11.52.13:475][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.22-11.52.13:527][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.22-11.52.13:528][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2021.08.22-11.52.13:528][  0]LogWindows: EnumDisplayDevices:
+[2021.08.22-11.52.13:528][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.08.22-11.52.13:529][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.08.22-11.52.13:530][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.08.22-11.52.13:530][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.22-11.52.13:531][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.22-11.52.13:532][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.22-11.52.13:533][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.22-11.52.13:533][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.22-11.52.13:533][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.08.22-11.52.13:534][  0]LogD3D11RHI:   Driver Version: 452.41 (internal:27.21.14.5241, unified:452.41)
+[2021.08.22-11.52.13:534][  0]LogD3D11RHI:      Driver Date: 9-23-2020
+[2021.08.22-11.52.13:534][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.08.22-11.52.13:595][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.22-11.52.13:595][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.22-11.52.13:595][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.22-11.52.13:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.22-11.52.13:617][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.22-11.52.14:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.22-11.52.14:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.22-11.52.14:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.22-11.52.14:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.22-11.52.14:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.22-11.52.14:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.22-11.52.14:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.22-11.52.14:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.22-11.52.14:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.22-11.52.14:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.22-11.52.14:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.22-11.52.14:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.22-11.52.14:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.22-11.52.14:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.22-11.52.14:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.22-11.52.14:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.22-11.52.14:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.22-11.52.14:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.22-11.52.14:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.22-11.52.14:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.22-11.52.14:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.22-11.52.14:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.22-11.52.14:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.22-11.52.14:394][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.22-11.52.14:406][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.22-11.52.14:526][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.22-11.52.14:526][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (F:/Unreal Projects/kennyjam_test/KenneyJam2021/Intermediate/Shaders/WorkingDirectory/4692/).
+[2021.08.22-11.52.14:526][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nickel/AppData/Local/Temp/UnrealShaderWorkingDir/A42F206146CE7EE02FB8AAB48EDB1CB2/'.
+[2021.08.22-11.52.14:526][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.22-11.52.14:527][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.22-11.52.15:363][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.22-11.52.15:426][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Nickel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.22-11.52.15:426][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nickel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.22-11.52.15:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal Projects/kennyjam_test/KenneyJam2021/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.22-11.52.15:426][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.22-11.52.15:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal Projects/kennyjam_test/KenneyJam2021/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.22-11.52.15:426][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.22-11.52.15:439][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.22-11.52.15:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.22-11.52.15:439][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.22-11.52.15:455][  0]LogDerivedDataCache: Speed tests for C:/Users/Nickel/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.08.22-11.52.15:455][  0]LogDerivedDataCache: Display: Performance to C:/Users/Nickel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=213.01MBs, RandomWriteSpeed=100.25MBs. Assigned SpeedClass 'Local'
+[2021.08.22-11.52.15:456][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nickel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.22-11.52.15:456][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.22-11.52.15:456][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.22-11.52.15:526][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.22-11.52.15:526][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.22-11.52.15:557][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.08.22-11.52.15:877][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.22-11.52.15:877][  0]LogInit: Active device profile: [000002313704DB00][0000023135E1C580 49] Windows
+[2021.08.22-11.52.15:878][  0]LogInit: Profiles: [000002313704DB00][0000023135E1C580 49] Windows, [0000023137042100][0000023135E24700 49] WindowsNoEditor, [000002313704DF00][0000023135E28880 49] WindowsServer, [0000023137042400][0000023135E2CA00 49] WindowsClient, [000002313704CE00][0000023135E30B80 49] IOS, [0000023137043300][0000023135E34D00 49] iPadAir, [000002313704F000][0000023135E38E80 49] iPadAir2, [0000023136FFAB00][0000023135E41140 49] IPadPro, [0000023136FFAC00][0000023135E3D180 49] iPadAir3, [000002313704D200][0000023135E45300 49] iPadAir4, [0000023136FFA800][0000023135E49480 49] iPadMini2, [000002313704F100][0000023135E4D600 49] iPadMini3, [0000023136FF9800][0000023135E21740 49] iPadMini4, [000002313704EA00][0000023135E51880 49] iPadMini5, [0000023137012400][0000023135E59AC0 49] iPhone6, [0000023137012500][0000023135E55B00 49] iPodTouch6, [0000023137040200][0000023135E64100 49] iPhone7, [0000023137040500][0000023135E60140 49] iPodTouch7, [0000023137013C00][0000023135E682C0 49] iPhone5S, [0000023137043B00][0000023135E6C440 49] iPhone6Plus, [0000023137011600][0000023135E705C0 49] iPhone6S, [0000023137041E00][0000023135E74740 49] iPhone6SPlus, [0000023137010700][0000023135E788C0 49] iPhone7Plus, [0000023137041100][0000023135E7CA40 49] iPhoneSE, [0000023137013400][0000023135E80BC0 49] iPhone8, [0000023137043C00][0000023135E84D40 49] iPhone8Plus, [0000023137010500][0000023135E88EC0 49] iPhoneX, [0000023137042800][0000023135E8D040 49] iPhoneXS, [0000023137013100][0000023135E911C0 49] iPhoneXSMax, [0000023137041500][0000023135EA5340 49] iPhoneXR, [0000023137010D00][0000023135EA94C0 49] iPhone11, [0000023137043100][0000023135EB1640 49] iPhone11Pro, [0000023137013200][0000023135E5D780 49] iPhone11ProMax, [0000023137043600][0000023135EE58C0 49] iPhoneSE2, [0000023137013300][0000023137FB1A00 49] iPhone12Mini, [0000023137040100][0000023137FC7B40 49] iPhone12, [0000023137012C00][0000023137FCFCC0 49] iPhone12Pro, [0000023137042300][0000023137FD8180 49] iPhone12ProMax, [000002313704CA00][0000023137FEE300 49] iPadPro105, [0000023137011800][0000023137FF2480 49] iPadPro129, [000002313704ED00][0000023137FF6600 49] iPadPro97, [0000023137010E00][0000023138002780 49] iPadPro2_129, [000002313704D900][0000023138066900 49] iPad5, [0000023137012E00][000002313808EA80 49] iPad6, [000002313704E500][0000023138092C00 49] iPad7, [0000023137043200][0000023138096D80 49] iPad8, [000002313704C700][000002313809AF00 49] iPadPro11, [0000023137043F00][00000231380A3080 49] iPadPro2_11, [000002313704F900][00000231380A7200 49] iPadPro3_129, [0000023137040300][0000023117DDB380 49] iPadPro4_129, [000002313704C400][0000023117DDF500 49] AppleTV, [0000023137043400][0000023117DE3680 49] AppleTV4K, [000002313704E700][0000023137FCB7C0 49] TVOS, [0000023137043700][0000023117DE7900 49] Mac, [000002313704DD00][0000023117DEBA40 49] MacClient, [0000023137042700][0000023117DEFB80 49] MacNoEditor, [000002313704D600][0000023117DF7D00 49] MacServer, [0000023137041D00][0000023117DFE1C0 49] Linux, [000002313704DE00][0000023117E02340 49] LinuxAArch64, [0000023137042D00][0000023117E064C0 49] LinuxNoEditor, [000002313704EB00][0000023117E0A640 49] LinuxAArch64NoEditor, [0000023137041A00][0000023117E0E7C0 49] LinuxClient, [000002313704FF00][0000023117E12940 49] LinuxAArch64Client, [0000023137040900][0000023117E16AC0 49] LinuxServer, [000002313704E300][0000023117E1AC40 49] LinuxAArch64Server, [0000023137040F00][0000023117E24DC0 49] Android, [000002313704D800][00000231380AAF40 49] Android_Low, [0000023137042C00][00000231380AF0C0 49] Android_Mid, [000002313704E800][00000231380B3240 49] Android_High, [0000023137042900][00000231380B73C0 49] Android_Default, [000002313704E100][0000023138171540 49] Android_Adreno4xx, [0000023137043000][00000231381A76C0 49] Android_Adreno5xx_Low, [000002313704E400][00000231381AB840 49] Android_Adreno5xx, [0000023137041C00][0000023117DF3980 49] Android_Adreno6xx, [000002313704FB00][00000231381AFAC0 49] Android_Adreno6xx_Vulkan, [0000023137040B00][00000231381B3C00 49] Android_Mali_T6xx, [000002313704D100][00000231381BA0C0 49] Android_Mali_T7xx, [0000023137043D00][000002313821E240 49] Android_Mali_T8xx, [000002313704D500][00000231382223C0 49] Android_Mali_G71, [0000023137041300][0000023138226540 49] Android_Mali_G72, [000002313704DC00][000002313822A6C0 49] Android_Mali_G72_Vulkan, [0000023137041900][000002313822E840 49] Android_Mali_G76, [000002313704CD00][00000231382329C0 49] Android_Mali_G76_Vulkan, [0000023137041600][0000023138268B40 49] Android_Mali_G77, [000002313704C500][0000023138274CC0 49] Android_Mali_G77_Vulkan, [0000023137042F00][0000023138278E40 49] Android_Vulkan_SM5, [000002313704D000][00000231382F4FC0 49] Android_PowerVR_G6xxx, [0000023137040400][00000231382FD140 49] Android_PowerVR_GT7xxx, [0000023136FF9E00][00000231383012C0 49] Android_PowerVR_GE8xxx, [0000023137010F00][0000023138305440 49] Android_PowerVR_GM9xxx, [0000023136FF8800][00000231383095C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000023137013600][000002313831B740 49] Android_TegraK1, [0000023136FF8100][00000231383938C0 49] Android_Unknown_Vulkan, [0000023137011300][00000231381B7A00 49] Lumin, [0000023136FFB200][0000023138397B40 49] Lumin_Desktop, [0000023137012D00][000002313839BC80 49] HoloLens, 
+[2021.08.22-11.52.16:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.22-11.52.16:078][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.22-11.52.16:078][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.22-11.52.16:078][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.22-11.52.16:078][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.22-11.52.16:106][  0]LogNetVersion: KenneyJam2021 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 707209456)
+[2021.08.22-11.52.16:810][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.22-11.52.16:983][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 2 prioritized culture(s) in 0.172243 seconds
+[2021.08.22-11.52.16:992][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.22-11.52.16:992][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.22-11.52.16:992][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.22-11.52.17:649][  0]LogPython: Using Python 3.7.7
+[2021.08.22-11.52.18:773][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.22-11.52.18:780][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.22-11.52.18:975][  0]SourceControl: 源码管理已禁用
+[2021.08.22-11.52.18:975][  0]SourceControl: 源码管理已禁用
+[2021.08.22-11.52.18:980][  0]SourceControl: 源码管理已禁用
+[2021.08.22-11.52.18:985][  0]SourceControl: 源码管理已禁用
+[2021.08.22-11.52.19:003][  0]LogUProjectInfo: Found projects:
+[2021.08.22-11.52.19:013][  0]SourceControl: 源码管理已禁用
+[2021.08.22-11.52.19:529][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.22-11.52.19:588][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.22-11.52.19:588][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.22-11.52.19:729][  0]LogCollectionManager: Loaded 0 collections in 0.001898 seconds
+[2021.08.22-11.52.19:778][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Collections/' took 0.00s
+[2021.08.22-11.52.19:778][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/Developers/Nickel/Collections/' took 0.00s
+[2021.08.22-11.52.19:778][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/Collections/' took 0.00s
+[2021.08.22-11.52.19:778][  0]LogOcInput: OculusInput pre-init called
+[2021.08.22-11.52.19:809][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.22-11.52.19:809][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.22-11.52.20:271][  0]LogEngine: Initializing Engine...
+[2021.08.22-11.52.20:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.22-11.52.20:272][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.22-11.52.20:273][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.22-11.52.20:409][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.22-11.52.20:427][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.22-11.52.20:439][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.22-11.52.20:447][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.22-11.52.20:447][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.52.20:447][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.52.20:447][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.52.20:448][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.52.20:448][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.52.20:484][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.52.20:484][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.52.20:546][  0]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-11.52.20:552][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.52.20:554][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.52.20:555][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.52.20:556][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.52.20:556][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.52.20:556][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.52.20:557][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.52.20:557][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.52.20:557][  0]LogInit: FAudioDevice initialized.
+[2021.08.22-11.52.20:557][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.22-11.52.20:557][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.22-11.52.20:639][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Nickel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.22-11.52.20:643][  0]LogInit: Texture streaming: Enabled
+[2021.08.22-11.52.20:662][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.22-11.52.20:668][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.22-11.52.20:668][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.22-11.52.20:672][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.22-11.52.20:706][  0]LogInit: Transaction tracking system initialized
+[2021.08.22-11.52.20:740][  0]BlueprintLog: New page: 编辑器加载
+[2021.08.22-11.52.20:861][  0]LocalizationService: 本地化服务已禁用
+[2021.08.22-11.52.20:898][  0]TimingProfiler: Initialize
+[2021.08.22-11.52.20:898][  0]TimingProfiler: OnSessionChanged
+[2021.08.22-11.52.20:898][  0]LoadingProfiler: Initialize
+[2021.08.22-11.52.20:898][  0]LoadingProfiler: OnSessionChanged
+[2021.08.22-11.52.20:898][  0]NetworkingProfiler: Initialize
+[2021.08.22-11.52.20:898][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.22-11.52.20:898][  0]MemoryProfiler: Initialize
+[2021.08.22-11.52.20:898][  0]MemoryProfiler: OnSessionChanged
+[2021.08.22-11.52.21:147][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.22-11.52.21:147][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.22-11.52.21:383][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/' took 0.01s
+[2021.08.22-11.52.21:683][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.22-11.52.21:688][  0]SourceControl: 源码管理已禁用
+[2021.08.22-11.52.21:688][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.550
+[2021.08.22-11.52.21:688][  0]Cmd: MAP LOAD FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Maps/StartMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.22-11.52.21:688][  0]LightingResults: New page: 光照构建
+[2021.08.22-11.52.21:690][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.52.21:690][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.52.21:690][  0]MapCheck: New page: 地图检测
+[2021.08.22-11.52.21:690][  0]LightingResults: New page: 光照构建
+[2021.08.22-11.52.21:698][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.22-11.52.22:208][  0]LogTexture: Display: 正在编译纹理：GameLogo（AutoDXT、1400X512）
+[2021.08.22-11.52.22:215][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMap'.
+[2021.08.22-11.52.22:216][  0]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.52.22:235][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.22-11.52.22:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.08.22-11.52.22:258][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.22-11.52.22:258][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.205毫秒。
+[2021.08.22-11.52.22:258][  0]LogFileHelpers: Loading map 'StartMap' took 0.570
+[2021.08.22-11.52.22:260][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.122
+[2021.08.22-11.52.22:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.52.22:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.52.22:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.52.22:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.52.22:455][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3628 classes and 872 folders.
+[2021.08.22-11.52.22:458][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.22-11.52.22:459][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.22-11.52.22:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.22-11.52.22:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.22-11.52.22:461][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.22-11.52.22:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.22-11.52.22:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.22-11.52.22:461][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.22-11.52.22:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.22-11.52.22:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.22-11.52.22:462][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.22-11.52.22:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.22-11.52.22:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.22-11.52.22:463][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.22-11.52.22:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.22-11.52.22:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.22-11.52.22:464][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.22-11.52.22:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.22-11.52.22:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.22-11.52.22:465][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.22-11.52.22:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.22-11.52.22:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.22-11.52.22:465][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.22-11.52.22:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.22-11.52.22:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.22-11.52.22:466][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.22-11.52.22:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.22-11.52.22:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.22-11.52.22:467][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.22-11.52.22:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.22-11.52.22:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.22-11.52.22:468][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.22-11.52.22:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.22-11.52.22:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.22-11.52.22:468][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.22-11.52.22:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.22-11.52.22:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.22-11.52.22:469][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.22-11.52.22:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.22-11.52.22:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.22-11.52.22:470][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.22-11.52.22:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.22-11.52.22:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.22-11.52.22:471][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.22-11.52.22:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.22-11.52.22:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.22-11.52.22:472][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.22-11.52.22:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.22-11.52.22:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.22-11.52.22:472][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.22-11.52.22:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.22-11.52.22:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.22-11.52.22:473][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.22-11.52.22:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.22-11.52.22:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.22-11.52.22:474][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.22-11.52.22:474][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.22-11.52.22:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.22-11.52.22:475][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.22-11.52.22:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.22-11.52.22:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.22-11.52.22:475][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.22-11.52.22:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.22-11.52.22:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.22-11.52.22:476][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.22-11.52.22:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.22-11.52.22:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.08.22-11.52.22:477][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.22-11.52.22:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.22-11.52.22:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.22-11.52.22:478][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.22-11.52.22:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.22-11.52.22:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.08.22-11.52.22:478][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.22-11.52.22:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.22-11.52.22:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.08.22-11.52.22:479][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.22-11.52.22:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.22-11.52.22:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.22-11.52.22:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.22-11.52.22:534][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.22-11.52.22:535][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.22-11.52.22:690][  0]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.22-11.52.22:698][  0]LogSlate: Took 0.005371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.22-11.52.22:699][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.22-11.52.22:703][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.22-11.52.22:842][  0]LogRenderer: Reallocating scene render targets to support 916x508 Format 10 NumSamples 1 (Frame:1).
+[2021.08.22-11.52.22:997][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.22-11.52.22:997][  0]LogLoad: (Engine Initialization) Total time: 11.86 seconds
+[2021.08.22-11.52.22:997][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.22-11.52.22:997][  0]LogInit: First time updating LLM stats...
+[2021.08.22-11.52.23:063][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.22-11.52.23:080][  1]LogAssetRegistry: Asset discovery search completed in 7.5240 seconds
+[2021.08.22-11.52.23:081][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.22-11.52.23:411][  3]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.22-11.52.26:375][301]LogTemp: Repeating last play command: 选中的视口
+[2021.08.22-11.52.26:385][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-11.52.26:385][301]PIE: New page: PIE会话：StartMap（2021年8月23日 上午3:52:26）
+[2021.08.22-11.52.26:386][301]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.22-11.52.26:387][301]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.22-11.52.26:388][301]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.52.26:398][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009940s)
+[2021.08.22-11.52.26:399][301]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.52.26:399][301]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2021.08.22-11.52.26:399][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.011304s)
+[2021.08.22-11.52.26:407][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.22-11.52.26:408][301]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.52.26:408][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.52.26:408][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.52.26:409][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.52.26:409][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.52.26:415][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.52.26:415][301]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.52.26:456][301]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-11.52.26:456][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.52.26:456][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.52.26:456][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.52.26:457][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.52.26:457][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.52.26:457][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.52.26:474][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.52.26:474][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.52.26:474][301]LogInit: FAudioDevice initialized.
+[2021.08.22-11.52.26:474][301]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMap'.
+[2021.08.22-11.52.26:486][301]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.52.26:491][301]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.22-19.52.26
+[2021.08.22-11.52.26:491][301]LogWorld: Bringing up level for play took: 0.003470
+[2021.08.22-11.52.26:491][301]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.08.22-11.52.26:495][301]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.22-11.52.26:496][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-11.52.26:498][301]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-11.52.26:498][301]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-11.52.26:498][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-11.52.26:498][301]PIE: 登陆的服务器
+[2021.08.22-11.52.26:499][301]PIE: PIE总开始时间：0.116秒。
+[2021.08.22-11.52.26:619][301]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.52.29:434][591]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.52.29:434][591]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.52.29:434][591]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.52.29:435][591]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.52.29:436][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.52.29:491][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.52.29:493][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.08.22-11.52.29:683][591]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.08.22-11.52.29:684][591]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.52.29:684][591]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.52.29:708][591]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.22-19.52.29
+[2021.08.22-11.52.29:709][591]LogWorld: Bringing up level for play took: 0.022572
+[2021.08.22-11.52.29:711][591]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-11.52.29:711][591]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-11.52.29:711][591]LogLoad: Took 0.277024 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-11.52.29:717][591]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.52.31:302][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.52.31:302][710]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.52.31:303][710]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.52.31:304][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.52.31:316][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-11.52.31:317][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.52.31:324][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.52.31:325][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.52.31:326][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.52.31:355][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.08.22-11.52.31:377][711]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.08.22-11.52.34:180][962]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.22-11.52.34:200][962]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-11.52.34:278][962]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.08.22-11.52.35:589][962]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.22-11.53.56:063][987]LogContentBrowser: Deferred new asset file creation: soundFail_Cue
+[2021.08.22-11.53.56:095][987]LogContentBrowser: Creating deferred item: soundFail_Cue
+[2021.08.22-11.53.58:559][234]LogContentBrowser: Attempting asset rename: soundFail_Cue -> soundFail_Cue
+[2021.08.22-11.53.58:561][234]LogContentBrowser: End creating deferred item soundFail_Cue
+[2021.08.22-11.54.09:044][934]LogContentBrowser: Deferred new asset file creation: menuSoundEffect_Cue
+[2021.08.22-11.54.09:075][934]LogContentBrowser: Creating deferred item: menuSoundEffect_Cue
+[2021.08.22-11.54.10:941][111]LogContentBrowser: Attempting asset rename: menuSoundEffect_Cue -> menuSoundEffect_Cue
+[2021.08.22-11.54.10:942][111]LogContentBrowser: End creating deferred item menuSoundEffect_Cue
+[2021.08.22-11.54.17:231][581]LogContentBrowser: Deferred new asset file creation: Grab_Cue
+[2021.08.22-11.54.17:257][581]LogContentBrowser: Creating deferred item: Grab_Cue
+[2021.08.22-11.54.18:318][678]LogContentBrowser: Attempting asset rename: Grab_Cue -> Grab_Cue
+[2021.08.22-11.54.18:320][678]LogContentBrowser: End creating deferred item Grab_Cue
+[2021.08.22-11.54.35:505][ 72]LogContentBrowser: Deferred new asset file creation: brightSuccess_Cue
+[2021.08.22-11.54.35:530][ 72]LogContentBrowser: Creating deferred item: brightSuccess_Cue
+[2021.08.22-11.54.36:454][150]LogContentBrowser: Attempting asset rename: brightSuccess_Cue -> brightSuccess_Cue
+[2021.08.22-11.54.36:456][150]LogContentBrowser: End creating deferred item brightSuccess_Cue
+[2021.08.22-11.54.53:234][479]LogContentBrowser: Deferred new asset file creation: Submit_Cue
+[2021.08.22-11.54.53:267][479]LogContentBrowser: Creating deferred item: Submit_Cue
+[2021.08.22-11.54.54:515][597]LogContentBrowser: Attempting asset rename: Submit_Cue -> Submit_Cue
+[2021.08.22-11.54.54:516][597]LogContentBrowser: End creating deferred item Submit_Cue
+[2021.08.22-11.55.06:427][219]BlueprintLog: New page: 编译HUD
+[2021.08.22-11.55.06:519][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.08.22-11.55.06:572][219]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.22-11.55.06:946][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-11.55.07:034][256]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUD392B663946D28133C3D824B6744FE5BF.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-11.55.07:059][256]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-11.55.07:059][256]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-11.55.09:195][430]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/KenneyJam2021/Sound/Submit_Cue.Submit_Cue
+[2021.08.22-11.55.13:225][633]LogSlate: Window 'Submit_Cue' being destroyed
+[2021.08.22-11.55.48:057][137]BlueprintLog: New page: 编译HUD
+[2021.08.22-11.55.48:146][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.08.22-11.55.48:733][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-11.55.48:817][187]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUD9DCEACCC42F2C11A48F1538CC0A70824.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-11.55.48:845][187]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-11.55.48:845][187]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-11.55.49:659][258]LogTemp: Repeating last play command: 选中的视口
+[2021.08.22-11.55.49:668][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-11.55.49:669][258]PIE: New page: PIE会话：StartMap（2021年8月23日 上午3:55:49）
+[2021.08.22-11.55.49:669][258]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.55.49:679][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010289s)
+[2021.08.22-11.55.49:680][258]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.55.49:681][258]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2021.08.22-11.55.49:681][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.011966s)
+[2021.08.22-11.55.49:718][258]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.22-11.55.49:720][258]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.55.49:720][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.55.49:720][258]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.55.49:720][258]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.55.49:726][258]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.55.49:727][258]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.55.49:767][258]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-11.55.49:768][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.55.49:768][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.55.49:768][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.55.49:768][258]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.55.49:768][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.55.49:768][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.55.49:786][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.55.49:786][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.55.49:786][258]LogInit: FAudioDevice initialized.
+[2021.08.22-11.55.49:786][258]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMap'.
+[2021.08.22-11.55.49:852][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.55.49:853][258]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.55.49:864][258]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.22-19.55.49
+[2021.08.22-11.55.49:865][258]LogWorld: Bringing up level for play took: 0.011431
+[2021.08.22-11.55.49:865][258]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.08.22-11.55.49:869][258]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-11.55.49:869][258]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-11.55.49:870][258]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-11.55.49:870][258]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-11.55.49:871][258]PIE: 登陆的服务器
+[2021.08.22-11.55.49:872][258]PIE: PIE总开始时间：0.205秒。
+[2021.08.22-11.55.49:873][258]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.55.50:017][259]LogRenderer: Reallocating scene render targets to support 1528x832 Format 10 NumSamples 1 (Frame:1).
+[2021.08.22-11.55.51:164][327]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.55.51:164][327]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.55.51:164][327]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.55.51:164][327]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.55.51:165][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.55.51:239][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.55.51:244][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.08.22-11.55.51:278][327]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.08.22-11.55.51:279][327]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.55.51:280][327]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.55.51:303][327]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.22-19.55.51
+[2021.08.22-11.55.51:303][327]LogWorld: Bringing up level for play took: 0.022182
+[2021.08.22-11.55.51:305][327]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-11.55.51:305][327]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-11.55.51:306][327]LogLoad: Took 0.141740 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-11.55.51:312][327]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.55.51:319][327]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/KenneyJam2021/Sound/soundFail_Cue.soundFail_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.08.22-11.55.52:622][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.55.52:622][403]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.55.52:622][403]LogSlate: Window 'KenneyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.22-11.55.52:630][403]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.55.52:632][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.55.52:649][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-11.55.52:656][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.55.52:698][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.55.52:698][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.55.52:699][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.55.52:734][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.08.22-11.55.52:764][404]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.08.22-11.55.59:274][ 95]LogTemp: Repeating last play command: 选中的视口
+[2021.08.22-11.55.59:283][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-11.55.59:283][ 95]PIE: New page: PIE会话：StartMap（2021年8月23日 上午3:55:59）
+[2021.08.22-11.55.59:310][ 95]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.55.59:317][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007481s)
+[2021.08.22-11.55.59:318][ 95]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-11.55.59:319][ 95]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2021.08.22-11.55.59:319][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.008944s)
+[2021.08.22-11.55.59:349][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.08.22-11.55.59:351][ 95]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-11.55.59:351][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-11.55.59:351][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-11.55.59:352][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-11.55.59:352][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-11.55.59:358][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-11.55.59:358][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-11.55.59:404][ 95]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-11.55.59:405][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-11.55.59:405][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-11.55.59:405][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-11.55.59:405][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-11.55.59:405][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-11.55.59:405][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-11.55.59:425][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-11.55.59:425][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-11.55.59:425][ 95]LogInit: FAudioDevice initialized.
+[2021.08.22-11.55.59:426][ 95]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMap'.
+[2021.08.22-11.55.59:436][ 95]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.55.59:440][ 95]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.22-19.55.59
+[2021.08.22-11.55.59:440][ 95]LogWorld: Bringing up level for play took: 0.003158
+[2021.08.22-11.55.59:440][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.08.22-11.55.59:443][ 95]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-11.55.59:444][ 95]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-11.55.59:444][ 95]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-11.55.59:444][ 95]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-11.55.59:444][ 95]PIE: 登陆的服务器
+[2021.08.22-11.55.59:445][ 95]PIE: PIE总开始时间：0.164秒。
+[2021.08.22-11.55.59:572][ 95]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.56.00:917][218]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.56.00:917][218]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-11.56.00:917][218]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-11.56.00:917][218]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.56.00:918][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.56.00:988][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-11.56.00:992][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.08.22-11.56.01:026][218]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2021.08.22-11.56.01:027][218]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-11.56.01:027][218]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-11.56.01:048][218]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.22-19.56.01
+[2021.08.22-11.56.01:048][218]LogWorld: Bringing up level for play took: 0.020077
+[2021.08.22-11.56.01:050][218]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-11.56.01:050][218]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-11.56.01:051][218]LogLoad: Took 0.133882 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-11.56.01:162][218]LogAudio: Warning: Detected orphaned looping sound 'Background'.
+[2021.08.22-11.56.03:782][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.56.03:782][445]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-11.56.03:782][445]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.56.03:784][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.56.03:797][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-11.56.03:801][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.56.03:829][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-11.56.03:830][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.56.03:831][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-11.56.03:860][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.08.22-11.56.03:886][446]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.08.22-11.56.40:141][969]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Nickel\Downloads\KennyJam2021.wav)
+[2021.08.22-11.56.44:941][151]LogContentBrowser: Deferred new asset file creation: KennyJam2021_Cue
+[2021.08.22-11.56.44:973][151]LogContentBrowser: Creating deferred item: KennyJam2021_Cue
+[2021.08.22-11.56.46:495][290]LogContentBrowser: Attempting asset rename: KennyJam2021_Cue -> KennyJam2021_Cue
+[2021.08.22-11.56.46:497][290]LogContentBrowser: End creating deferred item KennyJam2021_Cue
+[2021.08.22-11.57.08:871][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.08.22-11.57.20:174][953]LogSlate: Window '替换引用？' being destroyed
+[2021.08.22-11.57.20:180][953]Message dialog closed, result: Ok, title: 替换引用？, text: 此操作将使用KennyJam2021_Cue替换对待删除资产的所有引用，然后将它们删除。
+
+确定进行此操作吗？
+[2021.08.22-11.57.20:180][953]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.22-11.57.20:205][953]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.57.20:205][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.57.20:219][953]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.57.20:219][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-11.57.21:194][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.08.22-11.57.23:043][953]LogSlate: Window '保存内容' being destroyed
+[2021.08.22-11.57.23:081][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Sound/Background" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/Background.uasset" SILENT=true
+[2021.08.22-11.57.23:083][953]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Background7D90882F42CC04F5BB97F688479ED334.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/Background.uasset'
+[2021.08.22-11.57.23:088][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.22-11.57.23:275][953]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/MagicianEB6C0E4941A3F73163A6D69E7FA04D22.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.22-11.57.23:296][953]AssetCheck: New page: 资产保存：多个资产
+[2021.08.22-11.57.23:296][953]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.57.23:296][953]LogContentValidation: Display: 正在验证ObjectRedirector /Game/KenneyJam2021/Sound/Background.Background
+[2021.08.22-11.57.29:742][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.08.22-11.57.46:555][486]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.22-11.58.04:297][244]LogContentBrowser: Attempting asset rename: KennyJam2021_Cue -> background_Cue
+[2021.08.22-11.58.04:330][244]LogMetaData: Removing '/Game/KenneyJam2021/Sound/background_Cue.background_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/KenneyJam2021/Sound/KennyJam2021_Cue.PackageMetaData'
+[2021.08.22-11.58.04:383][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Sound/background_Cue" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/background_Cue.uasset" SILENT=true
+[2021.08.22-11.58.04:385][244]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/background_Cue91D8EE80414820C85EA1828AB677EBB5.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/background_Cue.uasset'
+[2021.08.22-11.58.04:498][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.22-11.58.04:533][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.08.22-11.58.04:552][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.22-11.58.04:581][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.22-11.58.04:878][244]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Magician3F9E8E00433FEC0557B81AA2F79772D8.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.22-11.58.04:880][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Sound/Background" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/Background.uasset" SILENT=true
+[2021.08.22-11.58.04:881][244]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Background409238484191364A8F5C65B943BA13C7.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/Background.uasset'
+[2021.08.22-11.58.04:930][244]AssetCheck: New page: 资产保存：多个资产
+[2021.08.22-11.58.04:930][244]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.58.04:930][244]LogContentValidation: Display: 正在验证SoundCue /Game/KenneyJam2021/Sound/background_Cue.background_Cue
+[2021.08.22-11.58.04:930][244]LogContentValidation: Display: 正在验证ObjectRedirector /Game/KenneyJam2021/Sound/Background.Background
+[2021.08.22-11.58.09:407][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.22-11.58.10:418][617]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.22-11.58.10:586][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.08.22-11.58.10:629][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.08.22-11.58.10:650][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.22-11.58.16:459][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.22-11.58.17:481][142]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.22-11.58.17:650][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.08.22-11.58.17:671][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.22-11.58.17:706][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.22-11.58.17:725][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.22-11.58.27:145][997]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.58.27:872][998]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.22-11.58.37:329][790]BlueprintLog: New page: 编译Magician
+[2021.08.22-11.58.37:434][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.08.22-11.58.38:059][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.22-11.58.38:218][828]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Magician745BB83D4532811A6EFCFCA417975878.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.22-11.58.38:236][828]AssetCheck: New page: 资产保存：Magician
+[2021.08.22-11.58.38:237][828]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.58.53:587][ 66]BlueprintLog: New page: 编译Magician
+[2021.08.22-11.58.53:679][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.08.22-11.58.54:186][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.22-11.58.54:373][ 93]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Magician4732B97C4C87D89E7073A1B46A588A26.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.22-11.58.54:393][ 93]AssetCheck: New page: 资产保存：Magician
+[2021.08.22-11.58.54:393][ 93]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.59.08:521][161]BlueprintLog: New page: 编译Magician
+[2021.08.22-11.59.08:622][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.08.22-11.59.09:551][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.22-11.59.09:723][224]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Magician01966E7E4C90ACF68D0D1EA711028F9A.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.22-11.59.09:746][224]AssetCheck: New page: 资产保存：Magician
+[2021.08.22-11.59.09:746][224]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.59.31:015][158]BlueprintLog: New page: 编译Magician
+[2021.08.22-11.59.31:103][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.08.22-11.59.31:713][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.22-11.59.31:867][209]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/Magician882A608B479E2621B61CA2BD054A5A91.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.22-11.59.31:887][209]AssetCheck: New page: 资产保存：Magician
+[2021.08.22-11.59.31:887][209]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.22-11.59.41:820][312]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-11.59.41:821][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.00.04:236][224]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.00.21:433][911]BlueprintLog: New page: 编译HUD
+[2021.08.22-12.00.21:499][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.08.22-12.00.22:116][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-12.00.22:208][968]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUD142E33E046DDA2ACC19FD2A27AE01776.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-12.00.22:231][968]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-12.00.22:231][968]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.00.29:975][703]BlueprintLog: New page: 编译HUD
+[2021.08.22-12.00.30:049][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.08.22-12.00.30:829][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-12.00.30:914][776]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUDA0C00704416A5A651C6C478C410E04D4.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-12.00.30:933][776]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-12.00.30:933][776]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.00.33:030][992]LogTemp: Repeating last play command: 选中的视口
+[2021.08.22-12.00.33:042][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-12.00.33:042][992]PIE: New page: PIE会话：StartMap（2021年8月23日 上午4:00:33）
+[2021.08.22-12.00.33:042][992]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-12.00.33:049][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007341s)
+[2021.08.22-12.00.33:050][992]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-12.00.33:051][992]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2021.08.22-12.00.33:051][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.008719s)
+[2021.08.22-12.00.33:079][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.08.22-12.00.33:081][992]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.22-12.00.33:081][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-12.00.33:082][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-12.00.33:082][992]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-12.00.33:082][992]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-12.00.33:088][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-12.00.33:088][992]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-12.00.33:131][992]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-12.00.33:131][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-12.00.33:131][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-12.00.33:131][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-12.00.33:132][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-12.00.33:132][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-12.00.33:132][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-12.00.33:151][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-12.00.33:151][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-12.00.33:151][992]LogInit: FAudioDevice initialized.
+[2021.08.22-12.00.33:151][992]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartMap'.
+[2021.08.22-12.00.33:216][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-12.00.33:216][992]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-12.00.33:224][992]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.22-20.00.33
+[2021.08.22-12.00.33:225][992]LogWorld: Bringing up level for play took: 0.007555
+[2021.08.22-12.00.33:225][992]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.08.22-12.00.33:230][992]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-12.00.33:231][992]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-12.00.33:231][992]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-12.00.33:231][992]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-12.00.33:232][992]PIE: 登陆的服务器
+[2021.08.22-12.00.33:233][992]PIE: PIE总开始时间：0.193秒。
+[2021.08.22-12.00.33:240][992]LogAudioDerivedData: Display: 构建压缩音频格式OGG散列OGG10000-1-1-1-1-1声波KennyJam2021...
+[2021.08.22-12.00.33:243][992]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/KenneyJam2021/Sound/KennyJam2021.KennyJam2021 will be modified from 40 to 40.
+[2021.08.22-12.00.33:834][992]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5492984 while cooking SoundWave /Game/KenneyJam2021/Sound/KennyJam2021.KennyJam2021.
+[2021.08.22-12.00.39:894][431]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-12.00.39:894][431]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-12.00.39:894][431]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-12.00.39:895][431]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-12.00.39:895][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.00.39:943][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-12.00.39:947][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.08.22-12.00.40:084][431]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2021.08.22-12.00.40:085][431]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-12.00.40:085][431]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-12.00.40:108][431]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.22-20.00.40
+[2021.08.22-12.00.40:108][431]LogWorld: Bringing up level for play took: 0.021107
+[2021.08.22-12.00.40:111][431]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-12.00.40:112][431]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-12.00.40:112][431]LogLoad: Took 0.218296 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-12.00.51:072][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-12.00.51:072][227]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-12.00.51:073][227]LogSlate: Window 'KenneyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.22-12.00.51:082][227]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-12.00.51:089][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.00.51:098][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-12.00.51:103][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.00.51:138][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-12.00.51:139][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-12.00.51:140][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-12.00.51:176][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.08.22-12.00.51:206][228]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.08.22-12.01.03:838][394]LogEditorTransaction: Undo 拖放控件
+[2021.08.22-12.01.08:221][721]LogEditorTransaction: Undo 拖放控件
+[2021.08.22-12.01.35:987][402]BlueprintLog: New page: 编译HUD
+[2021.08.22-12.01.36:051][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.08.22-12.01.36:917][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-12.01.37:003][472]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUD77F98BCE46E6E0897F45769636DEC137.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-12.01.37:018][472]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-12.01.37:018][472]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.01.55:809][379]LogTemp: Repeating last play command: 选中的视口
+[2021.08.22-12.01.55:823][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-12.01.55:823][379]PIE: New page: PIE会话：StartMap（2021年8月23日 上午4:01:55）
+[2021.08.22-12.01.55:823][379]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-12.01.55:834][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011439s)
+[2021.08.22-12.01.55:836][379]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-12.01.55:836][379]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.08.22-12.01.55:836][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.012974s)
+[2021.08.22-12.01.55:864][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.08.22-12.01.55:865][379]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-12.01.55:865][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-12.01.55:865][379]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-12.01.55:865][379]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-12.01.55:871][379]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-12.01.55:871][379]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-12.01.55:912][379]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-12.01.55:912][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-12.01.55:912][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-12.01.55:912][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-12.01.55:912][379]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-12.01.55:912][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-12.01.55:912][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-12.01.55:929][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-12.01.55:929][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-12.01.55:929][379]LogInit: FAudioDevice initialized.
+[2021.08.22-12.01.55:929][379]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartMap'.
+[2021.08.22-12.01.55:995][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-12.01.55:996][379]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-12.01.56:006][379]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.22-20.01.56
+[2021.08.22-12.01.56:008][379]LogWorld: Bringing up level for play took: 0.011218
+[2021.08.22-12.01.56:008][379]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.08.22-12.01.56:011][379]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-12.01.56:013][379]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-12.01.56:013][379]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-12.01.56:013][379]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-12.01.56:014][379]PIE: 登陆的服务器
+[2021.08.22-12.01.56:015][379]PIE: PIE总开始时间：0.194秒。
+[2021.08.22-12.01.57:146][435]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-12.01.57:146][435]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-12.01.57:146][435]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-12.01.57:147][435]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-12.01.57:147][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.01.57:202][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-12.01.57:207][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.08.22-12.01.57:242][435]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2021.08.22-12.01.57:243][435]LogAIModule: Creating AISystem for world Level1
+[2021.08.22-12.01.57:243][435]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-12.01.57:265][435]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.22-20.01.57
+[2021.08.22-12.01.57:265][435]LogWorld: Bringing up level for play took: 0.020923
+[2021.08.22-12.01.57:267][435]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.22-12.01.57:267][435]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.22-12.01.57:267][435]LogLoad: Took 0.120808 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.22-12.01.58:572][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-12.01.58:572][504]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.22-12.01.58:572][504]LogSlate: Window 'KenneyJam2021预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.22-12.01.58:576][504]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-12.01.58:579][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.01.58:593][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.22-12.01.58:597][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.01.58:626][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-12.01.58:626][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-12.01.58:627][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.22-12.01.58:679][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.08.22-12.01.58:704][505]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.08.22-12.02.22:753][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-12.02.22:838][630]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUD5E1BDD22468663680C1ED4BAC14595A1.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-12.02.22:852][630]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-12.02.22:852][630]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.02.29:552][244]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/KenneyJam2021/Widget/MainMenu.MainMenu
+[2021.08.22-12.02.41:396][323]BlueprintLog: New page: 编译MainMenu
+[2021.08.22-12.02.41:458][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.08.22-12.02.42:099][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/MainMenu" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/MainMenu.uasset" SILENT=true
+[2021.08.22-12.02.42:144][371]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/MainMenuEE4530224E29541549E5C19CC2378724.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/MainMenu.uasset'
+[2021.08.22-12.02.42:163][371]AssetCheck: New page: 资产保存：MainMenu
+[2021.08.22-12.02.42:163][371]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/MainMenu.MainMenu
+[2021.08.22-12.03.33:037][620]BlueprintLog: New page: 编译HUD
+[2021.08.22-12.03.33:105][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.08.22-12.03.33:785][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-12.03.33:870][674]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUDAA39A9D94B37A67C238A5CB498A6D758.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-12.03.33:890][674]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-12.03.33:891][674]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.03.53:058][750]BlueprintLog: New page: 编译HUD
+[2021.08.22-12.03.53:133][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.08.22-12.03.54:063][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.22-12.03.54:152][833]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Saved/HUDEBF84EC34CBDA333F52A7CAE011184B3.tmp' to 'F:/Unreal Projects/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.22-12.03.54:174][833]AssetCheck: New page: 资产保存：HUD
+[2021.08.22-12.03.54:174][833]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.22-12.03.54:932][903]LogTemp: Repeating last play command: 选中的视口
+[2021.08.22-12.03.54:943][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.22-12.03.54:943][903]PIE: New page: PIE会话：StartMap（2021年8月23日 上午4:03:54）
+[2021.08.22-12.03.54:943][903]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-12.03.54:951][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007724s)
+[2021.08.22-12.03.54:952][903]LogAIModule: Creating AISystem for world StartMap
+[2021.08.22-12.03.54:953][903]LogPlayLevel: PIE: World Init took: (0.001774s)
+[2021.08.22-12.03.54:953][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.009694s)
+[2021.08.22-12.03.54:989][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.08.22-12.03.54:990][903]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.22-12.03.54:990][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.22-12.03.54:990][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.22-12.03.54:991][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.22-12.03.54:991][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.22-12.03.54:997][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.22-12.03.54:997][903]LogAudioMixer: Display: 1: FrontRight
+[2021.08.22-12.03.55:039][903]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.22-12.03.55:039][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.22-12.03.55:040][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.22-12.03.55:040][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.22-12.03.55:040][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.22-12.03.55:040][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.22-12.03.55:040][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.22-12.03.55:058][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.22-12.03.55:058][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.22-12.03.55:058][903]LogInit: FAudioDevice initialized.
+[2021.08.22-12.03.55:058][903]LogAudio: Display: Audio Device (ID: 7) registered with world 'StartMap'.
+[2021.08.22-12.03.55:117][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.22-12.03.55:117][903]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.22-12.03.55:126][903]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.22-20.03.55
+[2021.08.22-12.03.55:126][903]LogWorld: Bringing up level for play took: 0.008432
+[2021.08.22-12.03.55:126][903]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.08.22-12.03.55:134][903]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.22-12.03.55:135][903]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.22-12.03.55:135][903]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.22-12.03.55:135][903]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.22-12.03.55:136][903]PIE: 登陆的服务器
+[2021.08.22-12.03.55:137][903]PIE: PIE总开始时间：0.196秒。
+[2021.08.22-12.03.56:451][974]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-12.03.56:451][974]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.22-12.03.56:451][974]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.22-12.03.56:451][974]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.22-12.03.56:452][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.22-12.03.56:535][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.22-12.03.56:539][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.08.22-12.03.56:539][974]LogLoad: Error: Previously active world /Engine/Transient.World_14 not cleaned up by garbage collection!
+[2021.08.22-12.03.56:539][974]LogLoad: Error: Once a world has become active, it cannot be reused and must be destroyed and reloaded. World referenced by:
+[2021.08.22-12.03.56:698][974]LogReferenceChain: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2021.08.22-12.03.56:698][974]LogReferenceChain:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2021.08.22-12.03.56:698][974]LogReferenceChain:   World /Engine/Transient.World_14
+[2021.08.22-12.03.56:698][974]LogReferenceChain:   
+[2021.08.22-12.03.56:698][974]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.22-12.03.56:698][974]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2021.08.22-12.04.00:497][974]LogWindows: Error: === Critical error: ===
+[2021.08.22-12.04.00:497][974]LogWindows: Error: 
+[2021.08.22-12.04.00:497][974]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EditorEngine.cpp] [Line: 7234] 
+[2021.08.22-12.04.00:497][974]LogWindows: Error: Previously active world /Engine/Transient.World_14 not cleaned up by garbage collection! Referenced by:
+[2021.08.22-12.04.00:497][974]LogWindows: Error: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2021.08.22-12.04.00:497][974]LogWindows: Error:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2021.08.22-12.04.00:497][974]LogWindows: Error:   World /Engine/Transient.World_14
+[2021.08.22-12.04.00:497][974]LogWindows: Error: 
+[2021.08.22-12.04.00:497][974]LogWindows: Error: 
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffe46fe96c9 KERNELBASE.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffe036ed066 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffe036f07a8 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffe033fe8cd UE4Editor-Core.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffdf321ddd2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffdf5c5ba02 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffdf5c08502 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffdf5c7a7fd UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffdf3218ef2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffdf3b350e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ff6af289bc2 UE4Editor.exe!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ff6af2a117c UE4Editor.exe!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ff6af2a125a UE4Editor.exe!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ff6af2b52bd UE4Editor.exe!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ff6af2b7fea UE4Editor.exe!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffe4a1d7974 KERNEL32.DLL!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: [Callstack] 0x00007ffe4ae3a0b1 ntdll.dll!UnknownFunction []
+[2021.08.22-12.04.00:497][974]LogWindows: Error: 
+[2021.08.22-12.04.00:567][974]LogExit: Executing StaticShutdownAfterError
+[2021.08.22-12.04.00:572][974]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.08.22-12.04.00:572][974]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.22-12.04.00:605][974]Log file closed, 08/22/21 20:04:00
