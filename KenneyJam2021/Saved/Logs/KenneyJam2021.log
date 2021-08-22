@@ -1100,3 +1100,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.22-11.10.55:750][138]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/GameLogo50E07B8148EB7A09067F22A03DF6B58A.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Widget/UI_Elements/GameLogo.uasset'
 [2021.08.22-11.10.55:771][138]AssetCheck: New page: Asset Save: GameLogo
 [2021.08.22-11.10.55:771][138]LogContentValidation: Display: Validating Texture2D /Game/KenneyJam2021/Widget/UI_Elements/GameLogo.GameLogo
+[2021.08.22-11.17.57:701][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.08.22-11.17.59:129][329]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.22-11.17.59:234][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.22-11.17.59:241][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.08.22-11.17.59:255][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.22-11.17.59:262][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.08.22-11.18.12:590][879]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\sound\webDownload\_wav\manuSoundEffect.wav)
+[2021.08.22-11.18.12:619][879]Error: Unable to read wave file 'manuSoundEffect' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2021.08.22-11.18.12:739][879]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\sound\webDownload\_wav\soundFail.wav)
+[2021.08.22-11.18.12:739][879]Error: Unable to read wave file 'soundFail' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2021.08.22-11.18.12:764][879]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\VivianCHEN\Portfolio\gameJam!\KennyJam_2021_Aug\sound\webDownload\_wav\brightSuccess.wav)
+[2021.08.22-11.18.12:764][879]Error: Unable to read wave file 'brightSuccess' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2021.08.22-11.18.14:759][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.22-11.18.15:642][931]LogSlate: Window 'Save Content' being destroyed
+[2021.08.22-11.18.15:682][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Sound/brightSuccess" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/brightSuccess.uasset" SILENT=true
+[2021.08.22-11.18.15:686][931]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/brightSuccess0A32802A4A2998C70516F58C42D75E5C.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/brightSuccess.uasset'
+[2021.08.22-11.18.15:694][931]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/manuSoundEffect454D97EC4DF7BB7A6760C58F60A08712.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/manuSoundEffect.uasset'
+[2021.08.22-11.18.15:698][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Sound/soundFail" FILE="../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/soundFail.uasset" SILENT=true
+[2021.08.22-11.18.15:701][931]LogSavePackage: Moving '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Saved/soundFail3CC2F25A4BE0601C91011DBA1F3ABC53.tmp' to '../../../../../../VivianCHEN/Github/kennyjam_test/KenneyJam2021/Content/KenneyJam2021/Sound/soundFail.uasset'
+[2021.08.22-11.18.15:720][931]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.22-11.18.15:720][931]LogContentValidation: Display: Validating SoundWave /Game/KenneyJam2021/Sound/brightSuccess.brightSuccess
+[2021.08.22-11.18.15:720][931]LogContentValidation: Display: Validating SoundWave /Game/KenneyJam2021/Sound/soundFail.soundFail
+[2021.08.22-11.18.15:720][931]LogContentValidation: Display: Validating SoundWave /Game/KenneyJam2021/Sound/manuSoundEffect.manuSoundEffect
