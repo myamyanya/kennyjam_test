@@ -2347,3 +2347,897 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.23-14.30.29:289][399]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
 [2021.08.23-14.31.45:182][319]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2021.08.23-14.31.45:182][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.34.08:907][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cheese_wedge8)
+[2021.08.23-14.34.45:373][606]LogEditorViewport: Clicking on Actor (LMB): Bread_C (Bread)
+[2021.08.23-14.34.55:404][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Bread.Bread
+[2021.08.23-14.34.59:679][830]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.34.59:679][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.34.59:755][830]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Bread.Bread
+[2021.08.23-14.35.07:959][344]BlueprintLog: New page: 编译Bread
+[2021.08.23-14.35.08:081][344]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.08.23-14.35.08:572][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Item/Food/Bread" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/Food/Bread.uasset" SILENT=true
+[2021.08.23-14.35.08:580][377]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/BreadA133EC3647A325C9CDD899BC672D601B.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/Food/Bread.uasset'
+[2021.08.23-14.35.08:667][377]AssetCheck: New page: 资产保存：Bread
+[2021.08.23-14.35.08:667][377]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Bread.Bread
+[2021.08.23-14.35.30:091][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.23-14.35.30:091][178]PIE: New page: PIE会话：StartMap（2021年8月24日 上午6:35:30）
+[2021.08.23-14.35.30:128][178]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.23-14.35.30:137][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008722s)
+[2021.08.23-14.35.30:138][178]LogAIModule: Creating AISystem for world StartMap
+[2021.08.23-14.35.30:138][178]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2021.08.23-14.35.30:139][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.010506s)
+[2021.08.23-14.35.30:182][178]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.08.23-14.35.30:187][178]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.23-14.35.30:187][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.23-14.35.30:187][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.23-14.35.30:187][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.23-14.35.30:187][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.23-14.35.30:187][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.23-14.35.30:188][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.23-14.35.30:188][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.23-14.35.30:188][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.23-14.35.30:188][178]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.23-14.35.30:188][178]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.23-14.35.30:196][178]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.23-14.35.30:196][178]LogAudioMixer: Display: 1: FrontRight
+[2021.08.23-14.35.30:243][178]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.23-14.35.30:244][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.23-14.35.30:244][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.23-14.35.30:244][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.23-14.35.30:244][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.23-14.35.30:244][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.23-14.35.30:244][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.23-14.35.30:263][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.23-14.35.30:263][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.23-14.35.30:263][178]LogInit: FAudioDevice initialized.
+[2021.08.23-14.35.30:263][178]LogAudio: Display: Audio Device (ID: 19) registered with world 'StartMap'.
+[2021.08.23-14.35.30:270][178]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.23-14.35.30:275][178]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.23-22.35.30
+[2021.08.23-14.35.30:275][178]LogWorld: Bringing up level for play took: 0.003670
+[2021.08.23-14.35.30:275][178]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.23-14.35.30:278][178]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.23-14.35.30:279][178]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.23-14.35.30:279][178]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.23-14.35.30:279][178]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.23-14.35.30:279][178]PIE: 登陆的服务器
+[2021.08.23-14.35.30:280][178]PIE: PIE总开始时间：0.192秒。
+[2021.08.23-14.35.30:452][178]LogAudio: Warning: Detected orphaned looping sound 'background_Cue'.
+[2021.08.23-14.35.32:901][408]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.23-14.35.32:901][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.23-14.35.38:631][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.23-14.35.38:631][950]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.23-14.35.38:631][950]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.35.38:632][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.35.38:642][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.23-14.35.38:655][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.35.38:688][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.23-14.35.38:688][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.23-14.35.38:689][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.23-14.35.38:714][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.23-14.35.38:718][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.08.23-14.35.38:753][951]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.23-14.35.41:843][144]Cmd: TRANSACTION UNDO
+[2021.08.23-14.35.41:843][144]LogEditorTransaction: Undo 替换组件使用的材质
+[2021.08.23-14.35.48:784][784]BlueprintLog: New page: 编译Bread
+[2021.08.23-14.35.48:855][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.08.23-14.35.49:594][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Item/Food/Bread" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/Food/Bread.uasset" SILENT=true
+[2021.08.23-14.35.49:601][833]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/Bread5AA1A0C84788FC88193D0C8AD5C1E239.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/Food/Bread.uasset'
+[2021.08.23-14.35.49:620][833]AssetCheck: New page: 资产保存：Bread
+[2021.08.23-14.35.49:620][833]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Bread.Bread
+[2021.08.23-14.35.55:532][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.35.55:574][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.08.23-14.35.55:607][315]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap8622227240E8A52D7C1496A00E1EF309.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.35.55:622][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.35.55:755][315]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltData78CE46AC4507E22597D168A27C33D286.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.35.55:779][315]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.35.55:779][315]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.35.55:779][315]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.36.12:155][533]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.36.12:155][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.36.14:367][770]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.36.14:367][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.36.14:376][770]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.36.14:376][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.36.57:643][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.23-14.37.00:592][879]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.37.00:804][879]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.08.23-14.37.00:826][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.08.23-14.37.00:848][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.23-14.37.00:868][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.23-14.37.00:889][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.23-14.37.00:910][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.23-14.37.00:930][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.23-14.37.00:951][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.23-14.37.00:987][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.23-14.37.01:008][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.23-14.37.11:712][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.23-14.37.13:886][485]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.37.14:737][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.23-14.37.15:693][516]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.37.17:197][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.08.23-14.37.21:579][577]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.38.27:386][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/cloudMaskMaterial" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/cloudMaskMaterial.uasset" SILENT=true
+[2021.08.23-14.38.27:393][634]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/cloudMaskMaterial90EC39454EF5ACCBAD7968B76CE50084.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/cloudMaskMaterial.uasset'
+[2021.08.23-14.38.27:413][634]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_cloudMaskMaterial_lv1ECFE28C8479236C4784446B62A9C2A57.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/_Inst_cloudMaskMaterial_lv1.uasset'
+[2021.08.23-14.38.27:414][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/_Inst_cloudMaskMaterial_lv1" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/_Inst_cloudMaskMaterial_lv1.uasset" SILENT=true
+[2021.08.23-14.38.27:415][634]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_cloudMaskMaterial_lv1E7EF52074909FDE2A95557B89B3974B6.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/_Inst_cloudMaskMaterial_lv1.uasset'
+[2021.08.23-14.38.27:434][634]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_cloudMaskMaterial_lv21471240C442BC41E429A918EF7455FD2.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/_Inst_cloudMaskMaterial_lv2.uasset'
+[2021.08.23-14.38.27:435][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/_Inst_cloudMaskMaterial_lv2" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/_Inst_cloudMaskMaterial_lv2.uasset" SILENT=true
+[2021.08.23-14.38.27:437][634]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_cloudMaskMaterial_lv2EC5120B241571C5EB88C8AADF59E06F5.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/_Inst_cloudMaskMaterial_lv2.uasset'
+[2021.08.23-14.38.27:444][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/cloudMask" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/cloudMask.uasset" SILENT=true
+[2021.08.23-14.38.27:449][634]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/cloudMaskF8ED080545614BFCD50849A00FFAE144.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/cloudMask.uasset'
+[2021.08.23-14.38.27:522][634]LogUObjectGlobals: Warning: 寻找对象“Object /Game/KenneyJam2021/cloudMaskMaterial.cloudMaskMaterial”失败
+[2021.08.23-14.38.27:523][634]LogUObjectGlobals: Warning: 寻找对象“Object /Game/KenneyJam2021/cloudMask.cloudMask”失败
+[2021.08.23-14.38.27:578][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.08.23-14.38.27:603][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.23-14.38.27:635][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.08.23-14.38.27:657][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.23-14.38.27:723][634]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.38.27:724][634]LogContentValidation: Display: 正在验证Texture2D /Game/KenneyJam2021/Maps/cloudMask.cloudMask
+[2021.08.23-14.38.27:724][634]LogContentValidation: Display: 正在验证Material /Game/KenneyJam2021/Maps/cloudMaskMaterial.cloudMaskMaterial
+[2021.08.23-14.38.27:724][634]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/KenneyJam2021/Maps/_Inst_cloudMaskMaterial_lv1._Inst_cloudMaskMaterial_lv1
+[2021.08.23-14.38.27:724][634]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/KenneyJam2021/Maps/_Inst_cloudMaskMaterial_lv2._Inst_cloudMaskMaterial_lv2
+[2021.08.23-14.38.27:724][634]LogContentValidation: Display: 正在验证ObjectRedirector /Game/KenneyJam2021/_Inst_cloudMaskMaterial_lv2._Inst_cloudMaskMaterial_lv2
+[2021.08.23-14.38.27:724][634]LogContentValidation: Display: 正在验证ObjectRedirector /Game/KenneyJam2021/_Inst_cloudMaskMaterial_lv1._Inst_cloudMaskMaterial_lv1
+[2021.08.23-14.38.30:576][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.38.30:604][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.08.23-14.38.30:641][849]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap9117AEEF4EB5FB6FE72F58B980BF6D97.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.38.30:653][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.38.30:786][849]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltData68ADB62F4D7661A4D67F6D876D9C060F.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.38.30:805][849]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.38.30:806][849]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.38.30:806][849]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.38.42:702][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.23-14.39.02:029][705]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.39.29:523][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/_Mat_PostProcess" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/_Mat_PostProcess.uasset" SILENT=true
+[2021.08.23-14.39.29:529][626]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Mat_PostProcessB46900A34C4FCB466A3B90A4A7139996.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/_Mat_PostProcess.uasset'
+[2021.08.23-14.39.29:531][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Sprite/_Mat_PostProcess" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Sprite/_Mat_PostProcess.uasset" SILENT=true
+[2021.08.23-14.39.29:532][626]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Mat_PostProcess05AA0A2642D9A557EAE64FBA98484737.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Sprite/_Mat_PostProcess.uasset'
+[2021.08.23-14.39.29:602][626]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.39.29:602][626]LogContentValidation: Display: 正在验证Material /Game/KenneyJam2021/Maps/_Mat_PostProcess._Mat_PostProcess
+[2021.08.23-14.39.29:602][626]LogContentValidation: Display: 正在验证ObjectRedirector /Game/KenneyJam2021/Sprite/_Mat_PostProcess._Mat_PostProcess
+[2021.08.23-14.39.37:907][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.39.37:932][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.08.23-14.39.37:970][204]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMapABCDF70B4B9F13FBF78D55AB1246D401.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.39.37:982][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.39.38:117][204]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltData0221EC74440B7350B7BC64B0BABD3E5E.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.39.38:155][204]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.39.38:156][204]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.39.38:156][204]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.40.34:267][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.08.23-14.40.35:156][635]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.40.35:298][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.23-14.40.35:339][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.23-14.40.35:362][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.23-14.41.15:205][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Gift/MasterGift.MasterGift
+[2021.08.23-14.41.17:728][728]LogSlate: Window 'MasterGift' being destroyed
+[2021.08.23-14.41.17:750][728]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.41.17:751][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.41.41:175][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Cake.Cake
+[2021.08.23-14.41.42:872][584]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.41.42:872][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.41.42:939][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Food/Cake.Cake
+[2021.08.23-14.41.52:747][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.08.23-14.41.54:544][366]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.41.59:002][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.08.23-14.42.00:327][672]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.42.02:097][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.08.23-14.42.03:392][790]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.42.04:324][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.08.23-14.42.05:369][844]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.23-14.42.22:821][142]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/KenneyJam2021/Blueprints/Item/ItemData.ItemData
+[2021.08.23-14.42.29:263][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Item/ItemData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/ItemData.uasset" SILENT=true
+[2021.08.23-14.42.29:265][894]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/ItemData248D8692494ED797A14A66BF8897362E.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/ItemData.uasset'
+[2021.08.23-14.42.29:281][894]AssetCheck: New page: 资产保存：ItemData
+[2021.08.23-14.42.29:281][894]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/KenneyJam2021/Blueprints/Item/ItemData.ItemData
+[2021.08.23-14.42.33:101][269]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.42.33:101][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.42.34:295][342]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/MasterItem.MasterItem
+[2021.08.23-14.42.35:836][444]BlueprintLog: New page: 编译MasterItem
+[2021.08.23-14.42.35:981][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.08.23-14.42.36:496][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Item/MasterItem" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/MasterItem.uasset" SILENT=true
+[2021.08.23-14.42.36:504][484]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/MasterItem8B4C9A2845ADA4C16257AA9C14FEA1FB.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Item/MasterItem.uasset'
+[2021.08.23-14.42.36:525][484]AssetCheck: New page: 资产保存：MasterItem
+[2021.08.23-14.42.36:525][484]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Item/MasterItem.MasterItem
+[2021.08.23-14.42.37:449][575]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.42.37:449][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.42.49:492][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Cup/BlackCup.BlackCup
+[2021.08.23-14.42.52:343][573]LogSlate: Window 'BlackCup' being destroyed
+[2021.08.23-14.42.52:369][573]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.42.52:370][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.42.54:676][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Cup/StartCup.StartCup
+[2021.08.23-14.42.57:238][904]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.42.57:238][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.42.58:723][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.42.58:763][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.08.23-14.42.58:800][999]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap3D6E98E14E848E3C3D12EBB47B44C529.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.42.58:811][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.42.58:954][999]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltDataB3F18702409555BAD00814A54E0D1319.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.42.58:976][999]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.42.58:976][999]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.42.58:976][999]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.43.03:958][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KenneyJam2021/Blueprints/Item/Cup/MasterCup.MasterCup
+[2021.08.23-14.43.05:868][503]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.43.05:868][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.43.12:372][ 33]LogTemp: Repeating last play command: 选中的视口
+[2021.08.23-14.43.12:383][ 33]BlueprintLog: New page: 运行前自动重新编译
+[2021.08.23-14.43.12:385][ 33]LogPlayLevel: [PlayLevel] Compiling Magician before play...
+[2021.08.23-14.43.12:435][ 33]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2021.08.23-14.43.12:499][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.08.23-14.43.12:502][ 33]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (2 blueprints)
+[2021.08.23-14.43.12:502][ 33]PIE: New page: PIE会话：StartMap（2021年8月24日 上午6:43:12）
+[2021.08.23-14.43.12:502][ 33]LogPlayLevel: Creating play world package: /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.23-14.43.12:509][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007202s)
+[2021.08.23-14.43.12:510][ 33]LogAIModule: Creating AISystem for world StartMap
+[2021.08.23-14.43.12:511][ 33]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2021.08.23-14.43.12:511][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KenneyJam2021/Maps/StartMap.StartMap to /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap (0.008553s)
+[2021.08.23-14.43.12:532][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.23-14.43.12:532][ 33]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.23-14.43.12:532][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.23-14.43.12:532][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.23-14.43.12:533][ 33]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.23-14.43.12:533][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.23-14.43.12:539][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.23-14.43.12:539][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.08.23-14.43.12:583][ 33]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.08.23-14.43.12:584][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.23-14.43.12:584][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.23-14.43.12:584][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.23-14.43.12:584][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.23-14.43.12:584][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.23-14.43.12:584][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.23-14.43.12:603][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.23-14.43.12:603][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.23-14.43.12:603][ 33]LogInit: FAudioDevice initialized.
+[2021.08.23-14.43.12:603][ 33]LogAudio: Display: Audio Device (ID: 20) registered with world 'StartMap'.
+[2021.08.23-14.43.12:615][ 33]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.23-14.43.12:620][ 33]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2021.08.23-22.43.12
+[2021.08.23-14.43.12:620][ 33]LogWorld: Bringing up level for play took: 0.003548
+[2021.08.23-14.43.12:620][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.08.23-14.43.12:623][ 33]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.23-14.43.12:624][ 33]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.23-14.43.12:624][ 33]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.08.23-14.43.12:624][ 33]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.08.23-14.43.12:624][ 33]PIE: 登陆的服务器
+[2021.08.23-14.43.12:625][ 33]PIE: PIE总开始时间：0.244秒。
+[2021.08.23-14.43.12:627][ 33]LogAudio: Warning: Detected orphaned looping sound 'background_Cue'.
+[2021.08.23-14.43.15:817][320]LogNet: Browse: /Game/KenneyJam2021/Maps/Level1
+[2021.08.23-14.43.15:817][320]LogLoad: LoadMap: /Game/KenneyJam2021/Maps/Level1
+[2021.08.23-14.43.15:817][320]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_StartMap
+[2021.08.23-14.43.15:818][320]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.43.15:819][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.43.15:868][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.23-14.43.15:871][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.08.23-14.43.15:915][320]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2021.08.23-14.43.15:916][320]LogAIModule: Creating AISystem for world Level1
+[2021.08.23-14.43.15:916][320]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.08.23-14.43.15:937][320]LogWorld: Bringing World /Game/KenneyJam2021/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.08.23-22.43.15
+[2021.08.23-14.43.15:938][320]LogWorld: Bringing up level for play took: 0.020966
+[2021.08.23-14.43.15:940][320]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.23-14.43.15:940][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.08.23-14.43.15:941][320]LogLoad: Took 0.123758 seconds to LoadMap(/Game/KenneyJam2021/Maps/Level1)
+[2021.08.23-14.43.16:056][320]LogAudio: Warning: Detected orphaned looping sound 'background_Cue'.
+[2021.08.23-14.43.57:191][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.23-14.43.57:191][ 11]LogWorld: BeginTearingDown for /Game/KenneyJam2021/Maps/UEDPIE_0_Level1
+[2021.08.23-14.43.57:191][ 11]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.43.57:193][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.43.57:203][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.23-14.43.57:215][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.23-14.43.57:235][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.23-14.43.57:235][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.23-14.43.57:236][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.23-14.43.57:265][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.08.23-14.43.57:300][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.08.23-14.43.59:342][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.43.59:370][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.23-14.43.59:416][154]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap421F1B03423EAEC45896119163D59231.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.43.59:428][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.43.59:576][154]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltData6865081F4131A3DCACF495ABE91BA648.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.43.59:599][154]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.43.59:599][154]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.43.59:600][154]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.44.34:917][184]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_musselSheelBrown_4_roughFC17FECD4B4BF088C0B76FAF69778FEC.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Inst_musselSheelBrown_4_rough.uasset'
+[2021.08.23-14.44.34:937][184]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_bowlNPlateBlueGray_2_rough7815200F4755624DA98861AEAFCB784A.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Inst_bowlNPlateBlueGray_2_rough.uasset'
+[2021.08.23-14.44.34:957][184]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_bowlNPlateBlueWhite_2_rougFE716E03406D9B190F1B30A54D8C0855.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Inst_bowlNPlateBlueWhite_2_rough1.uasset'
+[2021.08.23-14.44.34:959][184]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_bowlNPlateBlueWhite_2_roug3FF857F547A137ED0D0C519C096F6CEB.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Sprite/_Inst_bowlNPlateBlueWhite_2_rough1.uasset'
+[2021.08.23-14.44.34:981][184]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/_Inst_bowlNPlategray_2_rough1156223147F0E6C03E0001BAA295E770.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Inst_bowlNPlategray_2_rough.uasset'
+[2021.08.23-14.44.35:077][184]LogUObjectGlobals: Warning: 寻找对象“Object /Game/KenneyJam2021/Sprite/_Inst_musselSheelBrown_4_rough._Inst_musselSheelBrown_4_rough”失败
+[2021.08.23-14.44.35:078][184]LogUObjectGlobals: Warning: 寻找对象“Object /Game/KenneyJam2021/Sprite/_Inst_bowlNPlateBlueGray_2_rough._Inst_bowlNPlateBlueGray_2_rough”失败
+[2021.08.23-14.44.35:078][184]LogUObjectGlobals: Warning: 寻找对象“Object /Game/KenneyJam2021/Sprite/_Inst_bowlNPlategray_2_rough._Inst_bowlNPlategray_2_rough”失败
+[2021.08.23-14.44.35:140][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.08.23-14.44.35:167][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.23-14.44.35:188][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.23-14.44.35:224][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.08.23-14.44.35:245][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.08.23-14.44.35:323][184]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/bottleOil661CE3D146CF1E4043FCA19203649184.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/bottleOil.uasset'
+[2021.08.23-14.44.35:397][184]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.44.35:397][184]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_bowlNPlateBlueWhite_2_rough1._Inst_bowlNPlateBlueWhite_2_rough1
+[2021.08.23-14.44.35:397][184]LogContentValidation: Display: 正在验证StaticMesh /Game/KenneyJam2021/Geometry/Mesh/Kitchen/bottleOil.bottleOil
+[2021.08.23-14.44.35:398][184]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_musselSheelBrown_4_rough._Inst_musselSheelBrown_4_rough
+[2021.08.23-14.44.35:398][184]LogContentValidation: Display: 正在验证ObjectRedirector /Game/KenneyJam2021/Sprite/_Inst_bowlNPlateBlueWhite_2_rough1._Inst_bowlNPlateBlueWhite_2_rough1
+[2021.08.23-14.44.35:398][184]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_bowlNPlategray_2_rough._Inst_bowlNPlategray_2_rough
+[2021.08.23-14.44.35:398][184]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/KenneyJam2021/Geometry/Material/_Inst_bowlNPlateBlueGray_2_rough._Inst_bowlNPlateBlueGray_2_rough
+[2021.08.23-14.44.37:566][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.44.37:598][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.08.23-14.44.37:638][353]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap3947A3434423294D3AE1B5950C3A168B.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.44.37:652][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.44.37:787][353]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltDataD00A51E84D4E6AB2F01CB8A024BAE761.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.44.37:809][353]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.44.37:809][353]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.44.37:809][353]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.44.46:314][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.23-14.44.46:342][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.23-14.44.46:382][ 17]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap6615FC6E4DBAF42749C1B49453DA8703.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap.umap'
+[2021.08.23-14.44.46:395][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.08.23-14.44.46:538][ 17]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/StartMap_BuiltData80632E6843EC72507654758821A4FEC5.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/StartMap_BuiltData.uasset'
+[2021.08.23-14.44.46:566][ 17]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.44.46:566][ 17]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/KenneyJam2021/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.08.23-14.44.46:566][ 17]LogContentValidation: Display: 正在验证World /Game/KenneyJam2021/Maps/StartMap.StartMap
+[2021.08.23-14.44.47:679][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.23-14.44.49:927][106]LogSlate: Window '保存内容' being destroyed
+[2021.08.23-14.44.49:987][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Widget/HUD" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Widget/HUD.uasset" SILENT=true
+[2021.08.23-14.44.50:093][106]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/HUD6411F7864CB7B71AC957D9A843A7071C.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Widget/HUD.uasset'
+[2021.08.23-14.44.50:095][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KenneyJam2021/Blueprints/Magician" FILE="F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Magician.uasset" SILENT=true
+[2021.08.23-14.44.50:255][106]LogSavePackage: Moving 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Saved/Magician9FC55C944A7346F19BA82591264540C1.tmp' to 'F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Blueprints/Magician.uasset'
+[2021.08.23-14.44.50:291][106]LogSlate: Window 'RotatingWitch - 虚幻编辑器' being destroyed
+[2021.08.23-14.44.50:525][106]AssetCheck: New page: 资产保存：多个资产
+[2021.08.23-14.44.50:526][106]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/KenneyJam2021/Widget/HUD.HUD
+[2021.08.23-14.44.50:526][106]LogContentValidation: Display: 正在验证Blueprint /Game/KenneyJam2021/Blueprints/Magician.Magician
+[2021.08.23-14.44.50:530][107]Cmd: QUIT_EDITOR
+[2021.08.23-14.44.50:530][107]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.08.23-14.44.50:534][107]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.08.23-14.44.50:820][107]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.08.23-14.44.50:820][107]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.08.23-14.44.50:820][107]LogAudio: Display: Audio Device unregistered from world 'StartMap'.
+[2021.08.23-14.44.50:820][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.23-14.44.50:821][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.23-14.44.51:002][107]LogAudio: Display: Audio Device Manager Shutdown
+[2021.08.23-14.44.51:006][107]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2021.08.23-14.44.51:013][107]LogExit: Preparing to exit.
+[2021.08.23-14.44.51:193][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3DB00] Windows
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3DA00] Default__DeviceProfile
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0E100] WindowsNoEditor
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3DF00] WindowsServer
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0E400] WindowsClient
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3CE00] IOS
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F300] iPadAir
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3F000] iPadAir2
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8EB00] IPadPro
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8EC00] iPadAir3
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D200] iPadAir4
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8E800] iPadMini2
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3F100] iPadMini3
+[2021.08.23-14.44.51:465][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8D800] iPadMini4
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3EA00] iPadMini5
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC2400] iPhone6
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC2500] iPodTouch6
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0C200] iPhone7
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0C500] iPodTouch7
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC3C00] iPhone5S
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0FB00] iPhone6Plus
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC1600] iPhone6S
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0DE00] iPhone6SPlus
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC0700] iPhone7Plus
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0D100] iPhoneSE
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC3400] iPhone8
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0FC00] iPhone8Plus
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC0500] iPhoneX
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0E800] iPhoneXS
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC3100] iPhoneXSMax
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0D500] iPhoneXR
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC0D00] iPhone11
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F100] iPhone11Pro
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC3200] iPhone11ProMax
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F600] iPhoneSE2
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC3300] iPhone12Mini
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0C100] iPhone12
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC2C00] iPhone12Pro
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0E300] iPhone12ProMax
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3CA00] iPadPro105
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC1800] iPadPro129
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3ED00] iPadPro97
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC0E00] iPadPro2_129
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D900] iPad5
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC2E00] iPad6
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3E500] iPad7
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F200] iPad8
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3C700] iPadPro11
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0FF00] iPadPro2_11
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3F900] iPadPro3_129
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0C300] iPadPro4_129
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3C400] AppleTV
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F400] AppleTV4K
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3E700] TVOS
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F700] Mac
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3DD00] MacClient
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0E700] MacNoEditor
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D600] MacServer
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0DD00] Linux
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3DE00] LinuxAArch64
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0ED00] LinuxNoEditor
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3EB00] LinuxAArch64NoEditor
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0DA00] LinuxClient
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3FF00] LinuxAArch64Client
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0C900] LinuxServer
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3E300] LinuxAArch64Server
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0CF00] Android
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D800] Android_Low
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0EC00] Android_Mid
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3E800] Android_High
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0E900] Android_Default
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3E100] Android_Adreno4xx
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0F000] Android_Adreno5xx_Low
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3E400] Android_Adreno5xx
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0DC00] Android_Adreno6xx
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3FB00] Android_Adreno6xx_Vulkan
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0CB00] Android_Mali_T6xx
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D100] Android_Mali_T7xx
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0FD00] Android_Mali_T8xx
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D500] Android_Mali_G71
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0D300] Android_Mali_G72
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3DC00] Android_Mali_G72_Vulkan
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0D900] Android_Mali_G76
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3CD00] Android_Mali_G76_Vulkan
+[2021.08.23-14.44.51:466][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0D600] Android_Mali_G77
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3C500] Android_Mali_G77_Vulkan
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0EF00] Android_Vulkan_SM5
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F3D000] Android_PowerVR_G6xxx
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95F0C400] Android_PowerVR_GT7xxx
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8DE00] Android_PowerVR_GE8xxx
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC0F00] Android_PowerVR_GM9xxx
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8C800] Android_PowerVR_GM9xxx_Vulkan
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC3600] Android_TegraK1
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8C100] Android_Unknown_Vulkan
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC1300] Lumin
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95E8F200] Lumin_Desktop
+[2021.08.23-14.44.51:467][107]LogDeviceProfile: Device profile begin destroy: [0000017C95EC2D00] HoloLens
+[2021.08.23-14.44.51:489][107]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.44.51:493][107]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.44.51:495][107]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.44.51:497][107]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.44.51:499][107]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.44.51:607][107]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.23-14.44.51:632][107]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.23-14.44.51:633][107]LogExit: Editor shut down
+[2021.08.23-14.44.51:635][107]LogExit: Transaction tracking system shut down
+[2021.08.23-14.44.52:024][107]LogExit: Object subsystem successfully closed.
+[2021.08.23-14.44.52:065][107]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (844)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (842)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module Voice (840)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (838)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module SequencerWidgets (836)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module BlueprintGraph (834)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (832)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module SceneOutliner (830)
+[2021.08.23-14.44.52:242][107]LogModuleManager: Shutting down and abandoning module AddContentDialog (828)
+[2021.08.23-14.44.52:245][107]LogModuleManager: Shutting down and abandoning module WidgetCarousel (827)
+[2021.08.23-14.44.52:245][107]LogModuleManager: Shutting down and abandoning module EditorWidgets (824)
+[2021.08.23-14.44.52:245][107]LogModuleManager: Shutting down and abandoning module StatsViewer (822)
+[2021.08.23-14.44.52:246][107]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (820)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (818)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module AutomationWorker (816)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module SteamVREditor (814)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module OculusMR (812)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (810)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module GooglePADEditor (808)
+[2021.08.23-14.44.52:247][107]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (806)
+[2021.08.23-14.44.52:248][107]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (804)
+[2021.08.23-14.44.52:248][107]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (802)
+[2021.08.23-14.44.52:248][107]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (800)
+[2021.08.23-14.44.52:248][107]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (798)
+[2021.08.23-14.44.52:249][107]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (796)
+[2021.08.23-14.44.52:249][107]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (794)
+[2021.08.23-14.44.52:251][107]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (792)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (788)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (786)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module WebMMedia (784)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (782)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (780)
+[2021.08.23-14.44.52:252][107]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (778)
+[2021.08.23-14.44.52:253][107]LogModuleManager: Shutting down and abandoning module SequenceRecorder (777)
+[2021.08.23-14.44.52:253][107]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (774)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (772)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (770)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (768)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (766)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (764)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (762)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (760)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module TextureAlignMode (758)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module BspMode (756)
+[2021.08.23-14.44.52:254][107]LogModuleManager: Shutting down and abandoning module GeometryMode (754)
+[2021.08.23-14.44.52:255][107]LogModuleManager: Shutting down and abandoning module CharacterAI (752)
+[2021.08.23-14.44.52:255][107]LogModuleManager: Shutting down and abandoning module SmartSnapping (750)
+[2021.08.23-14.44.52:255][107]LogModuleManager: Shutting down and abandoning module SessionServices (748)
+[2021.08.23-14.44.52:255][107]LogModuleManager: Shutting down and abandoning module MeshPaint (746)
+[2021.08.23-14.44.52:256][107]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (744)
+[2021.08.23-14.44.52:256][107]LogModuleManager: Shutting down and abandoning module FoliageEdit (742)
+[2021.08.23-14.44.52:257][107]LogModuleManager: Shutting down and abandoning module LandscapeEditor (740)
+[2021.08.23-14.44.52:258][107]LogModuleManager: Shutting down and abandoning module MeshPaintMode (738)
+[2021.08.23-14.44.52:258][107]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (736)
+[2021.08.23-14.44.52:258][107]LogModuleManager: Shutting down and abandoning module ActorPickerMode (734)
+[2021.08.23-14.44.52:258][107]LogModuleManager: Shutting down and abandoning module PlacementMode (732)
+[2021.08.23-14.44.52:259][107]LogModuleManager: Shutting down and abandoning module ViewportSnapping (730)
+[2021.08.23-14.44.52:259][107]LogModuleManager: Shutting down and abandoning module ViewportInteraction (728)
+[2021.08.23-14.44.52:259][107]LogModuleManager: Shutting down and abandoning module ClothPainter (726)
+[2021.08.23-14.44.52:260][107]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (725)
+[2021.08.23-14.44.52:261][107]LogModuleManager: Shutting down and abandoning module LogVisualizer (722)
+[2021.08.23-14.44.52:262][107]LogModuleManager: Shutting down and abandoning module IntroTutorials (720)
+[2021.08.23-14.44.52:263][107]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (719)
+[2021.08.23-14.44.52:264][107]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (716)
+[2021.08.23-14.44.52:264][107]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (714)
+[2021.08.23-14.44.52:264][107]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (712)
+[2021.08.23-14.44.52:264][107]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (711)
+[2021.08.23-14.44.52:856][107]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (708)
+[2021.08.23-14.44.52:856][107]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (706)
+[2021.08.23-14.44.52:856][107]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (704)
+[2021.08.23-14.44.52:856][107]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (702)
+[2021.08.23-14.44.52:856][107]LogModuleManager: Shutting down and abandoning module TraceInsights (700)
+[2021.08.23-14.44.52:858][107]MemoryProfiler: Shutdown
+[2021.08.23-14.44.52:858][107]NetworkingProfiler: Shutdown
+[2021.08.23-14.44.52:858][107]LoadingProfiler: Shutdown
+[2021.08.23-14.44.52:859][107]TimingProfiler: Shutdown
+[2021.08.23-14.44.52:862][107]LogModuleManager: Shutting down and abandoning module TraceServices (699)
+[2021.08.23-14.44.52:863][107]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (696)
+[2021.08.23-14.44.52:863][107]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (694)
+[2021.08.23-14.44.52:863][107]LogModuleManager: Shutting down and abandoning module InputBindingEditor (692)
+[2021.08.23-14.44.52:863][107]LogModuleManager: Shutting down and abandoning module MergeActors (690)
+[2021.08.23-14.44.52:864][107]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (688)
+[2021.08.23-14.44.52:864][107]LogModuleManager: Shutting down and abandoning module LocalizationService (687)
+[2021.08.23-14.44.52:865][107]LogModuleManager: Shutting down and abandoning module HardwareTargeting (684)
+[2021.08.23-14.44.52:865][107]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (682)
+[2021.08.23-14.44.52:865][107]LogModuleManager: Shutting down and abandoning module UndoHistory (680)
+[2021.08.23-14.44.52:865][107]LogModuleManager: Shutting down and abandoning module XmlParser (678)
+[2021.08.23-14.44.52:865][107]LogModuleManager: Shutting down and abandoning module Blutility (676)
+[2021.08.23-14.44.52:865][107]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (674)
+[2021.08.23-14.44.52:866][107]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (673)
+[2021.08.23-14.44.52:866][107]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (670)
+[2021.08.23-14.44.52:866][107]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (669)
+[2021.08.23-14.44.52:866][107]LogModuleManager: Shutting down and abandoning module SettingsEditor (666)
+[2021.08.23-14.44.52:866][107]LogModuleManager: Shutting down and abandoning module ProjectLauncher (664)
+[2021.08.23-14.44.52:867][107]LogModuleManager: Shutting down and abandoning module SessionFrontend (662)
+[2021.08.23-14.44.52:867][107]LogModuleManager: Shutting down and abandoning module ProfilerClient (660)
+[2021.08.23-14.44.52:867][107]LogModuleManager: Shutting down and abandoning module DeviceManager (658)
+[2021.08.23-14.44.52:868][107]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (657)
+[2021.08.23-14.44.52:901][107]LogModuleManager: Shutting down and abandoning module AutomationController (654)
+[2021.08.23-14.44.52:901][107]LogModuleManager: Shutting down and abandoning module AutomationWindow (652)
+[2021.08.23-14.44.52:902][107]LogModuleManager: Shutting down and abandoning module Layers (650)
+[2021.08.23-14.44.52:904][107]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (648)
+[2021.08.23-14.44.52:904][107]LogModuleManager: Shutting down and abandoning module DetailCustomizations (646)
+[2021.08.23-14.44.52:904][107]LogModuleManager: Shutting down and abandoning module PackagesDialog (644)
+[2021.08.23-14.44.52:904][107]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (642)
+[2021.08.23-14.44.52:905][107]LogModuleManager: Shutting down and abandoning module Persona (640)
+[2021.08.23-14.44.52:907][107]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (639)
+[2021.08.23-14.44.52:907][107]LogModuleManager: Shutting down and abandoning module AnimGraph (637)
+[2021.08.23-14.44.52:907][107]LogModuleManager: Shutting down and abandoning module Kismet (634)
+[2021.08.23-14.44.52:915][107]LogModuleManager: Shutting down and abandoning module KismetWidgets (633)
+[2021.08.23-14.44.52:915][107]LogModuleManager: Shutting down and abandoning module GraphEditor (630)
+[2021.08.23-14.44.52:915][107]LogModuleManager: Shutting down and abandoning module StructViewer (628)
+[2021.08.23-14.44.52:916][107]LogModuleManager: Shutting down and abandoning module ClassViewer (626)
+[2021.08.23-14.44.52:921][107]LogModuleManager: Shutting down and abandoning module Toolbox (624)
+[2021.08.23-14.44.52:922][107]LogModuleManager: Shutting down and abandoning module ModuleUI (622)
+[2021.08.23-14.44.52:922][107]LogModuleManager: Shutting down and abandoning module OutputLog (620)
+[2021.08.23-14.44.52:925][107]LogModuleManager: Shutting down and abandoning module GammaUI (618)
+[2021.08.23-14.44.52:925][107]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2021.08.23-14.44.52:926][107]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (582)
+[2021.08.23-14.44.52:927][107]LogModuleManager: Shutting down and abandoning module ProfilerService (580)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module TaskGraph (578)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (576)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module MegascansPlugin (574)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module OculusEditor (572)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module OculusInput (570)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module DatabaseSupport (568)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module SQLiteSupport (566)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (564)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (562)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (560)
+[2021.08.23-14.44.53:089][107]LogModuleManager: Shutting down and abandoning module CollectionManager (559)
+[2021.08.23-14.44.53:090][107]LogModuleManager: Shutting down and abandoning module SynthesisEditor (556)
+[2021.08.23-14.44.53:090][107]LogModuleManager: Shutting down and abandoning module Synthesis (554)
+[2021.08.23-14.44.53:090][107]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (552)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (550)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (548)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module GooglePAD (546)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module EditableMesh (544)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (542)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module CableComponent (540)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module AudioCapture (538)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (537)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (534)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module AssetTags (532)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (530)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module AppleImageUtils (528)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module AndroidPermission (526)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (524)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (522)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module ScreenshotTools (520)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (518)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (516)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (514)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (512)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (510)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module TemplateSequence (508)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (506)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MotoSynth (504)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MeshConversion (502)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module DynamicMesh (500)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (498)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module GeometricObjects (496)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (494)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (493)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (490)
+[2021.08.23-14.44.53:091][107]LogModuleManager: Shutting down and abandoning module MediaCompositing (488)
+[2021.08.23-14.44.53:092][107]LogModuleManager: Shutting down and abandoning module ImgMedia (486)
+[2021.08.23-14.44.53:092][107]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (484)
+[2021.08.23-14.44.53:092][107]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (482)
+[2021.08.23-14.44.53:092][107]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (480)
+[2021.08.23-14.44.53:092][107]LogModuleManager: Shutting down and abandoning module PluginBrowser (478)
+[2021.08.23-14.44.53:095][107]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (476)
+[2021.08.23-14.44.53:096][107]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (474)
+[2021.08.23-14.44.53:099][107]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2021.08.23-14.44.53:099][107]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (470)
+[2021.08.23-14.44.53:100][107]LogModuleManager: Shutting down and abandoning module CurveEditorTools (468)
+[2021.08.23-14.44.53:100][107]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (466)
+[2021.08.23-14.44.53:100][107]LogModuleManager: Shutting down and abandoning module CryptoKeys (464)
+[2021.08.23-14.44.53:100][107]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (462)
+[2021.08.23-14.44.53:100][107]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (460)
+[2021.08.23-14.44.53:101][107]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (458)
+[2021.08.23-14.44.53:101][107]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (456)
+[2021.08.23-14.44.53:101][107]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (454)
+[2021.08.23-14.44.53:101][107]LogModuleManager: Shutting down and abandoning module ChaosNiagara (452)
+[2021.08.23-14.44.53:101][107]LogModuleManager: Shutting down and abandoning module FractureEditor (450)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (449)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module BackChannel (446)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (444)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module AutomationUtils (442)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module AlembicImporter (440)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module AlembicLibrary (439)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module GeometryCache (438)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (437)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (432)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (430)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module UObjectPlugin (428)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (426)
+[2021.08.23-14.44.53:102][107]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (424)
+[2021.08.23-14.44.53:103][107]LogModuleManager: Shutting down and abandoning module PluginUtils (422)
+[2021.08.23-14.44.53:103][107]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (420)
+[2021.08.23-14.44.53:103][107]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (418)
+[2021.08.23-14.44.53:105][107]LogModuleManager: Shutting down and abandoning module GitSourceControl (416)
+[2021.08.23-14.44.53:106][107]LogModuleManager: Shutting down and abandoning module SourceControl (415)
+[2021.08.23-14.44.53:106][107]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (412)
+[2021.08.23-14.44.53:107][107]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (410)
+[2021.08.23-14.44.53:107][107]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (408)
+[2021.08.23-14.44.53:107][107]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (406)
+[2021.08.23-14.44.53:107][107]LogModuleManager: Shutting down and abandoning module Paper2DEditor (404)
+[2021.08.23-14.44.53:109][107]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2021.08.23-14.44.53:109][107]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module SQLiteCore (396)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module SoundFields (394)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module SignificanceManager (392)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (390)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (388)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (386)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (382)
+[2021.08.23-14.44.53:110][107]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (380)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (378)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (376)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (374)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (372)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (370)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (368)
+[2021.08.23-14.44.53:111][107]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (366)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (364)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (362)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (360)
+[2021.08.23-14.44.53:111][107]LogModuleManager: Shutting down and abandoning module MagicLeapController (358)
+[2021.08.23-14.44.53:111][107]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.08.23-14.44.53:112][107]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (356)
+[2021.08.23-14.44.53:112][107]LogModuleManager: Shutting down and abandoning module MagicLeapAR (354)
+[2021.08.23-14.44.53:112][107]LogModuleManager: Shutting down and abandoning module AugmentedReality (353)
+[2021.08.23-14.44.53:112][107]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.08.23-14.44.53:213][107]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module ActorSequence (346)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (344)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (342)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module Niagara (340)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module SignalProcessing (339)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module NiagaraEditor (337)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module NiagaraCore (334)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module DataValidation (330)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2021.08.23-14.44.53:314][107]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2021.08.23-14.44.53:315][107]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2021.08.23-14.44.53:316][107]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (320)
+[2021.08.23-14.44.53:316][107]LogModuleManager: Shutting down and abandoning module MainFrame (318)
+[2021.08.23-14.44.53:316][107]LogModuleManager: Shutting down and abandoning module HotReload (317)
+[2021.08.23-14.44.53:318][107]LogModuleManager: Shutting down and abandoning module ToolMenus (313)
+[2021.08.23-14.44.53:318][107]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module ContentBrowserData (310)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module TreeMap (307)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (304)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (302)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module Paper2D (298)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2021.08.23-14.44.53:319][107]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (294)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (290)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module PacketHandler (288)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (286)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (284)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module MediaAssets (282)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module Overlay (280)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module OverlayEditor (279)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module VREditor (276)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module StringTableEditor (274)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (272)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (270)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module FunctionalTesting (268)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (266)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (265)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module UMG (262)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module UMGEditor (261)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module MessageLog (259)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module SlateReflector (254)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module Slate (252)
+[2021.08.23-14.44.53:329][107]LogModuleManager: Shutting down and abandoning module SlateCore (250)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (248)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module UnrealEd (246)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module MRMesh (244)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (242)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (240)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module XAudio2 (238)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module Networking (236)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module Core (234)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module MaterialEditor (232)
+[2021.08.23-14.44.53:330][107]LogModuleManager: Shutting down and abandoning module MovieSceneTools (230)
+[2021.08.23-14.44.53:331][107]LogModuleManager: Shutting down and abandoning module CurveEditor (229)
+[2021.08.23-14.44.53:332][107]LogModuleManager: Shutting down and abandoning module Sequencer (227)
+[2021.08.23-14.44.53:332][107]LogModuleManager: Shutting down and abandoning module EditorStyle (226)
+[2021.08.23-14.44.53:336][107]LogModuleManager: Shutting down and abandoning module KismetCompiler (222)
+[2021.08.23-14.44.53:336][107]LogModuleManager: Shutting down and abandoning module MeshBuilder (220)
+[2021.08.23-14.44.53:336][107]LogModuleManager: Shutting down and abandoning module MeshUtilities (218)
+[2021.08.23-14.44.53:336][107]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (217)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (216)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (215)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (213)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (211)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (209)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module MaterialBaking (205)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (200)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (193)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (187)
+[2021.08.23-14.44.53:337][107]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (185)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (183)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (181)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (179)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (177)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (175)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module ImageWrapper (174)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (171)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (169)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (167)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (165)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (163)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (161)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (159)
+[2021.08.23-14.44.53:338][107]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (157)
+[2021.08.23-14.44.53:344][107]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (155)
+[2021.08.23-14.44.53:344][107]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (153)
+[2021.08.23-14.44.53:345][107]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (151)
+[2021.08.23-14.44.53:345][107]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (149)
+[2021.08.23-14.44.53:345][107]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (147)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (145)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (143)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (141)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (139)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (137)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (135)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (133)
+[2021.08.23-14.44.53:350][107]LogModuleManager: Shutting down and abandoning module Messaging (131)
+[2021.08.23-14.44.53:351][107]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2021.08.23-14.44.53:357][107]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2021.08.23-14.44.53:370][107]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (125)
+[2021.08.23-14.44.53:370][107]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2021.08.23-14.44.53:370][107]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2021.08.23-14.44.53:370][107]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2021.08.23-14.44.53:371][107]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2021.08.23-14.44.53:371][107]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2021.08.23-14.44.53:371][107]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2021.08.23-14.44.53:371][107]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2021.08.23-14.44.53:371][107]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2021.08.23-14.44.53:371][107]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2021.08.23-14.44.53:372][107]LogHMD: Freeing OpenVRDLLHandle.
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.08.23-14.44.53:372][107]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.08.23-14.44.53:374][107]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.08.23-14.44.53:374][107]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.08.23-14.44.53:381][107]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.08.23-14.44.53:382][107]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.08.23-14.44.53:382][107]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3436C91B-4029-53F0-F75C-93A2E999C34E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b4a2d9d04a774351c8e593921a557d85%7Cd2c10a3fc4e947b186b4e0915656b714%7C27c8a6c6-2c7e-4d6c-802e-dc2edbebcbc3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.08.23-14.44.53:382][107]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.08.23-14.44.53:416][107]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.08.23-14.44.53:419][107]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2021.08.23-14.44.53:419][107]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2021.08.23-14.44.53:419][107]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2021.08.23-14.44.53:422][107]LogModuleManager: Shutting down and abandoning module Media (69)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.08.23-14.44.53:424][107]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.08.23-14.44.53:424][107]LogXGEController: Cleaning working directory: C:/Users/Nickel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.08.23-14.44.53:425][107]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.08.23-14.44.53:425][107]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.08.23-14.44.53:425][107]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.08.23-14.44.53:426][107]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.08.23-14.44.53:426][107]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.08.23-14.44.53:426][107]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.08.23-14.44.53:427][107]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.08.23-14.44.53:433][107]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.08.23-14.44.53:434][107]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.08.23-14.44.53:445][107]LogD3D11RHI: Shutdown
+[2021.08.23-14.44.53:445][107]LogD3D11RHI: CleanupD3DDevice
+[2021.08.23-14.44.53:467][107]LogExit: Exiting.
+[2021.08.23-14.44.53:493][107]Log file closed, 08/23/21 22:44:53
