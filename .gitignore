@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+RotatingWitch/Saved/StagedBuilds/WindowsNoEditor/RotatingWitch/Content/Paks/RotatingWitch-WindowsNoEditor.pak
+WindowsNoEditor/RotatingWitch.zip
+WindowsNoEditor/RotatingWitch/Content/Paks/RotatingWitch-WindowsNoEditor.pak
