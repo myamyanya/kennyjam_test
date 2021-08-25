@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-02-20T0
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-02-20T02:25:04.925Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-02-20T02:25:06.540Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-02-20T02:25:47.426Z
-RotatingWitch.exe	2021-08-25T06:44:19.291Z
+RotatingWitch.exe	2021-08-25T11:57:27.279Z

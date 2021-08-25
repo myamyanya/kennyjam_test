@@ -1739,8 +1739,6 @@ Windows.Input:/Script/Engine.InputSettings:ActionMappings:1=(ActionName="MainMen
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:2=(ActionName="MainMenu",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Delete)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveRight",Scale=-1.000000,Key=A)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveRight",Scale=1.000000,Key=D)
-Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveForward",Scale=-1.000000,Key=W)
-Windows.Input:/Script/Engine.InputSettings:AxisMappings:3=(AxisName="MoveForward",Scale=1.000000,Key=S)
 Windows.Input:/Script/Engine.InputSettings:DefaultPlayerInputClass:0=/Script/Engine.PlayerInput
 Windows.Input:/Script/Engine.InputSettings:DefaultInputComponentClass:0=/Script/Engine.InputComponent
 Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
