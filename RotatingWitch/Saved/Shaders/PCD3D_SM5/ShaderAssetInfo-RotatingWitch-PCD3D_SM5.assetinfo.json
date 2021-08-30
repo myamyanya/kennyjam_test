@@ -220,50 +220,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
-			"Assets": [
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Mat_SingleColor.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9F2A095B4063BFCDA0EA474BE10FD49CE15DD5EA",
-			"Assets": [
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_leafGreenLite_6_rough1.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_blueGreenMid_4_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreenDark_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_springOnionGreenDark_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_greenMid_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_leafGreenLite_6_rough1.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_greenLite_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_pearYellow_6_rough.uasset",
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_springOnionGreen_6_rough.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "ED086C120DBE2EAE35AC0C562617E8ABF2ACA440",
-			"Assets": [
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Mat_metal_doubleside.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E932F11163617C99E4A55994787FFB8E85240FC0",
-			"Assets": [
-				"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "C3035DACCE992AF094F6B1A7213308440E4EB4F1",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "582646372B374BE9C432E0C5FB84C70977E783DB",
-			"Assets": [
-				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/Light/_Mat_PostProcess.uasset"
 			]
 		},
 		{
@@ -273,9 +232,50 @@
 			]
 		},
 		{
+			"ShaderMapHash": "582646372B374BE9C432E0C5FB84C70977E783DB",
+			"Assets": [
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Maps/Light/_Mat_PostProcess.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"Assets": [
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Mat_SingleColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F2A095B4063BFCDA0EA474BE10FD49CE15DD5EA",
+			"Assets": [
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_blueGreenMid_4_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreenDark_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_springOnionGreen_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_springOnionGreenDark_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_greenLite_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_greenMid_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_leafGreenLite_6_rough1.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_leafGreenLite_6_rough1.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_greenLite_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_greenMid_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/Kitchen/_material/_Inst_springOnionGreen_6_rough.uasset",
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Mesh/FoodKit/_material/_Inst_pearYellow_6_rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ED086C120DBE2EAE35AC0C562617E8ABF2ACA440",
+			"Assets": [
+				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_Mat_metal_doubleside.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "13517E735635BEBD9101B044C1291E393E91789F",
 			"Assets": [
 				"F:/Unreal Projects/kennyjam_test/RotatingWitch/Content/KenneyJam2021/Geometry/Material/_MAT_emissive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E932F11163617C99E4A55994787FFB8E85240FC0",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset"
 			]
 		},
 		{
